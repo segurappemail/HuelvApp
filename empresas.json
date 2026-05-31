@@ -1,0 +1,43 @@
+{
+  "version": "2026.06.01",
+  "actualizado": "2026-06-01T10:00:00",
+  "_comentario": "Lista de empresas colaboradoras. Edita y sube a GitHub. La app la descarga sola cada 6-12h. Solo aparecen las empresas que esten en este archivo (espacio de pago).",
+
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Jamones Eíriz Jabugo",
+      "tipo": "PRODUCTOR",
+      "descripcion": "Empresa familiar con 200 años de tradición. Visitas guiadas con cata de jamón y vinos del Condado.",
+      "municipio": "Corteconcepción",
+      "comarca": "SIERRA",
+      "direccion": "Corteconcepción, Huelva",
+      "latitud": 37.9000,
+      "longitud": -6.5800,
+      "productos": "Jamón,Embutidos,Lomo",
+      "categoriaProducto": "JAMON",
+      "telefono": "959000000",
+      "web": "https://www.rutadeljamondejabugo.com",
+      "horario": "Lun-Sab 10-18h",
+      "ventaOnline": true,
+      "admiteVisitas": true,
+      "tieneDOP": true
+    },
+    {
+      "id": 2,
+      "nombre": "Bodegas Díaz",
+      "tipo": "BODEGA",
+      "descripcion": "Vinos del Condado de Huelva con uva Zalema. Catas y visitas a la bodega.",
+      "municipio": "Bollullos Par del Condado",
+      "comarca": "CONDADO",
+      "latitud": 37.3392,
+      "longitud": -6.5394,
+      "productos": "Vino blanco,Vino naranja",
+      "categoriaProducto": "VINO",
+      "web": "https://example.com",
+      "ventaOnline": true,
+      "admiteVisitas": true,
+      "tieneDOP": true
+    }
+  ]
+}

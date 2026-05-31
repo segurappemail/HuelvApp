@@ -1,0 +1,38 @@
+{
+  "version": "2026.06.01",
+  "actualizado": "2026-06-01T10:00:00",
+  "_comentario": "Cupones de descuento. Edita y sube a GitHub. La app solo muestra los VIGENTES (entre valido_desde y valido_hasta). Los caducados se ocultan solos. El campo empresaId enlaza con el id de empresas.json.",
+
+  "cupones": [
+    {
+      "id": "eiriz-visita-2026",
+      "empresaId": 1,
+      "empresa": "Jamones Eíriz Jabugo",
+      "titulo": "Visita guiada con cata",
+      "descuento": "10%",
+      "descripcion": "10% de descuento en la visita guiada con cata de jamón y vinos.",
+      "codigo": "HUELVAPP10",
+      "valido_desde": "2026-06-01",
+      "valido_hasta": "2026-08-31",
+      "condiciones": "Presentar el cupón en taquilla. No acumulable a otras ofertas. Reserva previa recomendada.",
+      "canje": "fisico",
+      "municipio": "Corteconcepción",
+      "categoria": "JAMON"
+    },
+    {
+      "id": "diaz-cata-2026",
+      "empresaId": 2,
+      "empresa": "Bodegas Díaz",
+      "titulo": "2x1 en cata de vinos",
+      "descuento": "2x1",
+      "descripcion": "Dos catas de vino del Condado al precio de una.",
+      "codigo": "",
+      "valido_desde": "2026-06-15",
+      "valido_hasta": "2026-09-30",
+      "condiciones": "Válido de martes a jueves. Mayores de 18 años. Presentar en bodega.",
+      "canje": "fisico",
+      "municipio": "Bollullos Par del Condado",
+      "categoria": "VINO"
+    }
+  ]
+}
