@@ -52,10 +52,11 @@
    "nombre": "Atún rojo de almadraba",
    "tipo": "PESCADO",
    "origen": "COSTA",
-   "descripcion": "Atún rojo capturado con técnica tradicional de almadraba en aguas onubenses. Carne intensamente roja y sabor potente.",
-   "temporada": "Mayo-junio",
-   "comoConsumir": "En sashimi, tartar, encebollado o a la plancha. Cada parte (lomo, ventresca, mojama, hueva) tiene uso distinto.",
-   "curiosidades": "La almadraba es una técnica milenaria de pesca con redes en laberinto. Isla Cristina conserva la tradición.",
+   "descripcion": "Atún rojo capturado con la milenaria técnica de la almadraba.",
+   "temporada": "Primavera",
+   "comoConsumir": "Sashimi, tartar, mojama o a la plancha.",
+   "denominacionOrigen": "Isla Cristina",
+   "curiosidades": "Almadraba isleña con tradición milenaria.",
    "icono": "🐟"
   },
   {
@@ -395,7 +396,8 @@
    "comoConsumir": "Fresco como bebida festiva o para acompañar tapas.",
    "denominacionOrigen": "DOP Condado de Huelva",
    "curiosidades": "Marca la transición del año vinícola. Se celebra con fiestas locales.",
-   "icono": "🍷"
+   "icono": "🍷",
+   "recetaRelacionadaId": 752
   },
   {
    "id": 36,
@@ -436,13 +438,14 @@
   {
    "id": 39,
    "nombre": "Vinagre del Condado",
-   "tipo": "VINO",
+   "tipo": "ACEITE",
    "origen": "CONDADO",
-   "descripcion": "Vinagre de vino de calidad superior elaborado en bodegas tradicionales del Condado.",
+   "descripcion": "Vinagre con DOP del Condado de Huelva. Crianza tradicional en botas.",
    "temporada": "Todo el año",
-   "comoConsumir": "Para aliños, vinagretas y conservas.",
-   "denominacionOrigen": "DOP Condado de Huelva",
-   "curiosidades": "Comparte el sistema de criaderas y soleras con los vinos del Condado.",
+   "comoConsumir": "En ensaladas, escabeches y reducciones.",
+   "denominacionOrigen": "DOP Vinagre Condado",
+   "curiosidades": "Sistema de crianza idéntico al de los vinos generosos.",
+   "recetaRelacionadaId": 752,
    "icono": "🍶"
   },
   {
@@ -507,10 +510,11 @@
    "nombre": "Queso de oveja merina",
    "tipo": "QUESO",
    "origen": "SIERRA",
-   "descripcion": "Queso elaborado con leche de oveja merina de raza autóctona serrana.",
+   "descripcion": "Queso de oveja con leche cruda de raza merina. Sabor potente y profundo.",
    "temporada": "Todo el año",
-   "comoConsumir": "Tabla de quesos, con membrillo o miel, en ensaladas.",
-   "curiosidades": "La merina serrana es una raza local en recuperación. Su leche da quesos únicos.",
+   "comoConsumir": "En tabla con membrillo o miel serrana.",
+   "curiosidades": "Heredero de la tradición ganadera trashumante.",
+   "recetaRelacionadaId": 1192,
    "icono": "🧀"
   },
   {
@@ -756,17 +760,6 @@
   },
   {
    "id": 66,
-   "nombre": "Acedías",
-   "tipo": "PESCADO",
-   "origen": "COSTA",
-   "descripcion": "Pequeños lenguados del Golfo de Cádiz. Carne fina y suave.",
-   "temporada": "Otoño-Invierno",
-   "comoConsumir": "Frita con harina o al horno.",
-   "curiosidades": "Pescado típico de los puertos costeros onubenses.",
-   "icono": "🐟"
-  },
-  {
-   "id": 67,
    "nombre": "Pijotas",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -777,7 +770,7 @@
    "icono": "🐟"
   },
   {
-   "id": 68,
+   "id": 67,
    "nombre": "Pulpo a la brasa",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -788,18 +781,19 @@
    "icono": "🐙"
   },
   {
-   "id": 69,
+   "id": 68,
    "nombre": "Cazón en adobo",
    "tipo": "PESCADO",
    "origen": "COSTA",
-   "descripcion": "Cazón marinado en adobo de pimentón, ajo, comino y vinagre, luego frito.",
-   "temporada": "Verano",
-   "comoConsumir": "Recién frito, calentito.",
-   "curiosidades": "Tapa típica de los bares costeros onubenses.",
-   "icono": "🍽️"
+   "descripcion": "Pescado azul mediterráneo en adobo tradicional.",
+   "temporada": "Todo el año",
+   "comoConsumir": "Tapa frita con limón.",
+   "denominacionOrigen": "Costa onubense",
+   "curiosidades": "Tapa tradicional gaditana-onubense.",
+   "icono": "🐟"
   },
   {
-   "id": 70,
+   "id": 69,
    "nombre": "Caballa en escabeche",
    "tipo": "CONSERVA",
    "origen": "COSTA",
@@ -810,7 +804,7 @@
    "icono": "🐟"
   },
   {
-   "id": 71,
+   "id": 70,
    "nombre": "Queso de cabra serrano curado",
    "tipo": "QUESO",
    "origen": "SIERRA",
@@ -822,19 +816,7 @@
    "icono": "🧀"
   },
   {
-   "id": 72,
-   "nombre": "Queso de oveja merina",
-   "tipo": "QUESO",
-   "origen": "SIERRA",
-   "descripcion": "Queso de oveja con leche cruda de raza merina. Sabor potente y profundo.",
-   "temporada": "Todo el año",
-   "comoConsumir": "En tabla con membrillo o miel serrana.",
-   "curiosidades": "Heredero de la tradición ganadera trashumante.",
-   "recetaRelacionadaId": 1192,
-   "icono": "🧀"
-  },
-  {
-   "id": 73,
+   "id": 71,
    "nombre": "Queso fresco artesanal",
    "tipo": "QUESO",
    "origen": "GENERAL",
@@ -845,7 +827,7 @@
    "icono": "🧀"
   },
   {
-   "id": 74,
+   "id": 72,
    "nombre": "Queso curado en aceite",
    "tipo": "QUESO",
    "origen": "SIERRA",
@@ -856,7 +838,7 @@
    "icono": "🫙"
   },
   {
-   "id": 75,
+   "id": 73,
    "nombre": "Requesón serrano",
    "tipo": "QUESO",
    "origen": "SIERRA",
@@ -867,7 +849,7 @@
    "icono": "🥛"
   },
   {
-   "id": 76,
+   "id": 74,
    "nombre": "Aceite virgen extra Sierra de Aracena",
    "tipo": "ACEITE",
    "origen": "SIERRA",
@@ -879,7 +861,7 @@
    "icono": "🫒"
   },
   {
-   "id": 77,
+   "id": 75,
    "nombre": "Aceite virgen extra Aroche",
    "tipo": "ACEITE",
    "origen": "SIERRA",
@@ -891,20 +873,7 @@
    "icono": "🫒"
   },
   {
-   "id": 78,
-   "nombre": "Vinagre del Condado",
-   "tipo": "ACEITE",
-   "origen": "CONDADO",
-   "descripcion": "Vinagre con DOP del Condado de Huelva. Crianza tradicional en botas.",
-   "temporada": "Todo el año",
-   "comoConsumir": "En ensaladas, escabeches y reducciones.",
-   "denominacionOrigen": "DOP Vinagre Condado",
-   "curiosidades": "Sistema de crianza idéntico al de los vinos generosos.",
-   "recetaRelacionadaId": 752,
-   "icono": "🍶"
-  },
-  {
-   "id": 79,
+   "id": 76,
    "nombre": "Sal de las Salinas del Odiel",
    "tipo": "CONDIMENTO",
    "origen": "COSTA",
@@ -916,7 +885,7 @@
    "icono": "🧂"
   },
   {
-   "id": 80,
+   "id": 77,
    "nombre": "Pimentón serrano",
    "tipo": "CONDIMENTO",
    "origen": "SIERRA",
@@ -927,7 +896,7 @@
    "icono": "🌶️"
   },
   {
-   "id": 81,
+   "id": 78,
    "nombre": "Miel multifloral serrana",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -936,10 +905,11 @@
    "comoConsumir": "En crudo con yogur, queso fresco o tostadas.",
    "curiosidades": "Tradición apícola serrana de la dehesa.",
    "recetaRelacionadaId": 1193,
-   "icono": "🍯"
+   "icono": "🍯",
+   "denominacionOrigen": "Sierra de Aracena"
   },
   {
-   "id": 82,
+   "id": 79,
    "nombre": "Miel de castaño",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -951,7 +921,7 @@
    "icono": "🌰"
   },
   {
-   "id": 83,
+   "id": 80,
    "nombre": "Mermelada de naranja amarga",
    "tipo": "DULCE",
    "origen": "GENERAL",
@@ -962,7 +932,7 @@
    "icono": "🍊"
   },
   {
-   "id": 84,
+   "id": 81,
    "nombre": "Mermelada de membrillo",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -973,7 +943,7 @@
    "icono": "🍯"
   },
   {
-   "id": 85,
+   "id": 82,
    "nombre": "Mermelada de fresas (Huelva)",
    "tipo": "DULCE",
    "origen": "COSTA",
@@ -984,7 +954,7 @@
    "icono": "🍓"
   },
   {
-   "id": 86,
+   "id": 83,
    "nombre": "Castañas en almíbar",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -995,7 +965,7 @@
    "icono": "🌰"
   },
   {
-   "id": 87,
+   "id": 84,
    "nombre": "Higos secos",
    "tipo": "DULCE",
    "origen": "GENERAL",
@@ -1006,7 +976,7 @@
    "icono": "🥥"
   },
   {
-   "id": 88,
+   "id": 85,
    "nombre": "Sultanas",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1018,7 +988,7 @@
    "icono": "🍪"
   },
   {
-   "id": 89,
+   "id": 86,
    "nombre": "Mostachones",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1030,7 +1000,7 @@
    "icono": "🍪"
   },
   {
-   "id": 90,
+   "id": 87,
    "nombre": "Polvorones serranos",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1039,10 +1009,11 @@
    "comoConsumir": "Con anís o café.",
    "curiosidades": "Tradición navideña serrana con variantes locales únicas.",
    "recetaRelacionadaId": 1189,
-   "icono": "🥮"
+   "icono": "🥮",
+   "denominacionOrigen": "Sierra de Aracena"
   },
   {
-   "id": 91,
+   "id": 88,
    "nombre": "Condado Pálido (vino)",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1055,7 +1026,7 @@
    "icono": "🍷"
   },
   {
-   "id": 92,
+   "id": 89,
    "nombre": "Condado Viejo (vino)",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1068,7 +1039,7 @@
    "icono": "🍷"
   },
   {
-   "id": 93,
+   "id": 90,
    "nombre": "Vino joven del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1081,19 +1052,7 @@
    "icono": "🍷"
   },
   {
-   "id": 94,
-   "nombre": "Mosto del Condado",
-   "tipo": "VINO",
-   "origen": "CONDADO",
-   "descripcion": "Mosto fresco del Condado, sin fermentar. Bebida tradicional vinatera.",
-   "temporada": "Vendimia (septiembre)",
-   "comoConsumir": "En bodegas tradicionales tras la vendimia.",
-   "curiosidades": "Tradición pisada tradicional de Bollullos y La Palma.",
-   "recetaRelacionadaId": 752,
-   "icono": "🍇"
-  },
-  {
-   "id": 95,
+   "id": 91,
    "nombre": "Brandy del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1104,7 +1063,7 @@
    "icono": "🥃"
   },
   {
-   "id": 96,
+   "id": 92,
    "nombre": "Fresa de Huelva",
    "tipo": "FRUTA",
    "origen": "COSTA",
@@ -1117,7 +1076,7 @@
    "icono": "🍓"
   },
   {
-   "id": 97,
+   "id": 93,
    "nombre": "Frambuesa de Huelva",
    "tipo": "FRUTA",
    "origen": "COSTA",
@@ -1126,10 +1085,11 @@
    "comoConsumir": "En postres y mermeladas.",
    "curiosidades": "Frutos rojos crecientes en la economía agraria onubense.",
    "recetaRelacionadaId": 832,
-   "icono": "🫐"
+   "icono": "🫐",
+   "denominacionOrigen": "Costa onubense"
   },
   {
-   "id": 98,
+   "id": 94,
    "nombre": "Arándano de Huelva",
    "tipo": "FRUTA",
    "origen": "COSTA",
@@ -1138,10 +1098,11 @@
    "comoConsumir": "Frescos con yogur o en batidos.",
    "curiosidades": "Cultivo más reciente entre los frutos rojos onubenses.",
    "recetaRelacionadaId": 832,
-   "icono": "🫐"
+   "icono": "🫐",
+   "denominacionOrigen": "Costa onubense"
   },
   {
-   "id": 99,
+   "id": 95,
    "nombre": "Mora de Huelva",
    "tipo": "FRUTA",
    "origen": "COSTA",
@@ -1153,7 +1114,7 @@
    "icono": "🍇"
   },
   {
-   "id": 100,
+   "id": 96,
    "nombre": "Cítricos del Condado",
    "tipo": "FRUTA",
    "origen": "CONDADO",
@@ -1164,7 +1125,7 @@
    "icono": "🍊"
   },
   {
-   "id": 101,
+   "id": 97,
    "nombre": "Morcón ibérico de Cumbres",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1176,7 +1137,7 @@
    "icono": "🌭"
   },
   {
-   "id": 102,
+   "id": 98,
    "nombre": "Salchichón ibérico serrano",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1188,7 +1149,7 @@
    "icono": "🌭"
   },
   {
-   "id": 103,
+   "id": 99,
    "nombre": "Chorizo ibérico de bellota",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1200,7 +1161,7 @@
    "icono": "🌶️"
   },
   {
-   "id": 104,
+   "id": 100,
    "nombre": "Morcilla de Aracena",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1212,7 +1173,7 @@
    "icono": "🩸"
   },
   {
-   "id": 105,
+   "id": 101,
    "nombre": "Lomo embuchado de Jabugo",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1224,19 +1185,7 @@
    "icono": "🐷"
   },
   {
-   "id": 106,
-   "nombre": "Caña de lomo ibérico",
-   "tipo": "EMBUTIDO",
-   "origen": "SIERRA",
-   "descripcion": "Caña de lomo de cerdo ibérico curada lentamente.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Loncheado para tapas.",
-   "denominacionOrigen": "Sierra de Aracena",
-   "curiosidades": "Embutido artesanal serrano de larga curación.",
-   "icono": "🐷"
-  },
-  {
-   "id": 107,
+   "id": 102,
    "nombre": "Sobrasada serrana",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1248,7 +1197,7 @@
    "icono": "🌶️"
   },
   {
-   "id": 108,
+   "id": 103,
    "nombre": "Sangre encebollada",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1260,19 +1209,7 @@
    "icono": "🍲"
   },
   {
-   "id": 109,
-   "nombre": "Atún rojo de almadraba",
-   "tipo": "PESCADO",
-   "origen": "COSTA",
-   "descripcion": "Atún rojo capturado con la milenaria técnica de la almadraba.",
-   "temporada": "Primavera",
-   "comoConsumir": "Sashimi, tartar, mojama o a la plancha.",
-   "denominacionOrigen": "Isla Cristina",
-   "curiosidades": "Almadraba isleña con tradición milenaria.",
-   "icono": "🐟"
-  },
-  {
-   "id": 110,
+   "id": 104,
    "nombre": "Mojama de Isla Cristina",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1284,7 +1221,7 @@
    "icono": "🐟"
   },
   {
-   "id": 111,
+   "id": 105,
    "nombre": "Hueva de atún",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1296,7 +1233,7 @@
    "icono": "🐟"
   },
   {
-   "id": 112,
+   "id": 106,
    "nombre": "Choco fresco onubense",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1308,19 +1245,7 @@
    "icono": "🦑"
   },
   {
-   "id": 113,
-   "nombre": "Gamba blanca de Huelva",
-   "tipo": "PESCADO",
-   "origen": "COSTA",
-   "descripcion": "Gamba blanca capturada en aguas del Golfo de Cádiz onubense.",
-   "temporada": "Todo el año",
-   "comoConsumir": "A la plancha o cocida.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "Producto gourmet de las lonjas onubenses.",
-   "icono": "🦐"
-  },
-  {
-   "id": 114,
+   "id": 107,
    "nombre": "Langostino de Huelva",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1332,7 +1257,7 @@
    "icono": "🦐"
   },
   {
-   "id": 115,
+   "id": 108,
    "nombre": "Acedías fritas",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1344,7 +1269,7 @@
    "icono": "🐟"
   },
   {
-   "id": 116,
+   "id": 109,
    "nombre": "Coquinas de la playa",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1356,7 +1281,7 @@
    "icono": "🐚"
   },
   {
-   "id": 117,
+   "id": 110,
    "nombre": "Camarón onubense",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1368,7 +1293,7 @@
    "icono": "🦐"
   },
   {
-   "id": 118,
+   "id": 111,
    "nombre": "Bogavante de Huelva",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1380,7 +1305,7 @@
    "icono": "🦞"
   },
   {
-   "id": 119,
+   "id": 112,
    "nombre": "Sardinas frescas",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1392,7 +1317,7 @@
    "icono": "🐟"
   },
   {
-   "id": 120,
+   "id": 113,
    "nombre": "Boquerón onubense",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1404,19 +1329,7 @@
    "icono": "🐟"
   },
   {
-   "id": 121,
-   "nombre": "Cazón en adobo",
-   "tipo": "PESCADO",
-   "origen": "COSTA",
-   "descripcion": "Pescado azul mediterráneo en adobo tradicional.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Tapa frita con limón.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "Tapa tradicional gaditana-onubense.",
-   "icono": "🐟"
-  },
-  {
-   "id": 122,
+   "id": 114,
    "nombre": "Carabineros",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1428,7 +1341,7 @@
    "icono": "🦐"
   },
   {
-   "id": 123,
+   "id": 115,
    "nombre": "Aceite del Condado",
    "tipo": "ACEITE",
    "origen": "CONDADO",
@@ -1440,7 +1353,7 @@
    "icono": "🫒"
   },
   {
-   "id": 124,
+   "id": 116,
    "nombre": "Aceitunas Manzanilla del Condado",
    "tipo": "ACEITE",
    "origen": "CONDADO",
@@ -1452,7 +1365,7 @@
    "icono": "🫒"
   },
   {
-   "id": 125,
+   "id": 117,
    "nombre": "Aceite serrano",
    "tipo": "ACEITE",
    "origen": "SIERRA",
@@ -1464,31 +1377,7 @@
    "icono": "🫒"
   },
   {
-   "id": 126,
-   "nombre": "Miel multifloral serrana",
-   "tipo": "MIEL",
-   "origen": "SIERRA",
-   "descripcion": "Miel artesanal de la Sierra de Aracena. Multifloral de monte mediterráneo.",
-   "temporada": "Todo el año",
-   "comoConsumir": "En tostadas, infusiones y postres.",
-   "denominacionOrigen": "Sierra de Aracena",
-   "curiosidades": "Apicultura tradicional serrana protegida.",
-   "icono": "🍯"
-  },
-  {
-   "id": 127,
-   "nombre": "Miel de eucalipto",
-   "tipo": "MIEL",
-   "origen": "COSTA",
-   "descripcion": "Miel oscura procedente del polen de eucaliptos costeros.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Sabor intenso, ideal para afecciones respiratorias.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "Apicultura tradicional costera onubense.",
-   "icono": "🍯"
-  },
-  {
-   "id": 128,
+   "id": 118,
    "nombre": "Miel de romero",
    "tipo": "MIEL",
    "origen": "SIERRA",
@@ -1500,7 +1389,7 @@
    "icono": "🍯"
   },
   {
-   "id": 129,
+   "id": 119,
    "nombre": "Polen de Doñana",
    "tipo": "MIEL",
    "origen": "DONANA",
@@ -1512,7 +1401,7 @@
    "icono": "🌼"
   },
   {
-   "id": 130,
+   "id": 120,
    "nombre": "Jalea real serrana",
    "tipo": "MIEL",
    "origen": "SIERRA",
@@ -1524,7 +1413,7 @@
    "icono": "🍯"
   },
   {
-   "id": 131,
+   "id": 121,
    "nombre": "Vino Blanco del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1536,19 +1425,7 @@
    "icono": "🍷"
   },
   {
-   "id": 132,
-   "nombre": "Mosto del Condado",
-   "tipo": "VINO",
-   "origen": "CONDADO",
-   "descripcion": "Vino joven sin fermentar completamente. Tradición noviembre.",
-   "temporada": "Otoño",
-   "comoConsumir": "Fresco con aperitivos.",
-   "denominacionOrigen": "La Palma del Condado",
-   "curiosidades": "Tradición secular del Condado.",
-   "icono": "🍇"
-  },
-  {
-   "id": 133,
+   "id": 122,
    "nombre": "Vino Naranja del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1560,7 +1437,7 @@
    "icono": "🍊"
   },
   {
-   "id": 134,
+   "id": 123,
    "nombre": "Oloroso del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1572,19 +1449,7 @@
    "icono": "🍷"
   },
   {
-   "id": 135,
-   "nombre": "Pedro Ximénez Condado",
-   "tipo": "VINO",
-   "origen": "CONDADO",
-   "descripcion": "Vino dulce de uvas pasificadas al sol. Color caoba intenso.",
-   "temporada": "Postres",
-   "comoConsumir": "Con quesos curados o postres.",
-   "denominacionOrigen": "Condado",
-   "curiosidades": "Tradición vinatera dulce.",
-   "icono": "🍷"
-  },
-  {
-   "id": 136,
+   "id": 124,
    "nombre": "Pajarete serrano",
    "tipo": "VINO",
    "origen": "SIERRA",
@@ -1596,7 +1461,7 @@
    "icono": "🍷"
   },
   {
-   "id": 137,
+   "id": 125,
    "nombre": "Aguardiente de orujo onubense",
    "tipo": "BEBIDA",
    "origen": "CONDADO",
@@ -1608,7 +1473,7 @@
    "icono": "🥃"
   },
   {
-   "id": 138,
+   "id": 126,
    "nombre": "Licor de bellota serrano",
    "tipo": "BEBIDA",
    "origen": "SIERRA",
@@ -1620,7 +1485,7 @@
    "icono": "🥃"
   },
   {
-   "id": 139,
+   "id": 127,
    "nombre": "Licor de madroño",
    "tipo": "BEBIDA",
    "origen": "SIERRA",
@@ -1632,7 +1497,7 @@
    "icono": "🥃"
   },
   {
-   "id": 140,
+   "id": 128,
    "nombre": "Licor de hierbas serranas",
    "tipo": "BEBIDA",
    "origen": "SIERRA",
@@ -1644,7 +1509,7 @@
    "icono": "🌿"
   },
   {
-   "id": 141,
+   "id": 129,
    "nombre": "Garapiña de Aracena",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1656,7 +1521,7 @@
    "icono": "🍯"
   },
   {
-   "id": 142,
+   "id": 130,
    "nombre": "Roscos de vino",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -1668,7 +1533,7 @@
    "icono": "🍪"
   },
   {
-   "id": 143,
+   "id": 131,
    "nombre": "Mantecados de almendra",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1680,19 +1545,7 @@
    "icono": "🍪"
   },
   {
-   "id": 144,
-   "nombre": "Polvorones serranos",
-   "tipo": "DULCE",
-   "origen": "SIERRA",
-   "descripcion": "Polvorones tradicionales con manteca ibérica.",
-   "temporada": "Navidad",
-   "comoConsumir": "Postre navideño.",
-   "denominacionOrigen": "Sierra de Aracena",
-   "curiosidades": "Producto navideño emblemático.",
-   "icono": "🍪"
-  },
-  {
-   "id": 145,
+   "id": 132,
    "nombre": "Hornazo de Pascua",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -1704,7 +1557,7 @@
    "icono": "🥖"
   },
   {
-   "id": 146,
+   "id": 133,
    "nombre": "Calbote serrano",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1716,7 +1569,7 @@
    "icono": "🌰"
   },
   {
-   "id": 147,
+   "id": 134,
    "nombre": "Membrillo serrano",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -1728,7 +1581,7 @@
    "icono": "🍐"
   },
   {
-   "id": 148,
+   "id": 135,
    "nombre": "Sal marina de las Salinas",
    "tipo": "OTRO",
    "origen": "COSTA",
@@ -1740,7 +1593,7 @@
    "icono": "🧂"
   },
   {
-   "id": 149,
+   "id": 136,
    "nombre": "Café choquero",
    "tipo": "BEBIDA",
    "origen": "PROVINCIA",
@@ -1752,7 +1605,7 @@
    "icono": "☕"
   },
   {
-   "id": 150,
+   "id": 137,
    "nombre": "Tabla de productos onubenses",
    "tipo": "OTRO",
    "origen": "PROVINCIA",
@@ -1764,19 +1617,7 @@
    "icono": "🍽️"
   },
   {
-   "id": 151,
-   "nombre": "Vino Naranja del Condado",
-   "tipo": "VINO",
-   "origen": "CONDADO",
-   "descripcion": "Vino dulce envejecido con piel de naranja amarga. Único en el mundo.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Como aperitivo o con quesos.",
-   "denominacionOrigen": "Bollullos, La Palma",
-   "curiosidades": "Especialidad única protegida por DOP Condado de Huelva.",
-   "icono": "🍷"
-  },
-  {
-   "id": 152,
+   "id": 138,
    "nombre": "Pajarete del Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -1788,19 +1629,7 @@
    "icono": "🍷"
   },
   {
-   "id": 153,
-   "nombre": "Vinagre del Condado",
-   "tipo": "VINAGRE",
-   "origen": "CONDADO",
-   "descripcion": "Vinagre artesanal del Condado, ideal para ensaladas y adobos.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Para aliños y adobos.",
-   "denominacionOrigen": "Condado",
-   "curiosidades": "Vinagre tradicional con DOP propia.",
-   "icono": "🍶"
-  },
-  {
-   "id": 154,
+   "id": 139,
    "nombre": "Queso Payoyo serrano",
    "tipo": "QUESO",
    "origen": "SIERRA",
@@ -1812,7 +1641,7 @@
    "icono": "🧀"
   },
   {
-   "id": 155,
+   "id": 140,
    "nombre": "Queso de oveja serrana",
    "tipo": "QUESO",
    "origen": "SIERRA",
@@ -1824,7 +1653,7 @@
    "icono": "🧀"
   },
   {
-   "id": 156,
+   "id": 141,
    "nombre": "Manteca colorá serrana",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1836,7 +1665,7 @@
    "icono": "🟠"
   },
   {
-   "id": 157,
+   "id": 142,
    "nombre": "Chicharrones serranos",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1848,7 +1677,7 @@
    "icono": "🥓"
   },
   {
-   "id": 158,
+   "id": 143,
    "nombre": "Lomo embuchado ibérico",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1860,7 +1689,7 @@
    "icono": "🥩"
   },
   {
-   "id": 159,
+   "id": 144,
    "nombre": "Salchichón ibérico de bellota",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1872,7 +1701,7 @@
    "icono": "🥩"
   },
   {
-   "id": 160,
+   "id": 145,
    "nombre": "Morcilla ibérica serrana",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -1884,7 +1713,7 @@
    "icono": "🩸"
   },
   {
-   "id": 161,
+   "id": 146,
    "nombre": "Pan de Aracena",
    "tipo": "PAN",
    "origen": "SIERRA",
@@ -1896,7 +1725,7 @@
    "icono": "🍞"
   },
   {
-   "id": 162,
+   "id": 147,
    "nombre": "Pan de Galaroza",
    "tipo": "PAN",
    "origen": "SIERRA",
@@ -1908,19 +1737,7 @@
    "icono": "🍞"
   },
   {
-   "id": 163,
-   "nombre": "Aceite oliva virgen Sierra",
-   "tipo": "ACEITE",
-   "origen": "SIERRA",
-   "descripcion": "Aceite de oliva virgen extra de la sierra de Aracena.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Para crudo y cocinar.",
-   "denominacionOrigen": "Sierra de Aracena",
-   "curiosidades": "Producción olivarera serrana.",
-   "icono": "🫒"
-  },
-  {
-   "id": 164,
+   "id": 148,
    "nombre": "Aceitunas serranas aliñadas",
    "tipo": "ENCURTIDO",
    "origen": "SIERRA",
@@ -1932,7 +1749,7 @@
    "icono": "🫒"
   },
   {
-   "id": 165,
+   "id": 149,
    "nombre": "Miel de azahar onubense",
    "tipo": "MIEL",
    "origen": "COSTA",
@@ -1944,19 +1761,7 @@
    "icono": "🍯"
   },
   {
-   "id": 166,
-   "nombre": "Miel multifloral serrana",
-   "tipo": "MIEL",
-   "origen": "SIERRA",
-   "descripcion": "Miel multifloral de la flora serrana onubense.",
-   "temporada": "Verano-otoño",
-   "comoConsumir": "Para infusiones, postres, marinados.",
-   "denominacionOrigen": "Sierra de Aracena",
-   "curiosidades": "Apicultura tradicional serrana.",
-   "icono": "🍯"
-  },
-  {
-   "id": 167,
+   "id": 150,
    "nombre": "Castañas serranas DOP",
    "tipo": "FRUTO",
    "origen": "SIERRA",
@@ -1968,7 +1773,7 @@
    "icono": "🌰"
   },
   {
-   "id": 168,
+   "id": 151,
    "nombre": "Setas serranas (boletus, tana, níscalo)",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -1980,7 +1785,7 @@
    "icono": "🍄"
   },
   {
-   "id": 169,
+   "id": 152,
    "nombre": "Atún rojo de almadraba isleño",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -1992,7 +1797,7 @@
    "icono": "🐟"
   },
   {
-   "id": 170,
+   "id": 153,
    "nombre": "Sardinas en salazón onubenses",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2004,7 +1809,7 @@
    "icono": "🐟"
   },
   {
-   "id": 171,
+   "id": 154,
    "nombre": "Conservas de bonito Huelva",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2016,7 +1821,7 @@
    "icono": "🥫"
   },
   {
-   "id": 172,
+   "id": 155,
    "nombre": "Camarones Punta Umbría",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2028,7 +1833,7 @@
    "icono": "🦐"
   },
   {
-   "id": 173,
+   "id": 156,
    "nombre": "Bogavante onubense",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2040,7 +1845,7 @@
    "icono": "🦞"
   },
   {
-   "id": 174,
+   "id": 157,
    "nombre": "Cigalas de Huelva",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2052,7 +1857,7 @@
    "icono": "🦐"
   },
   {
-   "id": 175,
+   "id": 158,
    "nombre": "Acedías onubenses",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2064,7 +1869,7 @@
    "icono": "🐟"
   },
   {
-   "id": 176,
+   "id": 159,
    "nombre": "Fresón de Huelva IGP",
    "tipo": "FRUTA",
    "origen": "COSTA",
@@ -2076,31 +1881,7 @@
    "icono": "🍓"
   },
   {
-   "id": 177,
-   "nombre": "Arándano de Huelva",
-   "tipo": "FRUTA",
-   "origen": "COSTA",
-   "descripcion": "Arándanos cultivados en Huelva, alta calidad.",
-   "temporada": "Mayo-julio",
-   "comoConsumir": "Postres, batidos, conservas.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "Nuevo producto onubense en alza.",
-   "icono": "🫐"
-  },
-  {
-   "id": 178,
-   "nombre": "Frambuesa de Huelva",
-   "tipo": "FRUTA",
-   "origen": "COSTA",
-   "descripcion": "Frambuesas cultivadas en Huelva, gran calidad gourmet.",
-   "temporada": "Abril-julio",
-   "comoConsumir": "Postres, mermeladas.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "Cultivo intensivo onubense.",
-   "icono": "🫐"
-  },
-  {
-   "id": 179,
+   "id": 160,
    "nombre": "Naranja amarga del Condado",
    "tipo": "FRUTA",
    "origen": "CONDADO",
@@ -2112,7 +1893,7 @@
    "icono": "🍊"
   },
   {
-   "id": 180,
+   "id": 161,
    "nombre": "Tabla 180 productos onubenses",
    "tipo": "OTRO",
    "origen": "PROVINCIA",
@@ -2124,7 +1905,7 @@
    "icono": "🍽️"
   },
   {
-   "id": 181,
+   "id": 162,
    "nombre": "Jamón Ibérico Jabugo DOP",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2136,7 +1917,7 @@
    "icono": "🥓"
   },
   {
-   "id": 182,
+   "id": 163,
    "nombre": "Aceite Sierra Aracena DOP",
    "tipo": "ACEITE",
    "origen": "SIERRA",
@@ -2148,7 +1929,7 @@
    "icono": "🫒"
   },
   {
-   "id": 183,
+   "id": 164,
    "nombre": "Vino Condado Huelva DOP",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2160,7 +1941,7 @@
    "icono": "🍷"
   },
   {
-   "id": 184,
+   "id": 165,
    "nombre": "Vinagre Condado Huelva DOP",
    "tipo": "VINAGRE",
    "origen": "CONDADO",
@@ -2172,19 +1953,7 @@
    "icono": "🍶"
   },
   {
-   "id": 185,
-   "nombre": "Fresón Huelva IGP",
-   "tipo": "FRUTA",
-   "origen": "COSTA",
-   "descripcion": "Fresa IGP Huelva, indicación geográfica protegida.",
-   "temporada": "Enero-junio",
-   "comoConsumir": "Postres, mermeladas, batidos.",
-   "denominacionOrigen": "Costa onubense",
-   "curiosidades": "IGP frutícola onubense.",
-   "icono": "🍓"
-  },
-  {
-   "id": 186,
+   "id": 166,
    "nombre": "Castaña Sierra Aracena DOP",
    "tipo": "FRUTO",
    "origen": "SIERRA",
@@ -2196,7 +1965,7 @@
    "icono": "🌰"
   },
   {
-   "id": 187,
+   "id": 167,
    "nombre": "Vino Naranja Condado DOP",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2208,7 +1977,7 @@
    "icono": "🍷"
   },
   {
-   "id": 188,
+   "id": 168,
    "nombre": "Mosto Condado Huelva",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2220,7 +1989,7 @@
    "icono": "🍇"
   },
   {
-   "id": 189,
+   "id": 169,
    "nombre": "Cerdo Ibérico Bellota DOP",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2232,7 +2001,7 @@
    "icono": "🐗"
   },
   {
-   "id": 190,
+   "id": 170,
    "nombre": "Aceitunas Sierra Aracena",
    "tipo": "ENCURTIDO",
    "origen": "SIERRA",
@@ -2244,7 +2013,7 @@
    "icono": "🫒"
   },
   {
-   "id": 191,
+   "id": 171,
    "nombre": "Vino Bollullos Reserva",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2256,7 +2025,7 @@
    "icono": "🍷"
   },
   {
-   "id": 192,
+   "id": 172,
    "nombre": "Mosto La Palma",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2268,7 +2037,7 @@
    "icono": "🍇"
   },
   {
-   "id": 193,
+   "id": 173,
    "nombre": "Fino Condado Pálido",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2280,7 +2049,7 @@
    "icono": "🍶"
   },
   {
-   "id": 194,
+   "id": 174,
    "nombre": "Vino Solera Condado",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2292,7 +2061,7 @@
    "icono": "🍷"
   },
   {
-   "id": 195,
+   "id": 175,
    "nombre": "Vino Generoso Pajarete",
    "tipo": "VINO",
    "origen": "CONDADO",
@@ -2304,7 +2073,7 @@
    "icono": "🍷"
   },
   {
-   "id": 196,
+   "id": 176,
    "nombre": "Caña Lomo Embuchada",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2316,7 +2085,7 @@
    "icono": "🥩"
   },
   {
-   "id": 197,
+   "id": 177,
    "nombre": "Salchichón Ibérico Bellota Reserva",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2328,7 +2097,7 @@
    "icono": "🥩"
   },
   {
-   "id": 198,
+   "id": 178,
    "nombre": "Chorizo Ibérico Bellota Cular",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2340,7 +2109,7 @@
    "icono": "🌶️"
   },
   {
-   "id": 199,
+   "id": 179,
    "nombre": "Paleta Ibérica Bellota",
    "tipo": "EMBUTIDO",
    "origen": "SIERRA",
@@ -2352,7 +2121,7 @@
    "icono": "🐗"
   },
   {
-   "id": 200,
+   "id": 180,
    "nombre": "Hito Productos 200",
    "tipo": "OTRO",
    "origen": "PROVINCIA",
@@ -2364,7 +2133,7 @@
    "icono": "🎯"
   },
   {
-   "id": 201,
+   "id": 181,
    "nombre": "Tagarniná Serrana",
    "tipo": "VEGETAL",
    "origen": "SIERRA",
@@ -2376,7 +2145,7 @@
    "icono": "🌿"
   },
   {
-   "id": 202,
+   "id": 182,
    "nombre": "Espárragos Trigueros Silvestres",
    "tipo": "VEGETAL",
    "origen": "SIERRA",
@@ -2388,7 +2157,7 @@
    "icono": "🌿"
   },
   {
-   "id": 203,
+   "id": 183,
    "nombre": "Habas Frescas Serranas",
    "tipo": "VEGETAL",
    "origen": "SIERRA",
@@ -2400,7 +2169,7 @@
    "icono": "🌱"
   },
   {
-   "id": 204,
+   "id": 184,
    "nombre": "Boletus Edulis Serrano",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -2412,7 +2181,7 @@
    "icono": "🍄"
   },
   {
-   "id": 205,
+   "id": 185,
    "nombre": "Tana (Amanita Cesárea)",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -2424,7 +2193,7 @@
    "icono": "🍄"
   },
   {
-   "id": 206,
+   "id": 186,
    "nombre": "Níscalo Serrano",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -2436,7 +2205,7 @@
    "icono": "🍄"
   },
   {
-   "id": 207,
+   "id": 187,
    "nombre": "Gurumelos del Andévalo",
    "tipo": "SETA",
    "origen": "ANDEVALO",
@@ -2448,7 +2217,7 @@
    "icono": "🍄"
   },
   {
-   "id": 208,
+   "id": 188,
    "nombre": "Cantarela Serrana",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -2460,7 +2229,7 @@
    "icono": "🍄"
   },
   {
-   "id": 209,
+   "id": 189,
    "nombre": "Trufa Negra Serrana",
    "tipo": "SETA",
    "origen": "SIERRA",
@@ -2472,7 +2241,7 @@
    "icono": "🍄"
   },
   {
-   "id": 210,
+   "id": 190,
    "nombre": "Garbanzos Aracena",
    "tipo": "LEGUMBRE",
    "origen": "SIERRA",
@@ -2484,7 +2253,7 @@
    "icono": "🫘"
   },
   {
-   "id": 211,
+   "id": 191,
    "nombre": "Almadraba Vieja Isla Cristina",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2496,19 +2265,7 @@
    "icono": "🐟"
   },
   {
-   "id": 212,
-   "nombre": "Mojama Isla Cristina",
-   "tipo": "PESCADO",
-   "origen": "COSTA",
-   "descripcion": "Mojama curada del atún rojo isleño.",
-   "temporada": "Todo el año",
-   "comoConsumir": "Como tapa con almendras y aceite.",
-   "denominacionOrigen": "Isla Cristina",
-   "curiosidades": "Producto gourmet onubense.",
-   "icono": "🐟"
-  },
-  {
-   "id": 213,
+   "id": 192,
    "nombre": "Ijiar de Atún",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2520,7 +2277,7 @@
    "icono": "🐟"
   },
   {
-   "id": 214,
+   "id": 193,
    "nombre": "Hueva de Atún Isleña",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2532,7 +2289,7 @@
    "icono": "🐟"
   },
   {
-   "id": 215,
+   "id": 194,
    "nombre": "Conserva Atún Bonito",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2544,7 +2301,7 @@
    "icono": "🥫"
   },
   {
-   "id": 216,
+   "id": 195,
    "nombre": "Boquerones Salazón",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2556,7 +2313,7 @@
    "icono": "🐟"
   },
   {
-   "id": 217,
+   "id": 196,
    "nombre": "Sardinas Espetadas",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2568,7 +2325,7 @@
    "icono": "🐟"
   },
   {
-   "id": 218,
+   "id": 197,
    "nombre": "Quisquillas Onubenses",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2580,7 +2337,7 @@
    "icono": "🦐"
   },
   {
-   "id": 219,
+   "id": 198,
    "nombre": "Gamba Roja Onubense",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2592,7 +2349,7 @@
    "icono": "🦐"
   },
   {
-   "id": 220,
+   "id": 199,
    "nombre": "Langostino Onubense",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2604,7 +2361,7 @@
    "icono": "🦐"
   },
   {
-   "id": 221,
+   "id": 200,
    "nombre": "Coquinas Punta Umbría",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2616,7 +2373,7 @@
    "icono": "🐚"
   },
   {
-   "id": 222,
+   "id": 201,
    "nombre": "Cañadillas Onubenses",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2628,7 +2385,7 @@
    "icono": "🐌"
   },
   {
-   "id": 223,
+   "id": 202,
    "nombre": "Pulpo Onubense",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2640,7 +2397,7 @@
    "icono": "🐙"
   },
   {
-   "id": 224,
+   "id": 203,
    "nombre": "Choco Frito Onubense",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2652,7 +2409,7 @@
    "icono": "🍤"
   },
   {
-   "id": 225,
+   "id": 204,
    "nombre": "Calamares Costa Atlántica",
    "tipo": "PESCADO",
    "origen": "COSTA",
@@ -2664,7 +2421,7 @@
    "icono": "🦑"
   },
   {
-   "id": 226,
+   "id": 205,
    "nombre": "Roscos Galaroza",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -2676,7 +2433,7 @@
    "icono": "🍩"
   },
   {
-   "id": 227,
+   "id": 206,
    "nombre": "Tortas Aceite Aracena",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -2688,7 +2445,7 @@
    "icono": "🍪"
   },
   {
-   "id": 228,
+   "id": 207,
    "nombre": "Yemas Conventuales Aracena",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -2700,7 +2457,7 @@
    "icono": "🍬"
   },
   {
-   "id": 229,
+   "id": 208,
    "nombre": "Empanadillas Borrachuelos",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -2712,7 +2469,7 @@
    "icono": "🥟"
   },
   {
-   "id": 230,
+   "id": 209,
    "nombre": "Polvorones Estepa Onubenses",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -2724,7 +2481,7 @@
    "icono": "🍪"
   },
   {
-   "id": 231,
+   "id": 210,
    "nombre": "Mantecados Caseros",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -2736,7 +2493,7 @@
    "icono": "🍪"
   },
   {
-   "id": 232,
+   "id": 211,
    "nombre": "Tortillitas Camarones",
    "tipo": "MARISCO",
    "origen": "COSTA",
@@ -2748,7 +2505,7 @@
    "icono": "🥞"
   },
   {
-   "id": 233,
+   "id": 212,
    "nombre": "Bizcocho Aceite Sierra",
    "tipo": "DULCE",
    "origen": "SIERRA",
@@ -2760,7 +2517,7 @@
    "icono": "🍰"
   },
   {
-   "id": 234,
+   "id": 213,
    "nombre": "Flores Fritas Carnaval",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -2772,7 +2529,7 @@
    "icono": "🌼"
   },
   {
-   "id": 235,
+   "id": 214,
    "nombre": "Pestiños Semana Santa",
    "tipo": "DULCE",
    "origen": "PROVINCIA",
@@ -2784,7 +2541,7 @@
    "icono": "🍯"
   },
   {
-   "id": 236,
+   "id": 215,
    "nombre": "Aguardiente Anisado Sierra",
    "tipo": "LICOR",
    "origen": "SIERRA",
@@ -2796,7 +2553,7 @@
    "icono": "🍶"
   },
   {
-   "id": 237,
+   "id": 216,
    "nombre": "Licor Bellota",
    "tipo": "LICOR",
    "origen": "SIERRA",
@@ -2808,7 +2565,7 @@
    "icono": "🍷"
   },
   {
-   "id": 238,
+   "id": 217,
    "nombre": "Licor Castaña Serrano",
    "tipo": "LICOR",
    "origen": "SIERRA",
@@ -2820,7 +2577,7 @@
    "icono": "🥃"
   },
   {
-   "id": 239,
+   "id": 218,
    "nombre": "Anís Hinojos",
    "tipo": "LICOR",
    "origen": "DONANA",
@@ -2832,7 +2589,7 @@
    "icono": "🍶"
   },
   {
-   "id": 240,
+   "id": 219,
    "nombre": "Cazalla Serrana",
    "tipo": "LICOR",
    "origen": "SIERRA",
@@ -2844,7 +2601,7 @@
    "icono": "🥃"
   },
   {
-   "id": 241,
+   "id": 220,
    "nombre": "Espuma Cervezas Cruzcampo",
    "tipo": "LICOR",
    "origen": "PROVINCIA",
@@ -2856,7 +2613,7 @@
    "icono": "🍺"
   },
   {
-   "id": 242,
+   "id": 221,
    "nombre": "Aguardiente Madroño",
    "tipo": "LICOR",
    "origen": "SIERRA",
@@ -2868,7 +2625,7 @@
    "icono": "🍷"
   },
   {
-   "id": 243,
+   "id": 222,
    "nombre": "Café Onubense",
    "tipo": "BEBIDA",
    "origen": "PROVINCIA",
@@ -2880,7 +2637,7 @@
    "icono": "☕"
   },
   {
-   "id": 244,
+   "id": 223,
    "nombre": "Infusión Hierbabuena Sierra",
    "tipo": "BEBIDA",
    "origen": "SIERRA",
@@ -2892,7 +2649,7 @@
    "icono": "🍵"
   },
   {
-   "id": 245,
+   "id": 224,
    "nombre": "Sangría Onubense",
    "tipo": "BEBIDA",
    "origen": "PROVINCIA",
@@ -2904,7 +2661,7 @@
    "icono": "🍹"
   },
   {
-   "id": 246,
+   "id": 225,
    "nombre": "Pan Costero Onubense",
    "tipo": "PAN",
    "origen": "COSTA",
@@ -2916,7 +2673,7 @@
    "icono": "🍞"
   },
   {
-   "id": 247,
+   "id": 226,
    "nombre": "Miel Brezo Sierra",
    "tipo": "MIEL",
    "origen": "SIERRA",
@@ -2928,7 +2685,7 @@
    "icono": "🍯"
   },
   {
-   "id": 248,
+   "id": 227,
    "nombre": "Miel Romero Sierra",
    "tipo": "MIEL",
    "origen": "SIERRA",
@@ -2940,7 +2697,7 @@
    "icono": "🍯"
   },
   {
-   "id": 249,
+   "id": 228,
    "nombre": "Miel Mil Flores Andévalo",
    "tipo": "MIEL",
    "origen": "ANDEVALO",
@@ -2952,7 +2709,7 @@
    "icono": "🍯"
   },
   {
-   "id": 250,
+   "id": 229,
    "nombre": "Catálogo Definitivo 250 Productos",
    "tipo": "OTRO",
    "origen": "PROVINCIA",

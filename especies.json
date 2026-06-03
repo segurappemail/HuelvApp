@@ -840,20 +840,6 @@
   },
   {
    "id": 61,
-   "nombreComun": "Águila Imperial Ibérica",
-   "nombreCientifico": "Aquila adalberti",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Águila ibérica con hombros blancos características, una de las rapaces más amenazadas de Europa.",
-   "curiosidades": "Joya de la Reserva Natural de la Sierra Pelada de Aroche. Símbolo de la conservación onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aquila_adalberti"
-  },
-  {
-   "id": 62,
    "nombreComun": "Buitre Negro",
    "nombreCientifico": "Aegypius monachus",
    "tipo": "AVE",
@@ -867,21 +853,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aegypius_monachus"
   },
   {
-   "id": 63,
-   "nombreComun": "Buitre Leonado",
-   "nombreCientifico": "Gyps fulvus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gran buitre social, vuela en grupos y se alimenta de carroña. Color leonado característico.",
-   "curiosidades": "Habitual en la Sierra de Aracena, gran ave planeadora.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Gyps_fulvus"
-  },
-  {
-   "id": 64,
+   "id": 62,
    "nombreComun": "Cigüeña Negra",
    "nombreCientifico": "Ciconia nigra",
    "tipo": "AVE",
@@ -895,105 +867,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciconia_nigra"
   },
   {
-   "id": 65,
-   "nombreComun": "Cigüeña Blanca",
-   "nombreCientifico": "Ciconia ciconia",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cigüeña común con cuerpo blanco, alas y pico rojo. Anida en campanarios y árboles.",
-   "curiosidades": "Especie habitual en pueblos onubenses, símbolo de la primavera.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciconia_ciconia"
-  },
-  {
-   "id": 66,
-   "nombreComun": "Garza Real",
-   "nombreCientifico": "Ardea cinerea",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gran garza gris azulada con cuello largo y pico amarillo. Pesca en marismas y orillas.",
-   "curiosidades": "Habitual en las Marismas del Odiel y Doñana.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ardea_cinerea"
-  },
-  {
-   "id": 67,
-   "nombreComun": "Garcilla Bueyera",
-   "nombreCientifico": "Bubulcus ibis",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeña garza blanca que acompaña al ganado para comer insectos espantados por las patas.",
-   "curiosidades": "Frecuente con vacas en dehesas y marismas.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Bubulcus_ibis"
-  },
-  {
-   "id": 68,
-   "nombreComun": "Espátula",
-   "nombreCientifico": "Platalea leucorodia",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Ave acuática blanca con pico aplanado en forma de espátula. Camina en marismas filtrando agua.",
-   "curiosidades": "Una de las joyas de Doñana y las Marismas del Odiel.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Platalea_leucorodia"
-  },
-  {
-   "id": 69,
-   "nombreComun": "Avoceta",
-   "nombreCientifico": "Recurvirostra avosetta",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave acuática elegante con pico curvado hacia arriba. Blanco y negro.",
-   "curiosidades": "Habitual en las salinas y marismas. Vuela en bandadas.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Recurvirostra_avosetta"
-  },
-  {
-   "id": 70,
-   "nombreComun": "Cigüeñuela",
-   "nombreCientifico": "Himantopus himantopus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave acuática con patas larguísimas rosadas y pico fino. Blanco y negro.",
-   "curiosidades": "Frecuente en marismas y lagunas costeras.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Himantopus_himantopus"
-  },
-  {
-   "id": 71,
-   "nombreComun": "Águila Pescadora",
-   "nombreCientifico": "Pandion haliaetus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Rapaz especializada en pescar. Cabeza blanca con franja negra.",
-   "curiosidades": "Avistable en marismas y costa onubense en migración.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pandion_haliaetus"
-  },
-  {
-   "id": 72,
+   "id": 63,
    "nombreComun": "Búho Real",
    "nombreCientifico": "Bubo bubo",
    "tipo": "AVE",
@@ -1007,7 +881,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bubo_bubo"
   },
   {
-   "id": 73,
+   "id": 64,
    "nombreComun": "Halcón Peregrino",
    "nombreCientifico": "Falco peregrinus",
    "tipo": "AVE",
@@ -1021,7 +895,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Falco_peregrinus"
   },
   {
-   "id": 74,
+   "id": 65,
    "nombreComun": "Abubilla",
    "nombreCientifico": "Upupa epops",
    "tipo": "AVE",
@@ -1035,7 +909,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Upupa_epops"
   },
   {
-   "id": 75,
+   "id": 66,
    "nombreComun": "Carraca Europea",
    "nombreCientifico": "Coracias garrulus",
    "tipo": "AVE",
@@ -1049,7 +923,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Coracias_garrulus"
   },
   {
-   "id": 76,
+   "id": 67,
    "nombreComun": "Abejaruco",
    "nombreCientifico": "Merops apiaster",
    "tipo": "AVE",
@@ -1063,21 +937,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Merops_apiaster"
   },
   {
-   "id": 77,
-   "nombreComun": "Meloncillo",
-   "nombreCientifico": "Herpestes ichneumon",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mangosta única de Europa. Cuerpo alargado y cola peluda. Caza serpientes y conejos.",
-   "curiosidades": "Único mamífero de su familia en Europa, presente en la sierra y Doñana.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Herpestes_ichneumon"
-  },
-  {
-   "id": 78,
+   "id": 68,
    "nombreComun": "Gineta",
    "nombreCientifico": "Genetta genetta",
    "tipo": "MAMIFERO",
@@ -1091,77 +951,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Genetta_genetta"
   },
   {
-   "id": 79,
-   "nombreComun": "Tejón",
-   "nombreCientifico": "Meles meles",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mamífero robusto con cara blanca y dos franjas negras. Nocturno y omnívoro.",
-   "curiosidades": "Habita en madrigueras profundas en la sierra.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Meles_meles"
-  },
-  {
-   "id": 80,
-   "nombreComun": "Zorro Rojo",
-   "nombreCientifico": "Vulpes vulpes",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cánido astuto de pelaje rojizo y cola peluda. Adaptable a múltiples hábitats.",
-   "curiosidades": "Presente en toda la provincia, desde la sierra hasta el entorno urbano.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vulpes_vulpes"
-  },
-  {
-   "id": 81,
-   "nombreComun": "Jabalí",
-   "nombreCientifico": "Sus scrofa",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cerdo salvaje robusto con colmillos. Activo principalmente al amanecer y atardecer.",
-   "curiosidades": "Muy abundante en la sierra y Doñana. Población en crecimiento.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sus_scrofa"
-  },
-  {
-   "id": 82,
-   "nombreComun": "Ciervo Común",
-   "nombreCientifico": "Cervus elaphus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gran cérvido con cornamenta ramificada en los machos. Espectacular berrea en otoño.",
-   "curiosidades": "Símbolo del bosque mediterráneo onubense. Berrea épica en septiembre-octubre.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Cervus_elaphus"
-  },
-  {
-   "id": 83,
-   "nombreComun": "Gamo",
-   "nombreCientifico": "Dama dama",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cérvido más pequeño que el ciervo, con manchas blancas y cornamenta palmeada.",
-   "curiosidades": "Habitual en la sierra y Doñana. Convive con el ciervo.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Dama_dama"
-  },
-  {
-   "id": 84,
+   "id": 69,
    "nombreComun": "Caballo Marismeño",
    "nombreCientifico": "Equus caballus marismeño",
    "tipo": "MAMIFERO",
@@ -1175,7 +965,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Caballo_marisme%C3%B1o"
   },
   {
-   "id": 85,
+   "id": 70,
    "nombreComun": "Vaca Mostrenca",
    "nombreCientifico": "Bos taurus",
    "tipo": "MAMIFERO",
@@ -1189,7 +979,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vaca_mostrenca"
   },
   {
-   "id": 86,
+   "id": 71,
    "nombreComun": "Galápago Leproso",
    "nombreCientifico": "Mauremys leprosa",
    "tipo": "REPTIL",
@@ -1203,21 +993,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mauremys_leprosa"
   },
   {
-   "id": 87,
-   "nombreComun": "Camaleón Común",
-   "nombreCientifico": "Chamaeleo chamaeleon",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Único camaleón europeo. Cambia de color, ojos independientes y lengua larguísima.",
-   "curiosidades": "Presente en pinares costeros onubenses, especie muy protegida.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Chamaeleo_chamaeleon"
-  },
-  {
-   "id": 88,
+   "id": 72,
    "nombreComun": "Culebra de Herradura",
    "nombreCientifico": "Hemorrhois hippocrepis",
    "tipo": "REPTIL",
@@ -1231,7 +1007,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hemorrhois_hippocrepis"
   },
   {
-   "id": 89,
+   "id": 73,
    "nombreComun": "Salamanquesa",
    "nombreCientifico": "Tarentola mauritanica",
    "tipo": "REPTIL",
@@ -1245,7 +1021,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tarentola_mauritanica"
   },
   {
-   "id": 90,
+   "id": 74,
    "nombreComun": "Sapo Partero Ibérico",
    "nombreCientifico": "Alytes cisternasii",
    "tipo": "ANFIBIO",
@@ -1259,7 +1035,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Alytes_cisternasii"
   },
   {
-   "id": 91,
+   "id": 75,
    "nombreComun": "Mariposa Isabelina",
    "nombreCientifico": "Graellsia isabellae",
    "tipo": "INSECTO",
@@ -1273,7 +1049,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Graellsia_isabellae"
   },
   {
-   "id": 92,
+   "id": 76,
    "nombreComun": "Mariposa Macaón",
    "nombreCientifico": "Papilio machaon",
    "tipo": "INSECTO",
@@ -1287,7 +1063,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Papilio_machaon"
   },
   {
-   "id": 93,
+   "id": 77,
    "nombreComun": "Atún Rojo",
    "nombreCientifico": "Thunnus thynnus",
    "tipo": "PEZ",
@@ -1301,7 +1077,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thunnus_thynnus"
   },
   {
-   "id": 94,
+   "id": 78,
    "nombreComun": "Choco",
    "nombreCientifico": "Sepia officinalis",
    "tipo": "PEZ",
@@ -1315,7 +1091,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sepia_officinalis"
   },
   {
-   "id": 95,
+   "id": 79,
    "nombreComun": "Gamba Blanca",
    "nombreCientifico": "Parapenaeus longirostris",
    "tipo": "PEZ",
@@ -1329,49 +1105,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Parapenaeus_longirostris"
   },
   {
-   "id": 96,
-   "nombreComun": "Encina",
-   "nombreCientifico": "Quercus ilex",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol emblemático del bosque mediterráneo, produce bellotas que alimentan al cerdo ibérico.",
-   "curiosidades": "Base de la dehesa onubense, sin encinas no habría jamón de Jabugo.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Quercus_ilex"
-  },
-  {
-   "id": 97,
-   "nombreComun": "Alcornoque",
-   "nombreCientifico": "Quercus suber",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol mediterráneo con corteza esponjosa (corcho). Se descorcha cada 9 años.",
-   "curiosidades": "Patrimonio económico: el corcho es industria onubense secular.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Quercus_suber"
-  },
-  {
-   "id": 98,
-   "nombreComun": "Castaño",
-   "nombreCientifico": "Castanea sativa",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol caducifolio, símbolo de la Sierra de Aracena. Produce castañas en otoño.",
-   "curiosidades": "Patrimonio gastronómico serrano. Los castañares centenarios son icónicos.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Castanea_sativa"
-  },
-  {
-   "id": 99,
+   "id": 80,
    "nombreComun": "Acebuche",
    "nombreCientifico": "Olea europaea var. sylvestris",
    "tipo": "PLANTA",
@@ -1385,35 +1119,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Olea_europaea_sylvestris"
   },
   {
-   "id": 100,
-   "nombreComun": "Jara Pringosa",
-   "nombreCientifico": "Cistus ladanifer",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto mediterráneo con flores blancas y hojas pegajosas. Aroma característico tras la lluvia.",
-   "curiosidades": "Emblema del monte mediterráneo onubense. Su goma se usaba en perfumería.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Cistus_ladanifer"
-  },
-  {
-   "id": 101,
-   "nombreComun": "Ánsar Común",
-   "nombreCientifico": "Anser anser",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ganso silvestre invernante en Doñana, llega del norte de Europa cada otoño.",
-   "curiosidades": "Miles de ánsares pueblan las marismas en invierno.",
-   "mejorEpoca": "INVIERNO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Anser_anser"
-  },
-  {
-   "id": 102,
+   "id": 81,
    "nombreComun": "Cerceta Común",
    "nombreCientifico": "Anas crecca",
    "tipo": "AVE",
@@ -1427,21 +1133,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Anas_crecca"
   },
   {
-   "id": 103,
-   "nombreComun": "Cerceta Pardilla",
-   "nombreCientifico": "Marmaronetta angustirostris",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Pato escaso en peligro crítico. Plumaje pardo moteado.",
-   "curiosidades": "Una de las especies más amenazadas de Doñana, con programa de cría en cautividad.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Marmaronetta_angustirostris"
-  },
-  {
-   "id": 104,
+   "id": 82,
    "nombreComun": "Pato Colorado",
    "nombreCientifico": "Netta rufina",
    "tipo": "AVE",
@@ -1455,7 +1147,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Netta_rufina"
   },
   {
-   "id": 105,
+   "id": 83,
    "nombreComun": "Porrón Pardo",
    "nombreCientifico": "Aythya nyroca",
    "tipo": "AVE",
@@ -1469,35 +1161,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aythya_nyroca"
   },
   {
-   "id": 106,
-   "nombreComun": "Malvasía Cabeciblanca",
-   "nombreCientifico": "Oxyura leucocephala",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Pato buceador con cabeza blanca y pico azul brillante en el macho. Joya ornitológica.",
-   "curiosidades": "Una de las especies más amenazadas, presente en lagunas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Oxyura_leucocephala"
-  },
-  {
-   "id": 107,
-   "nombreComun": "Calamón Común",
-   "nombreCientifico": "Porphyrio porphyrio",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave acuática grande con plumaje azul violáceo brillante y patas rojas.",
-   "curiosidades": "Espectacular en marismas, hábitat común en Doñana.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Porphyrio_porphyrio"
-  },
-  {
-   "id": 108,
+   "id": 84,
    "nombreComun": "Focha Moruna",
    "nombreCientifico": "Fulica cristata",
    "tipo": "AVE",
@@ -1511,7 +1175,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Fulica_cristata"
   },
   {
-   "id": 109,
+   "id": 85,
    "nombreComun": "Morito",
    "nombreCientifico": "Plegadis falcinellus",
    "tipo": "AVE",
@@ -1525,7 +1189,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Plegadis_falcinellus"
   },
   {
-   "id": 110,
+   "id": 86,
    "nombreComun": "Garcilla Cangrejera",
    "nombreCientifico": "Ardeola ralloides",
    "tipo": "AVE",
@@ -1539,7 +1203,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ardeola_ralloides"
   },
   {
-   "id": 111,
+   "id": 87,
    "nombreComun": "Martinete",
    "nombreCientifico": "Nycticorax nycticorax",
    "tipo": "AVE",
@@ -1553,7 +1217,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Nycticorax_nycticorax"
   },
   {
-   "id": 112,
+   "id": 88,
    "nombreComun": "Garza Imperial",
    "nombreCientifico": "Ardea purpurea",
    "tipo": "AVE",
@@ -1567,21 +1231,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ardea_purpurea"
   },
   {
-   "id": 113,
-   "nombreComun": "Avetorillo",
-   "nombreCientifico": "Ixobrychus minutus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "La garza más pequeña, muy esquiva entre la vegetación palustre.",
-   "curiosidades": "Camuflaje extraordinario en posición vertical entre cañas.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ixobrychus_minutus"
-  },
-  {
-   "id": 114,
+   "id": 89,
    "nombreComun": "Pagaza Piconegra",
    "nombreCientifico": "Gelochelidon nilotica",
    "tipo": "AVE",
@@ -1595,21 +1245,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Gelochelidon_nilotica"
   },
   {
-   "id": 115,
-   "nombreComun": "Charrán Común",
-   "nombreCientifico": "Sterna hirundo",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Charrán esbelto blanco con casquete negro. Pesca en picado.",
-   "curiosidades": "Habitual en la costa onubense en primavera y verano.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sterna_hirundo"
-  },
-  {
-   "id": 116,
+   "id": 90,
    "nombreComun": "Gaviota Picofina",
    "nombreCientifico": "Chroicocephalus genei",
    "tipo": "AVE",
@@ -1623,7 +1259,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Chroicocephalus_genei"
   },
   {
-   "id": 117,
+   "id": 91,
    "nombreComun": "Gaviota Reidora",
    "nombreCientifico": "Chroicocephalus ridibundus",
    "tipo": "AVE",
@@ -1637,7 +1273,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Chroicocephalus_ridibundus"
   },
   {
-   "id": 118,
+   "id": 92,
    "nombreComun": "Ostrero Euroasiático",
    "nombreCientifico": "Haematopus ostralegus",
    "tipo": "AVE",
@@ -1651,7 +1287,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Haematopus_ostralegus"
   },
   {
-   "id": 119,
+   "id": 93,
    "nombreComun": "Chorlitejo Patinegro",
    "nombreCientifico": "Charadrius alexandrinus",
    "tipo": "AVE",
@@ -1665,7 +1301,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Charadrius_alexandrinus"
   },
   {
-   "id": 120,
+   "id": 94,
    "nombreComun": "Zarapito Real",
    "nombreCientifico": "Numenius arquata",
    "tipo": "AVE",
@@ -1679,21 +1315,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Numenius_arquata"
   },
   {
-   "id": 121,
-   "nombreComun": "Aguilucho Lagunero",
-   "nombreCientifico": "Circus aeruginosus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Rapaz palustre que vuela a poca altura sobre carrizales.",
-   "curiosidades": "Común en Doñana y marismas. Vuelo característico balanceándose.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Circus_aeruginosus"
-  },
-  {
-   "id": 122,
+   "id": 95,
    "nombreComun": "Aguilucho Cenizo",
    "nombreCientifico": "Circus pygargus",
    "tipo": "AVE",
@@ -1707,7 +1329,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Circus_pygargus"
   },
   {
-   "id": 123,
+   "id": 96,
    "nombreComun": "Milano Negro",
    "nombreCientifico": "Milvus migrans",
    "tipo": "AVE",
@@ -1721,21 +1343,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Milvus_migrans"
   },
   {
-   "id": 124,
-   "nombreComun": "Milano Real",
-   "nombreCientifico": "Milvus milvus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Rapaz elegante color castaño con cola muy ahorquillada blanca y negra.",
-   "curiosidades": "Especie amenazada con poblaciones invernantes en Huelva.",
-   "mejorEpoca": "INVIERNO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Milvus_milvus"
-  },
-  {
-   "id": 125,
+   "id": 97,
    "nombreComun": "Águila Calzada",
    "nombreCientifico": "Hieraaetus pennatus",
    "tipo": "AVE",
@@ -1749,21 +1357,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hieraaetus_pennatus"
   },
   {
-   "id": 126,
-   "nombreComun": "Águila Culebrera",
-   "nombreCientifico": "Circaetus gallicus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Rapaz especializada en cazar serpientes y reptiles.",
-   "curiosidades": "Característica de la dehesa onubense en primavera y verano.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Circaetus_gallicus"
-  },
-  {
-   "id": 127,
+   "id": 98,
    "nombreComun": "Águila Perdicera",
    "nombreCientifico": "Aquila fasciata",
    "tipo": "AVE",
@@ -1777,7 +1371,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aquila_fasciata"
   },
   {
-   "id": 128,
+   "id": 99,
    "nombreComun": "Búho Chico",
    "nombreCientifico": "Asio otus",
    "tipo": "AVE",
@@ -1791,7 +1385,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Asio_otus"
   },
   {
-   "id": 129,
+   "id": 100,
    "nombreComun": "Cernícalo Primilla",
    "nombreCientifico": "Falco naumanni",
    "tipo": "AVE",
@@ -1805,7 +1399,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Falco_naumanni"
   },
   {
-   "id": 130,
+   "id": 101,
    "nombreComun": "Vencejo Real",
    "nombreCientifico": "Tachymarptis melba",
    "tipo": "AVE",
@@ -1819,7 +1413,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tachymarptis_melba"
   },
   {
-   "id": 131,
+   "id": 102,
    "nombreComun": "Pinzón Vulgar",
    "nombreCientifico": "Fringilla coelebs",
    "tipo": "AVE",
@@ -1833,7 +1427,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Fringilla_coelebs"
   },
   {
-   "id": 132,
+   "id": 103,
    "nombreComun": "Jilguero",
    "nombreCientifico": "Carduelis carduelis",
    "tipo": "AVE",
@@ -1847,7 +1441,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Carduelis_carduelis"
   },
   {
-   "id": 133,
+   "id": 104,
    "nombreComun": "Verderón Común",
    "nombreCientifico": "Chloris chloris",
    "tipo": "AVE",
@@ -1861,7 +1455,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Chloris_chloris"
   },
   {
-   "id": 134,
+   "id": 105,
    "nombreComun": "Verdecillo",
    "nombreCientifico": "Serinus serinus",
    "tipo": "AVE",
@@ -1875,7 +1469,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Serinus_serinus"
   },
   {
-   "id": 135,
+   "id": 106,
    "nombreComun": "Mirlo Común",
    "nombreCientifico": "Turdus merula",
    "tipo": "AVE",
@@ -1889,7 +1483,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Turdus_merula"
   },
   {
-   "id": 136,
+   "id": 107,
    "nombreComun": "Petirrojo",
    "nombreCientifico": "Erithacus rubecula",
    "tipo": "AVE",
@@ -1903,7 +1497,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Erithacus_rubecula"
   },
   {
-   "id": 137,
+   "id": 108,
    "nombreComun": "Ruiseñor Común",
    "nombreCientifico": "Luscinia megarhynchos",
    "tipo": "AVE",
@@ -1917,7 +1511,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Luscinia_megarhynchos"
   },
   {
-   "id": 138,
+   "id": 109,
    "nombreComun": "Currucas",
    "nombreCientifico": "Sylvia spp.",
    "tipo": "AVE",
@@ -1931,7 +1525,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sylvia"
   },
   {
-   "id": 139,
+   "id": 110,
    "nombreComun": "Mosquitero Común",
    "nombreCientifico": "Phylloscopus collybita",
    "tipo": "AVE",
@@ -1945,7 +1539,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phylloscopus_collybita"
   },
   {
-   "id": 140,
+   "id": 111,
    "nombreComun": "Carbonero Común",
    "nombreCientifico": "Parus major",
    "tipo": "AVE",
@@ -1959,7 +1553,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Parus_major"
   },
   {
-   "id": 141,
+   "id": 112,
    "nombreComun": "Herrerillo Común",
    "nombreCientifico": "Cyanistes caeruleus",
    "tipo": "AVE",
@@ -1973,7 +1567,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cyanistes_caeruleus"
   },
   {
-   "id": 142,
+   "id": 113,
    "nombreComun": "Rabilargo",
    "nombreCientifico": "Cyanopica cooki",
    "tipo": "AVE",
@@ -1987,7 +1581,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cyanopica_cooki"
   },
   {
-   "id": 143,
+   "id": 114,
    "nombreComun": "Urraca",
    "nombreCientifico": "Pica pica",
    "tipo": "AVE",
@@ -2001,7 +1595,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pica_pica"
   },
   {
-   "id": 144,
+   "id": 115,
    "nombreComun": "Cuervo",
    "nombreCientifico": "Corvus corax",
    "tipo": "AVE",
@@ -2015,7 +1609,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Corvus_corax"
   },
   {
-   "id": 145,
+   "id": 116,
    "nombreComun": "Cogujada Común",
    "nombreCientifico": "Galerida cristata",
    "tipo": "AVE",
@@ -2029,7 +1623,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Galerida_cristata"
   },
   {
-   "id": 146,
+   "id": 117,
    "nombreComun": "Alondra Común",
    "nombreCientifico": "Alauda arvensis",
    "tipo": "AVE",
@@ -2043,7 +1637,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Alauda_arvensis"
   },
   {
-   "id": 147,
+   "id": 118,
    "nombreComun": "Lavandera Blanca",
    "nombreCientifico": "Motacilla alba",
    "tipo": "AVE",
@@ -2057,7 +1651,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Motacilla_alba"
   },
   {
-   "id": 148,
+   "id": 119,
    "nombreComun": "Estornino Negro",
    "nombreCientifico": "Sturnus unicolor",
    "tipo": "AVE",
@@ -2071,7 +1665,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sturnus_unicolor"
   },
   {
-   "id": 149,
+   "id": 120,
    "nombreComun": "Tórtola Europea",
    "nombreCientifico": "Streptopelia turtur",
    "tipo": "AVE",
@@ -2085,7 +1679,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Streptopelia_turtur"
   },
   {
-   "id": 150,
+   "id": 121,
    "nombreComun": "Avión Común",
    "nombreCientifico": "Delichon urbicum",
    "tipo": "AVE",
@@ -2099,7 +1693,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Delichon_urbicum"
   },
   {
-   "id": 151,
+   "id": 122,
    "nombreComun": "Conejo de Monte",
    "nombreCientifico": "Oryctolagus cuniculus",
    "tipo": "MAMIFERO",
@@ -2113,7 +1707,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Oryctolagus_cuniculus"
   },
   {
-   "id": 152,
+   "id": 123,
    "nombreComun": "Liebre Ibérica",
    "nombreCientifico": "Lepus granatensis",
    "tipo": "MAMIFERO",
@@ -2127,21 +1721,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lepus_granatensis"
   },
   {
-   "id": 153,
-   "nombreComun": "Erizo Común",
-   "nombreCientifico": "Erinaceus europaeus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño mamífero con púas defensivas. Nocturno e insectívoro.",
-   "curiosidades": "Habitual en jardines y huertas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Erinaceus_europaeus"
-  },
-  {
-   "id": 154,
+   "id": 124,
    "nombreComun": "Comadreja",
    "nombreCientifico": "Mustela nivalis",
    "tipo": "MAMIFERO",
@@ -2155,7 +1735,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mustela_nivalis"
   },
   {
-   "id": 155,
+   "id": 125,
    "nombreComun": "Garduña",
    "nombreCientifico": "Martes foina",
    "tipo": "MAMIFERO",
@@ -2169,7 +1749,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Martes_foina"
   },
   {
-   "id": 156,
+   "id": 126,
    "nombreComun": "Turón",
    "nombreCientifico": "Mustela putorius",
    "tipo": "MAMIFERO",
@@ -2183,21 +1763,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mustela_putorius"
   },
   {
-   "id": 157,
-   "nombreComun": "Nutria Europea",
-   "nombreCientifico": "Lutra lutra",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mustélido acuático con cuerpo alargado, especialista en pescar.",
-   "curiosidades": "Recuperación en ríos onubenses, indicador de aguas limpias.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lutra_lutra"
-  },
-  {
-   "id": 158,
+   "id": 127,
    "nombreComun": "Murciélago Grande de Herradura",
    "nombreCientifico": "Rhinolophus ferrumequinum",
    "tipo": "MAMIFERO",
@@ -2211,7 +1777,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rhinolophus_ferrumequinum"
   },
   {
-   "id": 159,
+   "id": 128,
    "nombreComun": "Topillo de Cabrera",
    "nombreCientifico": "Microtus cabrerae",
    "tipo": "MAMIFERO",
@@ -2225,7 +1791,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Microtus_cabrerae"
   },
   {
-   "id": 160,
+   "id": 129,
    "nombreComun": "Musaraña Común",
    "nombreCientifico": "Crocidura russula",
    "tipo": "MAMIFERO",
@@ -2239,7 +1805,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Crocidura_russula"
   },
   {
-   "id": 161,
+   "id": 130,
    "nombreComun": "Topo Ibérico",
    "nombreCientifico": "Talpa occidentalis",
    "tipo": "MAMIFERO",
@@ -2253,7 +1819,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Talpa_occidentalis"
   },
   {
-   "id": 162,
+   "id": 131,
    "nombreComun": "Ardilla Común",
    "nombreCientifico": "Sciurus vulgaris",
    "tipo": "MAMIFERO",
@@ -2267,7 +1833,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sciurus_vulgaris"
   },
   {
-   "id": 163,
+   "id": 132,
    "nombreComun": "Ratón de Campo",
    "nombreCientifico": "Apodemus sylvaticus",
    "tipo": "MAMIFERO",
@@ -2281,7 +1847,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Apodemus_sylvaticus"
   },
   {
-   "id": 164,
+   "id": 133,
    "nombreComun": "Lirón Careto",
    "nombreCientifico": "Eliomys quercinus",
    "tipo": "MAMIFERO",
@@ -2295,35 +1861,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Eliomys_quercinus"
   },
   {
-   "id": 165,
-   "nombreComun": "Cabra Montés",
-   "nombreCientifico": "Capra pyrenaica",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Cabra silvestre ibérica, ágil escaladora de roquedos.",
-   "curiosidades": "Reintroducida en algunas zonas serranas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Capra_pyrenaica"
-  },
-  {
-   "id": 166,
-   "nombreComun": "Lagarto Ocelado",
-   "nombreCientifico": "Timon lepidus",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "El mayor lagarto europeo, verde con ocelos azules. Hasta 70 cm.",
-   "curiosidades": "Espectacular reptil habitual en monte onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Timon_lepidus"
-  },
-  {
-   "id": 167,
+   "id": 134,
    "nombreComun": "Lagartija Colilarga",
    "nombreCientifico": "Psammodromus algirus",
    "tipo": "REPTIL",
@@ -2337,7 +1875,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Psammodromus_algirus"
   },
   {
-   "id": 168,
+   "id": 135,
    "nombreComun": "Eslizón Ibérico",
    "nombreCientifico": "Chalcides bedriagai",
    "tipo": "REPTIL",
@@ -2351,21 +1889,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Chalcides_bedriagai"
   },
   {
-   "id": 169,
-   "nombreComun": "Culebra Bastarda",
-   "nombreCientifico": "Malpolon monspessulanus",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Culebra grande, ligeramente venenosa pero no peligrosa para humanos.",
-   "curiosidades": "La culebra más común de Huelva, controla roedores.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Malpolon_monspessulanus"
-  },
-  {
-   "id": 170,
+   "id": 136,
    "nombreComun": "Culebra de Escalera",
    "nombreCientifico": "Zamenis scalaris",
    "tipo": "REPTIL",
@@ -2379,35 +1903,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Zamenis_scalaris"
   },
   {
-   "id": 171,
-   "nombreComun": "Víbora Hocicuda",
-   "nombreCientifico": "Vipera latastei",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Víbora venenosa ibérica con apéndice nasal. Peligrosa.",
-   "curiosidades": "Mantener distancia. Picadura requiere atención médica.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vipera_latastei"
-  },
-  {
-   "id": 172,
-   "nombreComun": "Galápago Europeo",
-   "nombreCientifico": "Emys orbicularis",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Tortuga acuática europea, más rara que el leproso.",
-   "curiosidades": "Especie protegida en humedales onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Emys_orbicularis"
-  },
-  {
-   "id": 173,
+   "id": 137,
    "nombreComun": "Sapo Común",
    "nombreCientifico": "Bufo spinosus",
    "tipo": "ANFIBIO",
@@ -2421,7 +1917,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bufo_spinosus"
   },
   {
-   "id": 174,
+   "id": 138,
    "nombreComun": "Sapo Corredor",
    "nombreCientifico": "Epidalea calamita",
    "tipo": "ANFIBIO",
@@ -2435,7 +1931,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Epidalea_calamita"
   },
   {
-   "id": 175,
+   "id": 139,
    "nombreComun": "Rana Común",
    "nombreCientifico": "Pelophylax perezi",
    "tipo": "ANFIBIO",
@@ -2449,7 +1945,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pelophylax_perezi"
   },
   {
-   "id": 176,
+   "id": 140,
    "nombreComun": "Sapillo Pintojo Ibérico",
    "nombreCientifico": "Discoglossus galganoi",
    "tipo": "ANFIBIO",
@@ -2463,7 +1959,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Discoglossus_galganoi"
   },
   {
-   "id": 177,
+   "id": 141,
    "nombreComun": "Tritón Pigmeo",
    "nombreCientifico": "Triturus pygmaeus",
    "tipo": "ANFIBIO",
@@ -2477,7 +1973,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Triturus_pygmaeus"
   },
   {
-   "id": 178,
+   "id": 142,
    "nombreComun": "Gallipato",
    "nombreCientifico": "Pleurodeles waltl",
    "tipo": "ANFIBIO",
@@ -2491,7 +1987,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pleurodeles_waltl"
   },
   {
-   "id": 179,
+   "id": 143,
    "nombreComun": "Salamandra Común",
    "nombreCientifico": "Salamandra salamandra",
    "tipo": "ANFIBIO",
@@ -2505,7 +2001,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salamandra_salamandra"
   },
   {
-   "id": 180,
+   "id": 144,
    "nombreComun": "Ranita Meridional",
    "nombreCientifico": "Hyla meridionalis",
    "tipo": "ANFIBIO",
@@ -2519,7 +2015,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hyla_meridionalis"
   },
   {
-   "id": 181,
+   "id": 145,
    "nombreComun": "Boletus edulis",
    "nombreCientifico": "Boletus edulis",
    "tipo": "HONGO",
@@ -2533,7 +2029,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Boletus_edulis"
   },
   {
-   "id": 182,
+   "id": 146,
    "nombreComun": "Tana o Amanita Cesárea",
    "nombreCientifico": "Amanita caesarea",
    "tipo": "HONGO",
@@ -2547,21 +2043,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Amanita_caesarea"
   },
   {
-   "id": 183,
-   "nombreComun": "Gurumelo",
-   "nombreCientifico": "Amanita ponderosa",
-   "tipo": "HONGO",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Seta blanca grande característica del Andévalo onubense.",
-   "curiosidades": "Símbolo gastronómico del Andévalo, con feria propia en El Cerro.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Amanita_ponderosa"
-  },
-  {
-   "id": 184,
+   "id": 147,
    "nombreComun": "Níscalo",
    "nombreCientifico": "Lactarius deliciosus",
    "tipo": "HONGO",
@@ -2575,7 +2057,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lactarius_deliciosus"
   },
   {
-   "id": 185,
+   "id": 148,
    "nombreComun": "Tentullo",
    "nombreCientifico": "Boletus pinophilus",
    "tipo": "HONGO",
@@ -2589,7 +2071,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Boletus_pinophilus"
   },
   {
-   "id": 186,
+   "id": 149,
    "nombreComun": "Cantarela",
    "nombreCientifico": "Cantharellus cibarius",
    "tipo": "HONGO",
@@ -2603,7 +2085,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cantharellus_cibarius"
   },
   {
-   "id": 187,
+   "id": 150,
    "nombreComun": "Trompeta de los Muertos",
    "nombreCientifico": "Craterellus cornucopioides",
    "tipo": "HONGO",
@@ -2617,7 +2099,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Craterellus_cornucopioides"
   },
   {
-   "id": 188,
+   "id": 151,
    "nombreComun": "Pie Azul",
    "nombreCientifico": "Lepista nuda",
    "tipo": "HONGO",
@@ -2631,7 +2113,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lepista_nuda"
   },
   {
-   "id": 189,
+   "id": 152,
    "nombreComun": "Tortullo",
    "nombreCientifico": "Tricholoma equestre",
    "tipo": "HONGO",
@@ -2645,7 +2127,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tricholoma_equestre"
   },
   {
-   "id": 190,
+   "id": 153,
    "nombreComun": "Champiñón Silvestre",
    "nombreCientifico": "Agaricus campestris",
    "tipo": "HONGO",
@@ -2659,7 +2141,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Agaricus_campestris"
   },
   {
-   "id": 191,
+   "id": 154,
    "nombreComun": "Parasol",
    "nombreCientifico": "Macrolepiota procera",
    "tipo": "HONGO",
@@ -2673,7 +2155,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Macrolepiota_procera"
   },
   {
-   "id": 192,
+   "id": 155,
    "nombreComun": "Trufa Negra",
    "nombreCientifico": "Tuber melanosporum",
    "tipo": "HONGO",
@@ -2687,7 +2169,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tuber_melanosporum"
   },
   {
-   "id": 193,
+   "id": 156,
    "nombreComun": "Oronja Verde",
    "nombreCientifico": "Amanita phalloides",
    "tipo": "HONGO",
@@ -2701,7 +2183,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Amanita_phalloides"
   },
   {
-   "id": 194,
+   "id": 157,
    "nombreComun": "Matamoscas",
    "nombreCientifico": "Amanita muscaria",
    "tipo": "HONGO",
@@ -2715,7 +2197,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Amanita_muscaria"
   },
   {
-   "id": 195,
+   "id": 158,
    "nombreComun": "Hígado de Buey",
    "nombreCientifico": "Fistulina hepatica",
    "tipo": "HONGO",
@@ -2729,7 +2211,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Fistulina_hepatica"
   },
   {
-   "id": 196,
+   "id": 159,
    "nombreComun": "Romero",
    "nombreCientifico": "Salvia rosmarinus",
    "tipo": "PLANTA",
@@ -2743,7 +2225,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvia_rosmarinus"
   },
   {
-   "id": 197,
+   "id": 160,
    "nombreComun": "Tomillo",
    "nombreCientifico": "Thymus zygis",
    "tipo": "PLANTA",
@@ -2757,7 +2239,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thymus_zygis"
   },
   {
-   "id": 198,
+   "id": 161,
    "nombreComun": "Lavanda",
    "nombreCientifico": "Lavandula stoechas",
    "tipo": "PLANTA",
@@ -2771,7 +2253,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lavandula_stoechas"
   },
   {
-   "id": 199,
+   "id": 162,
    "nombreComun": "Orégano",
    "nombreCientifico": "Origanum vulgare",
    "tipo": "PLANTA",
@@ -2785,7 +2267,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Origanum_vulgare"
   },
   {
-   "id": 200,
+   "id": 163,
    "nombreComun": "Mejorana",
    "nombreCientifico": "Origanum majorana",
    "tipo": "PLANTA",
@@ -2799,7 +2281,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Origanum_majorana"
   },
   {
-   "id": 201,
+   "id": 164,
    "nombreComun": "Cantueso",
    "nombreCientifico": "Lavandula stoechas pedunculata",
    "tipo": "PLANTA",
@@ -2813,7 +2295,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lavandula_stoechas_subsp._pedunculata"
   },
   {
-   "id": 202,
+   "id": 165,
    "nombreComun": "Jara Blanca",
    "nombreCientifico": "Cistus albidus",
    "tipo": "PLANTA",
@@ -2827,7 +2309,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cistus_albidus"
   },
   {
-   "id": 203,
+   "id": 166,
    "nombreComun": "Jara de Hoja Estrecha",
    "nombreCientifico": "Cistus monspeliensis",
    "tipo": "PLANTA",
@@ -2841,63 +2323,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cistus_monspeliensis"
   },
   {
-   "id": 204,
-   "nombreComun": "Brezo",
-   "nombreCientifico": "Erica arborea",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto con flores blancas. Sus raíces se usan para pipas.",
-   "curiosidades": "Material de pipas de brezo, oficio tradicional serrano.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Erica_arborea"
-  },
-  {
-   "id": 205,
-   "nombreComun": "Madroño",
-   "nombreCientifico": "Arbutus unedo",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto con frutos rojos comestibles. Símbolo de Madrid.",
-   "curiosidades": "Frutos para licor de madroño, tradicional en la sierra.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Arbutus_unedo"
-  },
-  {
-   "id": 206,
-   "nombreComun": "Mirto o Arrayán",
-   "nombreCientifico": "Myrtus communis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto aromático con flores blancas y frutos azulados.",
-   "curiosidades": "Símbolo histórico mediterráneo, hojas perfumadas.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Myrtus_communis"
-  },
-  {
-   "id": 207,
-   "nombreComun": "Lentisco",
-   "nombreCientifico": "Pistacia lentiscus",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto con resina aromática (almáciga). Base del monte mediterráneo.",
-   "curiosidades": "Resina histórica, sus hojas tiñen los campos en otoño.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pistacia_lentiscus"
-  },
-  {
-   "id": 208,
+   "id": 167,
    "nombreComun": "Coscoja",
    "nombreCientifico": "Quercus coccifera",
    "tipo": "PLANTA",
@@ -2911,7 +2337,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Quercus_coccifera"
   },
   {
-   "id": 209,
+   "id": 168,
    "nombreComun": "Quejigo",
    "nombreCientifico": "Quercus faginea",
    "tipo": "PLANTA",
@@ -2925,7 +2351,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Quercus_faginea"
   },
   {
-   "id": 210,
+   "id": 169,
    "nombreComun": "Roble Melojo",
    "nombreCientifico": "Quercus pyrenaica",
    "tipo": "PLANTA",
@@ -2939,35 +2365,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Quercus_pyrenaica"
   },
   {
-   "id": 211,
-   "nombreComun": "Pino Piñonero",
-   "nombreCientifico": "Pinus pinea",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pino con copa en forma de paraguas. Produce piñones gourmet.",
-   "curiosidades": "Símbolo del pinar costero onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pinus_pinea"
-  },
-  {
-   "id": 212,
-   "nombreComun": "Pino Resinero",
-   "nombreCientifico": "Pinus pinaster",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pino con resina abundante, base de la industria resinera.",
-   "curiosidades": "Resinaje tradicional onubense desde tiempos remotos.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pinus_pinaster"
-  },
-  {
-   "id": 213,
+   "id": 170,
    "nombreComun": "Sabina Albar",
    "nombreCientifico": "Juniperus thurifera",
    "tipo": "PLANTA",
@@ -2981,7 +2379,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juniperus_thurifera"
   },
   {
-   "id": 214,
+   "id": 171,
    "nombreComun": "Enebro",
    "nombreCientifico": "Juniperus oxycedrus",
    "tipo": "PLANTA",
@@ -2995,7 +2393,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juniperus_oxycedrus"
   },
   {
-   "id": 215,
+   "id": 172,
    "nombreComun": "Algarrobo",
    "nombreCientifico": "Ceratonia siliqua",
    "tipo": "PLANTA",
@@ -3009,35 +2407,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ceratonia_siliqua"
   },
   {
-   "id": 216,
-   "nombreComun": "Olivo Silvestre (Acebuche)",
-   "nombreCientifico": "Olea europaea sylvestris",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ancestro silvestre del olivo. Madera dura y resistente.",
-   "curiosidades": "Acebuches milenarios protegidos como árboles singulares.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Olea_europaea_sylvestris"
-  },
-  {
-   "id": 217,
-   "nombreComun": "Adelfa",
-   "nombreCientifico": "Nerium oleander",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto con flores rosadas. Toda la planta es venenosa.",
-   "curiosidades": "Bordea ramblas y arroyos onubenses. NO consumir.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Nerium_oleander"
-  },
-  {
-   "id": 218,
+   "id": 173,
    "nombreComun": "Taraje",
    "nombreCientifico": "Tamarix gallica",
    "tipo": "PLANTA",
@@ -3051,21 +2421,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tamarix_gallica"
   },
   {
-   "id": 219,
-   "nombreComun": "Sabina Mora",
-   "nombreCientifico": "Juniperus phoenicea",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "COSTA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Sabina costera adaptada al ambiente marino. Resistente al viento.",
-   "curiosidades": "Sobre las dunas del litoral onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Juniperus_phoenicea"
-  },
-  {
-   "id": 220,
+   "id": 174,
    "nombreComun": "Barrón",
    "nombreCientifico": "Ammophila arenaria",
    "tipo": "PLANTA",
@@ -3079,7 +2435,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ammophila_arenaria"
   },
   {
-   "id": 221,
+   "id": 175,
    "nombreComun": "Cardo Marino",
    "nombreCientifico": "Eryngium maritimum",
    "tipo": "PLANTA",
@@ -3093,7 +2449,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Eryngium_maritimum"
   },
   {
-   "id": 222,
+   "id": 176,
    "nombreComun": "Salicornia",
    "nombreCientifico": "Salicornia europaea",
    "tipo": "PLANTA",
@@ -3107,7 +2463,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salicornia_europaea"
   },
   {
-   "id": 223,
+   "id": 177,
    "nombreComun": "Albardín",
    "nombreCientifico": "Lygeum spartum",
    "tipo": "PLANTA",
@@ -3121,7 +2477,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lygeum_spartum"
   },
   {
-   "id": 224,
+   "id": 178,
    "nombreComun": "Esparto",
    "nombreCientifico": "Stipa tenacissima",
    "tipo": "PLANTA",
@@ -3135,7 +2491,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Stipa_tenacissima"
   },
   {
-   "id": 225,
+   "id": 179,
    "nombreComun": "Helecho Común",
    "nombreCientifico": "Pteridium aquilinum",
    "tipo": "PLANTA",
@@ -3149,7 +2505,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pteridium_aquilinum"
   },
   {
-   "id": 226,
+   "id": 180,
    "nombreComun": "Mariposa Apolo",
    "nombreCientifico": "Parnassius apollo",
    "tipo": "INSECTO",
@@ -3163,7 +2519,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Parnassius_apollo"
   },
   {
-   "id": 227,
+   "id": 181,
    "nombreComun": "Mariposa Cleopatra",
    "nombreCientifico": "Gonepteryx cleopatra",
    "tipo": "INSECTO",
@@ -3177,7 +2533,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Gonepteryx_cleopatra"
   },
   {
-   "id": 228,
+   "id": 182,
    "nombreComun": "Mariposa Atalanta",
    "nombreCientifico": "Vanessa atalanta",
    "tipo": "INSECTO",
@@ -3191,7 +2547,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vanessa_atalanta"
   },
   {
-   "id": 229,
+   "id": 183,
    "nombreComun": "Mariposa Pavo Real",
    "nombreCientifico": "Aglais io",
    "tipo": "INSECTO",
@@ -3205,7 +2561,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aglais_io"
   },
   {
-   "id": 230,
+   "id": 184,
    "nombreComun": "Abeja Doméstica",
    "nombreCientifico": "Apis mellifera",
    "tipo": "INSECTO",
@@ -3219,7 +2575,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Apis_mellifera"
   },
   {
-   "id": 231,
+   "id": 185,
    "nombreComun": "Abejorro",
    "nombreCientifico": "Bombus terrestris",
    "tipo": "INSECTO",
@@ -3233,7 +2589,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bombus_terrestris"
   },
   {
-   "id": 232,
+   "id": 186,
    "nombreComun": "Mantis Religiosa",
    "nombreCientifico": "Mantis religiosa",
    "tipo": "INSECTO",
@@ -3247,7 +2603,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mantis_religiosa"
   },
   {
-   "id": 233,
+   "id": 187,
    "nombreComun": "Cigarra",
    "nombreCientifico": "Cicada orni",
    "tipo": "INSECTO",
@@ -3261,7 +2617,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cicada_orni"
   },
   {
-   "id": 234,
+   "id": 188,
    "nombreComun": "Escarabajo Ciervo Volante",
    "nombreCientifico": "Lucanus cervus",
    "tipo": "INSECTO",
@@ -3275,7 +2631,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lucanus_cervus"
   },
   {
-   "id": 235,
+   "id": 189,
    "nombreComun": "Escarabajo Rinoceronte",
    "nombreCientifico": "Oryctes nasicornis",
    "tipo": "INSECTO",
@@ -3289,7 +2645,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Oryctes_nasicornis"
   },
   {
-   "id": 236,
+   "id": 190,
    "nombreComun": "Saltamontes Egipcio",
    "nombreCientifico": "Anacridium aegyptium",
    "tipo": "INSECTO",
@@ -3303,7 +2659,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Anacridium_aegyptium"
   },
   {
-   "id": 237,
+   "id": 191,
    "nombreComun": "Libélula Emperador",
    "nombreCientifico": "Anax imperator",
    "tipo": "INSECTO",
@@ -3317,7 +2673,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Anax_imperator"
   },
   {
-   "id": 238,
+   "id": 192,
    "nombreComun": "Procesionaria del Pino",
    "nombreCientifico": "Thaumetopoea pityocampa",
    "tipo": "INSECTO",
@@ -3331,7 +2687,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thaumetopoea_pityocampa"
   },
   {
-   "id": 239,
+   "id": 193,
    "nombreComun": "Escorpión Amarillo",
    "nombreCientifico": "Buthus occitanus",
    "tipo": "INSECTO",
@@ -3345,7 +2701,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Buthus_occitanus"
   },
   {
-   "id": 240,
+   "id": 194,
    "nombreComun": "Caracol Serrano",
    "nombreCientifico": "Iberus gualtieranus",
    "tipo": "INSECTO",
@@ -3359,7 +2715,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Iberus_gualtieranus"
   },
   {
-   "id": 241,
+   "id": 195,
    "nombreComun": "Dorada",
    "nombreCientifico": "Sparus aurata",
    "tipo": "PEZ",
@@ -3373,7 +2729,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sparus_aurata"
   },
   {
-   "id": 242,
+   "id": 196,
    "nombreComun": "Lubina",
    "nombreCientifico": "Dicentrarchus labrax",
    "tipo": "PEZ",
@@ -3387,7 +2743,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Dicentrarchus_labrax"
   },
   {
-   "id": 243,
+   "id": 197,
    "nombreComun": "Sardina",
    "nombreCientifico": "Sardina pilchardus",
    "tipo": "PEZ",
@@ -3401,7 +2757,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sardina_pilchardus"
   },
   {
-   "id": 244,
+   "id": 198,
    "nombreComun": "Anchoveta",
    "nombreCientifico": "Engraulis encrasicolus",
    "tipo": "PEZ",
@@ -3415,7 +2771,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Engraulis_encrasicolus"
   },
   {
-   "id": 245,
+   "id": 199,
    "nombreComun": "Acedía",
    "nombreCientifico": "Dicologlossa cuneata",
    "tipo": "PEZ",
@@ -3429,7 +2785,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Dicologlossa_cuneata"
   },
   {
-   "id": 246,
+   "id": 200,
    "nombreComun": "Cazón",
    "nombreCientifico": "Galeorhinus galeus",
    "tipo": "PEZ",
@@ -3443,7 +2799,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Galeorhinus_galeus"
   },
   {
-   "id": 247,
+   "id": 201,
    "nombreComun": "Coquina",
    "nombreCientifico": "Donax trunculus",
    "tipo": "PEZ",
@@ -3457,7 +2813,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Donax_trunculus"
   },
   {
-   "id": 248,
+   "id": 202,
    "nombreComun": "Camarón",
    "nombreCientifico": "Palaemon serratus",
    "tipo": "PEZ",
@@ -3471,7 +2827,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Palaemon_serratus"
   },
   {
-   "id": 249,
+   "id": 203,
    "nombreComun": "Bogavante",
    "nombreCientifico": "Homarus gammarus",
    "tipo": "PEZ",
@@ -3485,7 +2841,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Homarus_gammarus"
   },
   {
-   "id": 250,
+   "id": 204,
    "nombreComun": "Cangrejo Real",
    "nombreCientifico": "Maja squinado",
    "tipo": "PEZ",
@@ -3499,7 +2855,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Maja_squinado"
   },
   {
-   "id": 251,
+   "id": 205,
    "nombreComun": "Águila Real",
    "nombreCientifico": "Aquila chrysaetos",
    "tipo": "AVE",
@@ -3513,49 +2869,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aquila_chrysaetos"
   },
   {
-   "id": 252,
-   "nombreComun": "Halcón Peregrino",
-   "nombreCientifico": "Falco peregrinus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Ave más rápida del mundo, alcanza 300 km/h en picado.",
-   "curiosidades": "Nidifica en cantiles serranos y en algunos edificios onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Falco_peregrinus"
-  },
-  {
-   "id": 253,
-   "nombreComun": "Buitre Negro",
-   "nombreCientifico": "Aegypius monachus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "El ave rapaz más grande de Europa. Carroñero forestal.",
-   "curiosidades": "Cría en Sierra Pelada, hábitat clave en Huelva.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aegypius_monachus"
-  },
-  {
-   "id": 254,
-   "nombreComun": "Buitre Leonado",
-   "nombreCientifico": "Gyps fulvus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gran rapaz carroñera con plumaje pardo y cabeza blanca.",
-   "curiosidades": "Sobrevuela las sierras onubenses en busca de carroña.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Gyps_fulvus"
-  },
-  {
-   "id": 255,
+   "id": 206,
    "nombreComun": "Aguilucho Pálido",
    "nombreCientifico": "Circus cyaneus",
    "tipo": "AVE",
@@ -3569,7 +2883,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Circus_cyaneus"
   },
   {
-   "id": 256,
+   "id": 207,
    "nombreComun": "Azor Común",
    "nombreCientifico": "Accipiter gentilis",
    "tipo": "AVE",
@@ -3583,7 +2897,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Accipiter_gentilis"
   },
   {
-   "id": 257,
+   "id": 208,
    "nombreComun": "Gavilán",
    "nombreCientifico": "Accipiter nisus",
    "tipo": "AVE",
@@ -3597,21 +2911,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Accipiter_nisus"
   },
   {
-   "id": 258,
-   "nombreComun": "Búho Real",
-   "nombreCientifico": "Bubo bubo",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "El mayor búho de Europa, hasta 70 cm de altura.",
-   "curiosidades": "Cantiles serranos onubenses con vuelo nocturno.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Bubo_bubo"
-  },
-  {
-   "id": 259,
+   "id": 209,
    "nombreComun": "Lechuza Común",
    "nombreCientifico": "Tyto alba",
    "tipo": "AVE",
@@ -3625,7 +2925,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tyto_alba"
   },
   {
-   "id": 260,
+   "id": 210,
    "nombreComun": "Mochuelo Común",
    "nombreCientifico": "Athene noctua",
    "tipo": "AVE",
@@ -3639,7 +2939,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Athene_noctua"
   },
   {
-   "id": 261,
+   "id": 211,
    "nombreComun": "Autillo",
    "nombreCientifico": "Otus scops",
    "tipo": "AVE",
@@ -3653,7 +2953,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Otus_scops"
   },
   {
-   "id": 262,
+   "id": 212,
    "nombreComun": "Cárabo Común",
    "nombreCientifico": "Strix aluco",
    "tipo": "AVE",
@@ -3667,35 +2967,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Strix_aluco"
   },
   {
-   "id": 263,
-   "nombreComun": "Carraca Europea",
-   "nombreCientifico": "Coracias garrulus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Ave colorida azul, naranja y verde brillante. Espectacular.",
-   "curiosidades": "Estival en dehesas onubenses, en declive poblacional.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Coracias_garrulus"
-  },
-  {
-   "id": 264,
-   "nombreComun": "Abejaruco",
-   "nombreCientifico": "Merops apiaster",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave colorida que caza abejas y avispas en vuelo.",
-   "curiosidades": "Nidifica en taludes arenosos de Huelva.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Merops_apiaster"
-  },
-  {
-   "id": 265,
+   "id": 213,
    "nombreComun": "Martín Pescador",
    "nombreCientifico": "Alcedo atthis",
    "tipo": "AVE",
@@ -3709,21 +2981,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Alcedo_atthis"
   },
   {
-   "id": 266,
-   "nombreComun": "Abubilla",
-   "nombreCientifico": "Upupa epops",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave con cresta espectacular y plumaje rosado. Vuelo ondulante.",
-   "curiosidades": "Característica de dehesas y huertas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Upupa_epops"
-  },
-  {
-   "id": 267,
+   "id": 214,
    "nombreComun": "Pito Real",
    "nombreCientifico": "Picus viridis",
    "tipo": "AVE",
@@ -3737,7 +2995,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Picus_viridis"
   },
   {
-   "id": 268,
+   "id": 215,
    "nombreComun": "Pico Picapinos",
    "nombreCientifico": "Dendrocopos major",
    "tipo": "AVE",
@@ -3751,7 +3009,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Dendrocopos_major"
   },
   {
-   "id": 269,
+   "id": 216,
    "nombreComun": "Trepador Azul",
    "nombreCientifico": "Sitta europaea",
    "tipo": "AVE",
@@ -3765,7 +3023,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sitta_europaea"
   },
   {
-   "id": 270,
+   "id": 217,
    "nombreComun": "Agateador Común",
    "nombreCientifico": "Certhia brachydactyla",
    "tipo": "AVE",
@@ -3779,7 +3037,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Certhia_brachydactyla"
   },
   {
-   "id": 271,
+   "id": 218,
    "nombreComun": "Reyezuelo Listado",
    "nombreCientifico": "Regulus ignicapilla",
    "tipo": "AVE",
@@ -3793,7 +3051,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Regulus_ignicapilla"
   },
   {
-   "id": 272,
+   "id": 219,
    "nombreComun": "Colirrojo Tizón",
    "nombreCientifico": "Phoenicurus ochruros",
    "tipo": "AVE",
@@ -3807,7 +3065,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phoenicurus_ochruros"
   },
   {
-   "id": 273,
+   "id": 220,
    "nombreComun": "Roquero Solitario",
    "nombreCientifico": "Monticola solitarius",
    "tipo": "AVE",
@@ -3821,7 +3079,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Monticola_solitarius"
   },
   {
-   "id": 274,
+   "id": 221,
    "nombreComun": "Collalba Rubia",
    "nombreCientifico": "Oenanthe hispanica",
    "tipo": "AVE",
@@ -3835,7 +3093,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Oenanthe_hispanica"
   },
   {
-   "id": 275,
+   "id": 222,
    "nombreComun": "Triguero",
    "nombreCientifico": "Emberiza calandra",
    "tipo": "AVE",
@@ -3849,49 +3107,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Emberiza_calandra"
   },
   {
-   "id": 276,
-   "nombreComun": "Tejón",
-   "nombreCientifico": "Meles meles",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mustélido nocturno con cara rayada blanco y negro.",
-   "curiosidades": "Bosques serranos onubenses, vive en tejoneras familiares.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Meles_meles"
-  },
-  {
-   "id": 277,
-   "nombreComun": "Gineta",
-   "nombreCientifico": "Genetta genetta",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Carnívoro nocturno con cola larga anillada.",
-   "curiosidades": "Habitual en bosques y dehesas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Genetta_genetta"
-  },
-  {
-   "id": 278,
-   "nombreComun": "Meloncillo",
-   "nombreCientifico": "Herpestes ichneumon",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mangosta europea, único en el continente. Caza serpientes.",
-   "curiosidades": "Endemismo ibérico, presente en Doñana y sierras onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Herpestes_ichneumon"
-  },
-  {
-   "id": 279,
+   "id": 223,
    "nombreComun": "Gato Montés",
    "nombreCientifico": "Felis silvestris",
    "tipo": "MAMIFERO",
@@ -3905,7 +3121,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Felis_silvestris"
   },
   {
-   "id": 280,
+   "id": 224,
    "nombreComun": "Murciélago Mediterráneo",
    "nombreCientifico": "Rhinolophus euryale",
    "tipo": "MAMIFERO",
@@ -3919,21 +3135,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rhinolophus_euryale"
   },
   {
-   "id": 281,
-   "nombreComun": "Murciélago de Cueva",
-   "nombreCientifico": "Miniopterus schreibersii",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Murciélago social que forma grandes colonias en cuevas.",
-   "curiosidades": "Refugios en cuevas serranas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Miniopterus_schreibersii"
-  },
-  {
-   "id": 282,
+   "id": 225,
    "nombreComun": "Murciélago Hortelano",
    "nombreCientifico": "Eptesicus serotinus",
    "tipo": "MAMIFERO",
@@ -3947,7 +3149,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Eptesicus_serotinus"
   },
   {
-   "id": 283,
+   "id": 226,
    "nombreComun": "Murciélago Enano",
    "nombreCientifico": "Pipistrellus pipistrellus",
    "tipo": "MAMIFERO",
@@ -3961,7 +3163,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pipistrellus_pipistrellus"
   },
   {
-   "id": 284,
+   "id": 227,
    "nombreComun": "Topillo Mediterráneo",
    "nombreCientifico": "Microtus duodecimcostatus",
    "tipo": "MAMIFERO",
@@ -3975,7 +3177,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Microtus_duodecimcostatus"
   },
   {
-   "id": 285,
+   "id": 228,
    "nombreComun": "Ratón Casero",
    "nombreCientifico": "Mus domesticus",
    "tipo": "MAMIFERO",
@@ -3989,7 +3191,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mus_musculus"
   },
   {
-   "id": 286,
+   "id": 229,
    "nombreComun": "Ratón Espigador",
    "nombreCientifico": "Micromys minutus",
    "tipo": "MAMIFERO",
@@ -4003,7 +3205,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Micromys_minutus"
   },
   {
-   "id": 287,
+   "id": 230,
    "nombreComun": "Erizo Moruno",
    "nombreCientifico": "Atelerix algirus",
    "tipo": "MAMIFERO",
@@ -4017,7 +3219,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Atelerix_algirus"
   },
   {
-   "id": 288,
+   "id": 231,
    "nombreComun": "Musgaño",
    "nombreCientifico": "Neomys anomalus",
    "tipo": "MAMIFERO",
@@ -4031,7 +3233,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Neomys_anomalus"
   },
   {
-   "id": 289,
+   "id": 232,
    "nombreComun": "Caballo Marismeño",
    "nombreCientifico": "Equus caballus",
    "tipo": "MAMIFERO",
@@ -4045,49 +3247,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Caballo_marisme%C3%B1o"
   },
   {
-   "id": 290,
-   "nombreComun": "Vaca Marismeña",
-   "nombreCientifico": "Bos taurus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Vaca autóctona adaptada a las condiciones de las marismas de Doñana.",
-   "curiosidades": "Raza autóctona doñanera, base trófica del lince y el águila imperial.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vaca_marisme%C3%B1a"
-  },
-  {
-   "id": 291,
-   "nombreComun": "Camaleón Común",
-   "nombreCientifico": "Chamaeleo chamaeleon",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Reptil único en Europa con capacidad para cambiar de color.",
-   "curiosidades": "Población costera de Huelva, especie protegida.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Chamaeleo_chamaeleon"
-  },
-  {
-   "id": 292,
-   "nombreComun": "Salamanquesa Común",
-   "nombreCientifico": "Tarentola mauritanica",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño lagarto nocturno que vive en paredes y edificios.",
-   "curiosidades": "Habitual en pueblos onubenses, beneficiosa.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Tarentola_mauritanica"
-  },
-  {
-   "id": 293,
+   "id": 233,
    "nombreComun": "Lagartija Ibérica",
    "nombreCientifico": "Podarcis hispanica",
    "tipo": "REPTIL",
@@ -4101,7 +3261,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Podarcis_hispanica"
   },
   {
-   "id": 294,
+   "id": 234,
    "nombreComun": "Culebrilla Ciega",
    "nombreCientifico": "Blanus cinereus",
    "tipo": "REPTIL",
@@ -4115,21 +3275,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Blanus_cinereus"
   },
   {
-   "id": 295,
-   "nombreComun": "Culebra de Herradura",
-   "nombreCientifico": "Hemorrhois hippocrepis",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Culebra mediana con dibujo de herradura en la nuca.",
-   "curiosidades": "Frecuente en monte mediterráneo onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Hemorrhois_hippocrepis"
-  },
-  {
-   "id": 296,
+   "id": 235,
    "nombreComun": "Culebra de Cogulla",
    "nombreCientifico": "Macroprotodon brevis",
    "tipo": "REPTIL",
@@ -4143,35 +3289,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Macroprotodon_brevis"
   },
   {
-   "id": 297,
-   "nombreComun": "Galápago Leproso",
-   "nombreCientifico": "Mauremys leprosa",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Tortuga acuática más común en aguas onubenses.",
-   "curiosidades": "Habitual en lagunas y arroyos onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Mauremys_leprosa"
-  },
-  {
-   "id": 298,
-   "nombreComun": "Sapo Partero Ibérico",
-   "nombreCientifico": "Alytes cisternasii",
-   "tipo": "ANFIBIO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Sapo macho que transporta huevos en sus patas. Endémico ibérico.",
-   "curiosidades": "Endémico ibérico en bosques serranos onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Alytes_cisternasii"
-  },
-  {
-   "id": 299,
+   "id": 236,
    "nombreComun": "Rana Ibérica",
    "nombreCientifico": "Rana iberica",
    "tipo": "ANFIBIO",
@@ -4185,7 +3303,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rana_iberica"
   },
   {
-   "id": 300,
+   "id": 237,
    "nombreComun": "Tortuga Boba Marina",
    "nombreCientifico": "Caretta caretta",
    "tipo": "REPTIL",
@@ -4199,21 +3317,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Caretta_caretta"
   },
   {
-   "id": 301,
-   "nombreComun": "Mariposa Macaón",
-   "nombreCientifico": "Papilio machaon",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Una de las mariposas más bellas, amarilla con manchas negras y azules.",
-   "curiosidades": "Característica del monte onubense, oruga sobre hinojo.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Papilio_machaon"
-  },
-  {
-   "id": 302,
+   "id": 238,
    "nombreComun": "Mariposa Chupaleche",
    "nombreCientifico": "Iphiclides feisthamelii",
    "tipo": "INSECTO",
@@ -4227,7 +3331,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Iphiclides_feisthamelii"
   },
   {
-   "id": 303,
+   "id": 239,
    "nombreComun": "Mariposa Cardera",
    "nombreCientifico": "Vanessa cardui",
    "tipo": "INSECTO",
@@ -4241,7 +3345,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vanessa_cardui"
   },
   {
-   "id": 304,
+   "id": 240,
    "nombreComun": "Mariposa Limonera",
    "nombreCientifico": "Gonepteryx rhamni",
    "tipo": "INSECTO",
@@ -4255,7 +3359,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Gonepteryx_rhamni"
   },
   {
-   "id": 305,
+   "id": 241,
    "nombreComun": "Mariposa Niña Celeste",
    "nombreCientifico": "Polyommatus icarus",
    "tipo": "INSECTO",
@@ -4269,7 +3373,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Polyommatus_icarus"
   },
   {
-   "id": 306,
+   "id": 242,
    "nombreComun": "Mariposa Saltacercas",
    "nombreCientifico": "Lasiommata megera",
    "tipo": "INSECTO",
@@ -4283,7 +3387,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lasiommata_megera"
   },
   {
-   "id": 307,
+   "id": 243,
    "nombreComun": "Mariposa Doncella Mayor",
    "nombreCientifico": "Argynnis pandora",
    "tipo": "INSECTO",
@@ -4297,7 +3401,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Argynnis_pandora"
   },
   {
-   "id": 308,
+   "id": 244,
    "nombreComun": "Mariposa Esfinge Calavera",
    "nombreCientifico": "Acherontia atropos",
    "tipo": "INSECTO",
@@ -4311,7 +3415,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Acherontia_atropos"
   },
   {
-   "id": 309,
+   "id": 245,
    "nombreComun": "Mariposa Esfinge Colibrí",
    "nombreCientifico": "Macroglossum stellatarum",
    "tipo": "INSECTO",
@@ -4325,7 +3429,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Macroglossum_stellatarum"
   },
   {
-   "id": 310,
+   "id": 246,
    "nombreComun": "Avispa Asiática",
    "nombreCientifico": "Vespa velutina",
    "tipo": "INSECTO",
@@ -4339,7 +3443,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vespa_velutina"
   },
   {
-   "id": 311,
+   "id": 247,
    "nombreComun": "Mariquita de Siete Puntos",
    "nombreCientifico": "Coccinella septempunctata",
    "tipo": "INSECTO",
@@ -4353,7 +3457,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Coccinella_septempunctata"
   },
   {
-   "id": 312,
+   "id": 248,
    "nombreComun": "Luciérnaga",
    "nombreCientifico": "Lampyris noctiluca",
    "tipo": "INSECTO",
@@ -4367,7 +3471,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lampyris_noctiluca"
   },
   {
-   "id": 313,
+   "id": 249,
    "nombreComun": "Hormiga de los Pinos",
    "nombreCientifico": "Camponotus cruentatus",
    "tipo": "INSECTO",
@@ -4381,7 +3485,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Camponotus_cruentatus"
   },
   {
-   "id": 314,
+   "id": 250,
    "nombreComun": "Tijereta",
    "nombreCientifico": "Forficula auricularia",
    "tipo": "INSECTO",
@@ -4395,7 +3499,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Forficula_auricularia"
   },
   {
-   "id": 315,
+   "id": 251,
    "nombreComun": "Avispa Común",
    "nombreCientifico": "Vespula vulgaris",
    "tipo": "INSECTO",
@@ -4409,7 +3513,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vespula_vulgaris"
   },
   {
-   "id": 316,
+   "id": 252,
    "nombreComun": "Caballito del Diablo",
    "nombreCientifico": "Calopteryx haemorrhoidalis",
    "tipo": "INSECTO",
@@ -4423,7 +3527,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calopteryx_haemorrhoidalis"
   },
   {
-   "id": 317,
+   "id": 253,
    "nombreComun": "Escarabajo Pelotero",
    "nombreCientifico": "Scarabaeus laticollis",
    "tipo": "INSECTO",
@@ -4437,7 +3541,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Scarabaeus_laticollis"
   },
   {
-   "id": 318,
+   "id": 254,
    "nombreComun": "Grillo Topo",
    "nombreCientifico": "Gryllotalpa gryllotalpa",
    "tipo": "INSECTO",
@@ -4451,7 +3555,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Gryllotalpa_gryllotalpa"
   },
   {
-   "id": 319,
+   "id": 255,
    "nombreComun": "Pulpo Común",
    "nombreCientifico": "Octopus vulgaris",
    "tipo": "PEZ",
@@ -4465,7 +3569,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Octopus_vulgaris"
   },
   {
-   "id": 320,
+   "id": 256,
    "nombreComun": "Calamar Común",
    "nombreCientifico": "Loligo vulgaris",
    "tipo": "PEZ",
@@ -4479,7 +3583,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Loligo_vulgaris"
   },
   {
-   "id": 321,
+   "id": 257,
    "nombreComun": "Pino Carrasco",
    "nombreCientifico": "Pinus halepensis",
    "tipo": "PLANTA",
@@ -4493,21 +3597,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pinus_halepensis"
   },
   {
-   "id": 322,
-   "nombreComun": "Castaño",
-   "nombreCientifico": "Castanea sativa",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Árbol caducifolio productor de castañas. Centenarios en sierra.",
-   "curiosidades": "Castañares de la Sierra de Aracena, paisaje cultural.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Castanea_sativa"
-  },
-  {
-   "id": 323,
+   "id": 258,
    "nombreComun": "Tilo",
    "nombreCientifico": "Tilia platyphyllos",
    "tipo": "PLANTA",
@@ -4521,7 +3611,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tilia_platyphyllos"
   },
   {
-   "id": 324,
+   "id": 259,
    "nombreComun": "Sauce Llorón",
    "nombreCientifico": "Salix babylonica",
    "tipo": "PLANTA",
@@ -4535,7 +3625,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salix_babylonica"
   },
   {
-   "id": 325,
+   "id": 260,
    "nombreComun": "Chopo Blanco",
    "nombreCientifico": "Populus alba",
    "tipo": "PLANTA",
@@ -4549,7 +3639,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Populus_alba"
   },
   {
-   "id": 326,
+   "id": 261,
    "nombreComun": "Olmo",
    "nombreCientifico": "Ulmus minor",
    "tipo": "PLANTA",
@@ -4563,7 +3653,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ulmus_minor"
   },
   {
-   "id": 327,
+   "id": 262,
    "nombreComun": "Fresno",
    "nombreCientifico": "Fraxinus angustifolia",
    "tipo": "PLANTA",
@@ -4577,7 +3667,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Fraxinus_angustifolia"
   },
   {
-   "id": 328,
+   "id": 263,
    "nombreComun": "Almez",
    "nombreCientifico": "Celtis australis",
    "tipo": "PLANTA",
@@ -4591,7 +3681,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Celtis_australis"
   },
   {
-   "id": 329,
+   "id": 264,
    "nombreComun": "Higuera",
    "nombreCientifico": "Ficus carica",
    "tipo": "PLANTA",
@@ -4605,7 +3695,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ficus_carica"
   },
   {
-   "id": 330,
+   "id": 265,
    "nombreComun": "Granado",
    "nombreCientifico": "Punica granatum",
    "tipo": "PLANTA",
@@ -4619,7 +3709,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Punica_granatum"
   },
   {
-   "id": 331,
+   "id": 266,
    "nombreComun": "Naranjo Amargo",
    "nombreCientifico": "Citrus aurantium",
    "tipo": "PLANTA",
@@ -4633,7 +3723,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Citrus_aurantium"
   },
   {
-   "id": 332,
+   "id": 267,
    "nombreComun": "Algodón",
    "nombreCientifico": "Gossypium herbaceum",
    "tipo": "PLANTA",
@@ -4647,7 +3737,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Gossypium_herbaceum"
   },
   {
-   "id": 333,
+   "id": 268,
    "nombreComun": "Girasol",
    "nombreCientifico": "Helianthus annuus",
    "tipo": "PLANTA",
@@ -4661,7 +3751,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Helianthus_annuus"
   },
   {
-   "id": 334,
+   "id": 269,
    "nombreComun": "Trigo Duro",
    "nombreCientifico": "Triticum durum",
    "tipo": "PLANTA",
@@ -4675,7 +3765,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Triticum_durum"
   },
   {
-   "id": 335,
+   "id": 270,
    "nombreComun": "Vid",
    "nombreCientifico": "Vitis vinifera",
    "tipo": "PLANTA",
@@ -4689,7 +3779,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vitis_vinifera"
   },
   {
-   "id": 336,
+   "id": 271,
    "nombreComun": "Olivo",
    "nombreCientifico": "Olea europaea",
    "tipo": "PLANTA",
@@ -4703,7 +3793,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Olea_europaea"
   },
   {
-   "id": 337,
+   "id": 272,
    "nombreComun": "Fresa",
    "nombreCientifico": "Fragaria ananassa",
    "tipo": "PLANTA",
@@ -4717,7 +3807,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Fragaria"
   },
   {
-   "id": 338,
+   "id": 273,
    "nombreComun": "Arándano",
    "nombreCientifico": "Vaccinium corymbosum",
    "tipo": "PLANTA",
@@ -4731,7 +3821,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vaccinium_corymbosum"
   },
   {
-   "id": 339,
+   "id": 274,
    "nombreComun": "Frambuesa",
    "nombreCientifico": "Rubus idaeus",
    "tipo": "PLANTA",
@@ -4745,7 +3835,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rubus_idaeus"
   },
   {
-   "id": 340,
+   "id": 275,
    "nombreComun": "Membrillero",
    "nombreCientifico": "Cydonia oblonga",
    "tipo": "PLANTA",
@@ -4759,7 +3849,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cydonia_oblonga"
   },
   {
-   "id": 341,
+   "id": 276,
    "nombreComun": "Almendro",
    "nombreCientifico": "Prunus dulcis",
    "tipo": "PLANTA",
@@ -4773,7 +3863,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Prunus_dulcis"
   },
   {
-   "id": 342,
+   "id": 277,
    "nombreComun": "Nogal",
    "nombreCientifico": "Juglans regia",
    "tipo": "PLANTA",
@@ -4787,7 +3877,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juglans_regia"
   },
   {
-   "id": 343,
+   "id": 278,
    "nombreComun": "Eucalipto",
    "nombreCientifico": "Eucalyptus globulus",
    "tipo": "PLANTA",
@@ -4801,7 +3891,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Eucalyptus_globulus"
   },
   {
-   "id": 344,
+   "id": 279,
    "nombreComun": "Acacia",
    "nombreCientifico": "Acacia dealbata",
    "tipo": "PLANTA",
@@ -4815,7 +3905,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Acacia_dealbata"
   },
   {
-   "id": 345,
+   "id": 280,
    "nombreComun": "Hiedra",
    "nombreCientifico": "Hedera helix",
    "tipo": "PLANTA",
@@ -4829,7 +3919,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hedera_helix"
   },
   {
-   "id": 346,
+   "id": 281,
    "nombreComun": "Madreselva",
    "nombreCientifico": "Lonicera implexa",
    "tipo": "PLANTA",
@@ -4843,7 +3933,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lonicera_implexa"
   },
   {
-   "id": 347,
+   "id": 282,
    "nombreComun": "Espino Blanco",
    "nombreCientifico": "Crataegus monogyna",
    "tipo": "PLANTA",
@@ -4857,7 +3947,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Crataegus_monogyna"
   },
   {
-   "id": 348,
+   "id": 283,
    "nombreComun": "Zarza",
    "nombreCientifico": "Rubus ulmifolius",
    "tipo": "PLANTA",
@@ -4871,7 +3961,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rubus_ulmifolius"
   },
   {
-   "id": 349,
+   "id": 284,
    "nombreComun": "Espárrago Triguero",
    "nombreCientifico": "Asparagus acutifolius",
    "tipo": "PLANTA",
@@ -4885,7 +3975,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Asparagus_acutifolius"
   },
   {
-   "id": 350,
+   "id": 285,
    "nombreComun": "Catálogo 350 Especies HuelvApp",
    "nombreCientifico": "Catalogus completus",
    "tipo": "PLANTA",
@@ -4898,49 +3988,7 @@
    "esEmblema": false
   },
   {
-   "id": 351,
-   "nombreComun": "Águila Imperial Ibérica",
-   "nombreCientifico": "Aquila adalberti",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Rapaz emblema ibérica endémica. Reina del cielo doñanero.",
-   "curiosidades": "Endémica ibérica con población recuperada en Doñana.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aquila_adalberti"
-  },
-  {
-   "id": 352,
-   "nombreComun": "Buitre Negro",
-   "nombreCientifico": "Aegypius monachus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "El ave más grande de Europa, carroñero esencial del ecosistema.",
-   "curiosidades": "Presencia ocasional en sierras onubenses, especie protegida.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aegypius_monachus"
-  },
-  {
-   "id": 353,
-   "nombreComun": "Buitre Leonado",
-   "nombreCientifico": "Gyps fulvus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Gran rapaz carroñera, vuelo planeador majestuoso.",
-   "curiosidades": "Avistable en sierras serranas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Gyps_fulvus"
-  },
-  {
-   "id": 354,
+   "id": 286,
    "nombreComun": "Alimoche",
    "nombreCientifico": "Neophron percnopterus",
    "tipo": "AVE",
@@ -4954,35 +4002,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Neophron_percnopterus"
   },
   {
-   "id": 355,
-   "nombreComun": "Halcón Peregrino",
-   "nombreCientifico": "Falco peregrinus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "El ave más veloz del mundo (más de 320 km/h en picado).",
-   "curiosidades": "Anida en cantiles serranos y edificios altos.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Falco_peregrinus"
-  },
-  {
-   "id": 356,
-   "nombreComun": "Águila Pescadora",
-   "nombreCientifico": "Pandion haliaetus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Rapaz especializada en pescar. Marismas Odiel principal área Andalucía.",
-   "curiosidades": "Reproductora en marismas onubenses, símbolo de la conservación.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pandion_haliaetus"
-  },
-  {
-   "id": 357,
+   "id": 287,
    "nombreComun": "Flamenco Enano",
    "nombreCientifico": "Phoeniconaias minor",
    "tipo": "AVE",
@@ -4996,77 +4016,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phoeniconaias_minor"
   },
   {
-   "id": 358,
-   "nombreComun": "Cigüeña Blanca",
-   "nombreCientifico": "Ciconia ciconia",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave zancuda blanca con alas negras. Nidifica en torres y postes.",
-   "curiosidades": "Habitual en pueblos onubenses con torres de iglesia.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciconia_ciconia"
-  },
-  {
-   "id": 359,
-   "nombreComun": "Cigüeña Negra",
-   "nombreCientifico": "Ciconia nigra",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Cigüeña esquiva negra con pecho blanco. Anida en cantiles serranos.",
-   "curiosidades": "Especie amenazada con población escasa en Sierra de Aracena.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciconia_nigra"
-  },
-  {
-   "id": 360,
-   "nombreComun": "Espátula",
-   "nombreCientifico": "Platalea leucorodia",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Ave acuática blanca con pico en forma de espátula. Muy elegante.",
-   "curiosidades": "Marismas Odiel principal colonia reproductora en España.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Platalea_leucorodia"
-  },
-  {
-   "id": 361,
-   "nombreComun": "Avoceta",
-   "nombreCientifico": "Recurvirostra avosetta",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Limícola blanco y negro con pico curvado hacia arriba.",
-   "curiosidades": "Característica de las salinas y marismas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Recurvirostra_avosetta"
-  },
-  {
-   "id": 362,
-   "nombreComun": "Cigüeñuela",
-   "nombreCientifico": "Himantopus himantopus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Limícola elegante de patas rojas larguísimas.",
-   "curiosidades": "Muy común en marismas y salinas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Himantopus_himantopus"
-  },
-  {
-   "id": 363,
+   "id": 288,
    "nombreComun": "Correlimos Común",
    "nombreCientifico": "Calidris alpina",
    "tipo": "AVE",
@@ -5080,7 +4030,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calidris_alpina"
   },
   {
-   "id": 364,
+   "id": 289,
    "nombreComun": "Correlimos Tridáctilo",
    "nombreCientifico": "Calidris alba",
    "tipo": "AVE",
@@ -5094,7 +4044,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calidris_alba"
   },
   {
-   "id": 365,
+   "id": 290,
    "nombreComun": "Archibebe Común",
    "nombreCientifico": "Tringa totanus",
    "tipo": "AVE",
@@ -5108,7 +4058,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tringa_totanus"
   },
   {
-   "id": 366,
+   "id": 291,
    "nombreComun": "Archibebe Claro",
    "nombreCientifico": "Tringa nebularia",
    "tipo": "AVE",
@@ -5122,7 +4072,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tringa_nebularia"
   },
   {
-   "id": 367,
+   "id": 292,
    "nombreComun": "Aguja Colinegra",
    "nombreCientifico": "Limosa limosa",
    "tipo": "AVE",
@@ -5136,7 +4086,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Limosa_limosa"
   },
   {
-   "id": 368,
+   "id": 293,
    "nombreComun": "Zarapito Trinador",
    "nombreCientifico": "Numenius phaeopus",
    "tipo": "AVE",
@@ -5150,7 +4100,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Numenius_phaeopus"
   },
   {
-   "id": 369,
+   "id": 294,
    "nombreComun": "Pagaza Piquirroja",
    "nombreCientifico": "Hydroprogne caspia",
    "tipo": "AVE",
@@ -5164,7 +4114,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hydroprogne_caspia"
   },
   {
-   "id": 370,
+   "id": 295,
    "nombreComun": "Charrancito",
    "nombreCientifico": "Sternula albifrons",
    "tipo": "AVE",
@@ -5178,7 +4128,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sternula_albifrons"
   },
   {
-   "id": 371,
+   "id": 296,
    "nombreComun": "Charrán Patinegro",
    "nombreCientifico": "Thalasseus sandvicensis",
    "tipo": "AVE",
@@ -5192,7 +4142,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thalasseus_sandvicensis"
   },
   {
-   "id": 372,
+   "id": 297,
    "nombreComun": "Pardela Cenicienta",
    "nombreCientifico": "Calonectris diomedea",
    "tipo": "AVE",
@@ -5206,7 +4156,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calonectris_diomedea"
   },
   {
-   "id": 373,
+   "id": 298,
    "nombreComun": "Alcatraz Atlántico",
    "nombreCientifico": "Morus bassanus",
    "tipo": "AVE",
@@ -5220,7 +4170,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Morus_bassanus"
   },
   {
-   "id": 374,
+   "id": 299,
    "nombreComun": "Cormorán Grande",
    "nombreCientifico": "Phalacrocorax carbo",
    "tipo": "AVE",
@@ -5234,7 +4184,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phalacrocorax_carbo"
   },
   {
-   "id": 375,
+   "id": 300,
    "nombreComun": "Garceta Común",
    "nombreCientifico": "Egretta garzetta",
    "tipo": "AVE",
@@ -5248,7 +4198,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Egretta_garzetta"
   },
   {
-   "id": 376,
+   "id": 301,
    "nombreComun": "Garceta Grande",
    "nombreCientifico": "Ardea alba",
    "tipo": "AVE",
@@ -5262,35 +4212,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ardea_alba"
   },
   {
-   "id": 377,
-   "nombreComun": "Garcilla Bueyera",
-   "nombreCientifico": "Bubulcus ibis",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeña garza blanca que acompaña al ganado.",
-   "curiosidades": "Muy común en dehesas onubenses junto a vacas y caballos.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Bubulcus_ibis"
-  },
-  {
-   "id": 378,
-   "nombreComun": "Águila Real",
-   "nombreCientifico": "Aquila chrysaetos",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Gran rapaz emblemática de la montaña ibérica.",
-   "curiosidades": "Presente en zonas serranas onubenses con vuelo majestuoso.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aquila_chrysaetos"
-  },
-  {
-   "id": 379,
+   "id": 302,
    "nombreComun": "Águila Pomerana",
    "nombreCientifico": "Clanga pomarina",
    "tipo": "AVE",
@@ -5304,77 +4226,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Clanga_pomarina"
   },
   {
-   "id": 380,
-   "nombreComun": "Buho Real",
-   "nombreCientifico": "Bubo bubo",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "El búho más grande de Europa. Caza grandes presas.",
-   "curiosidades": "Anida en cantiles serranos y antiguas minas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Bubo_bubo"
-  },
-  {
-   "id": 381,
-   "nombreComun": "Lechuza Común",
-   "nombreCientifico": "Tyto alba",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Rapaz nocturna blanca con cara de corazón.",
-   "curiosidades": "Habita en cortijos y campanarios onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Tyto_alba"
-  },
-  {
-   "id": 382,
-   "nombreComun": "Mochuelo Europeo",
-   "nombreCientifico": "Athene noctua",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeña rapaz nocturna activa al amanecer y atardecer.",
-   "curiosidades": "Característico de campos y dehesas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Athene_noctua"
-  },
-  {
-   "id": 383,
-   "nombreComun": "Cárabo Común",
-   "nombreCientifico": "Strix aluco",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Búho mediano con plumaje moteado y llamada característica.",
-   "curiosidades": "Habitual en bosques onubenses, su canto es famoso.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Strix_aluco"
-  },
-  {
-   "id": 384,
-   "nombreComun": "Autillo Europeo",
-   "nombreCientifico": "Otus scops",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeña rapaz nocturna migratoria.",
-   "curiosidades": "Migratorio estival en bosques onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Otus_scops"
-  },
-  {
-   "id": 385,
+   "id": 303,
    "nombreComun": "Chotacabras Pardo",
    "nombreCientifico": "Caprimulgus ruficollis",
    "tipo": "AVE",
@@ -5388,77 +4240,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Caprimulgus_ruficollis"
   },
   {
-   "id": 386,
-   "nombreComun": "Abubilla",
-   "nombreCientifico": "Upupa epops",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave inconfundible con cresta eréctil naranja y blanco-negro.",
-   "curiosidades": "Muy común en dehesas onubenses con su canto 'pu-pu-pu'.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Upupa_epops"
-  },
-  {
-   "id": 387,
-   "nombreComun": "Carraca Europea",
-   "nombreCientifico": "Coracias garrulus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Ave estival con plumaje azul brillante y alas turquesa.",
-   "curiosidades": "Estival en dehesas onubenses, color espectacular.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Coracias_garrulus"
-  },
-  {
-   "id": 388,
-   "nombreComun": "Abejaruco",
-   "nombreCientifico": "Merops apiaster",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ave multicolor (azul, amarillo, castaño) que come abejas.",
-   "curiosidades": "Estival en barrancos y dehesas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Merops_apiaster"
-  },
-  {
-   "id": 389,
-   "nombreComun": "Martín Pescador",
-   "nombreCientifico": "Alcedo atthis",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeña ave azul brillante y naranja que pesca en clavada.",
-   "curiosidades": "Habitual en ríos onubenses, joya cromática.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Alcedo_atthis"
-  },
-  {
-   "id": 390,
-   "nombreComun": "Pito Real",
-   "nombreCientifico": "Picus viridis",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pájaro carpintero verde con cabeza roja, risa característica.",
-   "curiosidades": "Habitual en dehesas y bosques onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Picus_viridis"
-  },
-  {
-   "id": 391,
+   "id": 304,
    "nombreComun": "Bonito del Norte",
    "nombreCientifico": "Thunnus alalunga",
    "tipo": "PEZ",
@@ -5472,21 +4254,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thunnus_alalunga"
   },
   {
-   "id": 392,
-   "nombreComun": "Atún Rojo",
-   "nombreCientifico": "Thunnus thynnus",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Atún rey de la almadraba, gourmet exclusivo.",
-   "curiosidades": "Almadraba milenaria isleña, producto emblema.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Thunnus_thynnus"
-  },
-  {
-   "id": 393,
+   "id": 305,
    "nombreComun": "Caballa",
    "nombreCientifico": "Scomber scombrus",
    "tipo": "PEZ",
@@ -5500,7 +4268,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Scomber_scombrus"
   },
   {
-   "id": 394,
+   "id": 306,
    "nombreComun": "Jurel",
    "nombreCientifico": "Trachurus trachurus",
    "tipo": "PEZ",
@@ -5514,7 +4282,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Trachurus_trachurus"
   },
   {
-   "id": 395,
+   "id": 307,
    "nombreComun": "Lenguado Común",
    "nombreCientifico": "Solea solea",
    "tipo": "PEZ",
@@ -5528,7 +4296,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Solea_solea"
   },
   {
-   "id": 396,
+   "id": 308,
    "nombreComun": "Merluza Europea",
    "nombreCientifico": "Merluccius merluccius",
    "tipo": "PEZ",
@@ -5542,7 +4310,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Merluccius_merluccius"
   },
   {
-   "id": 397,
+   "id": 309,
    "nombreComun": "Rape",
    "nombreCientifico": "Lophius piscatorius",
    "tipo": "PEZ",
@@ -5556,7 +4324,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lophius_piscatorius"
   },
   {
-   "id": 398,
+   "id": 310,
    "nombreComun": "Pez Espada",
    "nombreCientifico": "Xiphias gladius",
    "tipo": "PEZ",
@@ -5570,7 +4338,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Xiphias_gladius"
   },
   {
-   "id": 399,
+   "id": 311,
    "nombreComun": "Mero",
    "nombreCientifico": "Epinephelus marginatus",
    "tipo": "PEZ",
@@ -5584,77 +4352,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Epinephelus_marginatus"
   },
   {
-   "id": 400,
-   "nombreComun": "Anguila",
-   "nombreCientifico": "Anguilla anguilla",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Pez catádromo en peligro crítico de extinción.",
-   "curiosidades": "Tradicional en estuarios onubenses, hoy especie protegida.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Anguilla_anguilla"
-  },
-  {
-   "id": 401,
-   "nombreComun": "Calamar",
-   "nombreCientifico": "Loligo vulgaris",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cefalópodo tradicional de la cocina onubense.",
-   "curiosidades": "Pesca habitual costera, gastronomía.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Loligo_vulgaris"
-  },
-  {
-   "id": 402,
-   "nombreComun": "Pulpo Común",
-   "nombreCientifico": "Octopus vulgaris",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cefalópodo inteligente con 8 brazos.",
-   "curiosidades": "Pesca artesanal tradicional onubense con nasas.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Octopus_vulgaris"
-  },
-  {
-   "id": 403,
-   "nombreComun": "Sepia Común",
-   "nombreCientifico": "Sepia officinalis",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cefalópodo con concha interna (jibión).",
-   "curiosidades": "Pesca habitual onubense, similar al choco.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sepia_officinalis"
-  },
-  {
-   "id": 404,
-   "nombreComun": "Choco",
-   "nombreCientifico": "Sepia officinalis",
-   "tipo": "PEZ",
-   "categoria": "FAUNA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Variedad onubense de sepia, símbolo gastronómico.",
-   "curiosidades": "Emblema absoluto de Huelva: 'choco frito'. Identidad choquera.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sepia_officinalis"
-  },
-  {
-   "id": 405,
+   "id": 312,
    "nombreComun": "Almeja Fina",
    "nombreCientifico": "Ruditapes decussatus",
    "tipo": "PEZ",
@@ -5668,7 +4366,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ruditapes_decussatus"
   },
   {
-   "id": 406,
+   "id": 313,
    "nombreComun": "Mejillón",
    "nombreCientifico": "Mytilus galloprovincialis",
    "tipo": "PEZ",
@@ -5682,7 +4380,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Mytilus_galloprovincialis"
   },
   {
-   "id": 407,
+   "id": 314,
    "nombreComun": "Ostra",
    "nombreCientifico": "Ostrea edulis",
    "tipo": "PEZ",
@@ -5696,7 +4394,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ostrea_edulis"
   },
   {
-   "id": 408,
+   "id": 315,
    "nombreComun": "Berberecho",
    "nombreCientifico": "Cerastoderma edule",
    "tipo": "PEZ",
@@ -5710,7 +4408,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cerastoderma_edule"
   },
   {
-   "id": 409,
+   "id": 316,
    "nombreComun": "Erizo de Mar",
    "nombreCientifico": "Paracentrotus lividus",
    "tipo": "PEZ",
@@ -5724,7 +4422,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Paracentrotus_lividus"
   },
   {
-   "id": 410,
+   "id": 317,
    "nombreComun": "Delfín Común",
    "nombreCientifico": "Delphinus delphis",
    "tipo": "MAMIFERO",
@@ -5738,7 +4436,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Delphinus_delphis"
   },
   {
-   "id": 411,
+   "id": 318,
    "nombreComun": "Hormiga Roja",
    "nombreCientifico": "Solenopsis sp.",
    "tipo": "INSECTO",
@@ -5752,7 +4450,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Solenopsis"
   },
   {
-   "id": 412,
+   "id": 319,
    "nombreComun": "Hormiga Cabezona",
    "nombreCientifico": "Pheidole pallidula",
    "tipo": "INSECTO",
@@ -5766,21 +4464,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pheidole_pallidula"
   },
   {
-   "id": 413,
-   "nombreComun": "Avispa Asiática",
-   "nombreCientifico": "Vespa velutina",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Especie invasora, amenaza para abejas autóctonas.",
-   "curiosidades": "Detectada en Huelva como especie invasora.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vespa_velutina"
-  },
-  {
-   "id": 414,
+   "id": 320,
    "nombreComun": "Avispa Común",
    "nombreCientifico": "Vespa crabro",
    "tipo": "INSECTO",
@@ -5794,49 +4478,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Vespa_crabro"
   },
   {
-   "id": 415,
-   "nombreComun": "Tijereta Común",
-   "nombreCientifico": "Forficula auricularia",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Insecto nocturno con pinzas en la parte trasera.",
-   "curiosidades": "Común en jardines y campos onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Forficula_auricularia"
-  },
-  {
-   "id": 416,
-   "nombreComun": "Mariposa Cardera",
-   "nombreCientifico": "Vanessa cardui",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa naranja-marrón con migración intercontinental.",
-   "curiosidades": "Migración masiva ocasional en Huelva.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vanessa_cardui"
-  },
-  {
-   "id": 417,
-   "nombreComun": "Mariposa Macaón",
-   "nombreCientifico": "Papilio machaon",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gran mariposa amarilla con colas en las alas.",
-   "curiosidades": "Común en jardines onubenses, espectacular.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Papilio_machaon"
-  },
-  {
-   "id": 418,
+   "id": 321,
    "nombreComun": "Mariposa Aurora",
    "nombreCientifico": "Anthocharis cardamines",
    "tipo": "INSECTO",
@@ -5850,7 +4492,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Anthocharis_cardamines"
   },
   {
-   "id": 419,
+   "id": 322,
    "nombreComun": "Mariposa Capuchina",
    "nombreCientifico": "Pieris brassicae",
    "tipo": "INSECTO",
@@ -5864,7 +4506,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pieris_brassicae"
   },
   {
-   "id": 420,
+   "id": 323,
    "nombreComun": "Libélula Roja",
    "nombreCientifico": "Crocothemis erythraea",
    "tipo": "INSECTO",
@@ -5878,21 +4520,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Crocothemis_erythraea"
   },
   {
-   "id": 421,
-   "nombreComun": "Libélula Azul",
-   "nombreCientifico": "Calopteryx haemorrhoidalis",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Caballito del diablo con alas azules iridiscentes.",
-   "curiosidades": "Habitual en ríos onubenses, especialmente Tinto y Odiel.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Calopteryx_haemorrhoidalis"
-  },
-  {
-   "id": 422,
+   "id": 324,
    "nombreComun": "Mosquito Tigre",
    "nombreCientifico": "Aedes albopictus",
    "tipo": "INSECTO",
@@ -5906,7 +4534,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aedes_albopictus"
   },
   {
-   "id": 423,
+   "id": 325,
    "nombreComun": "Garrapata",
    "nombreCientifico": "Ixodes ricinus",
    "tipo": "INSECTO",
@@ -5920,7 +4548,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ixodes_ricinus"
   },
   {
-   "id": 424,
+   "id": 326,
    "nombreComun": "Caracol Común",
    "nombreCientifico": "Helix aspersa",
    "tipo": "INSECTO",
@@ -5934,7 +4562,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cornu_aspersum"
   },
   {
-   "id": 425,
+   "id": 327,
    "nombreComun": "Caracol Burgaillo",
    "nombreCientifico": "Theba pisana",
    "tipo": "INSECTO",
@@ -5948,35 +4576,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Theba_pisana"
   },
   {
-   "id": 426,
-   "nombreComun": "Ciervo Volante Hembra",
-   "nombreCientifico": "Lucanus cervus",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Hembra del ciervo volante, sin mandíbulas grandes.",
-   "curiosidades": "Indicador de bosques bien conservados serranos.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lucanus_cervus"
-  },
-  {
-   "id": 427,
-   "nombreComun": "Mariposa Limonera",
-   "nombreCientifico": "Gonepteryx rhamni",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa amarilla con forma de hoja.",
-   "curiosidades": "Anuncia primavera en monte onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Gonepteryx_rhamni"
-  },
-  {
-   "id": 428,
+   "id": 328,
    "nombreComun": "Cigarra Verde",
    "nombreCientifico": "Tettigonia viridissima",
    "tipo": "INSECTO",
@@ -5990,7 +4590,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Tettigonia_viridissima"
   },
   {
-   "id": 429,
+   "id": 329,
    "nombreComun": "Tarántula Andaluza",
    "nombreCientifico": "Lycosa tarantula",
    "tipo": "INSECTO",
@@ -6004,7 +4604,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lycosa_tarantula"
   },
   {
-   "id": 430,
+   "id": 330,
    "nombreComun": "Camarón Roquero",
    "nombreCientifico": "Palaemon elegans",
    "tipo": "PEZ",
@@ -6018,7 +4618,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Palaemon_elegans"
   },
   {
-   "id": 431,
+   "id": 331,
    "nombreComun": "Cangrejo Verde",
    "nombreCientifico": "Carcinus maenas",
    "tipo": "PEZ",
@@ -6032,7 +4632,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Carcinus_maenas"
   },
   {
-   "id": 432,
+   "id": 332,
    "nombreComun": "Nécora",
    "nombreCientifico": "Necora puber",
    "tipo": "PEZ",
@@ -6046,7 +4646,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Necora_puber"
   },
   {
-   "id": 433,
+   "id": 333,
    "nombreComun": "Buey de Mar",
    "nombreCientifico": "Cancer pagurus",
    "tipo": "PEZ",
@@ -6060,7 +4660,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cancer_pagurus"
   },
   {
-   "id": 434,
+   "id": 334,
    "nombreComun": "Bicho Bola",
    "nombreCientifico": "Armadillidium vulgare",
    "tipo": "INSECTO",
@@ -6074,7 +4674,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Armadillidium_vulgare"
   },
   {
-   "id": 435,
+   "id": 335,
    "nombreComun": "Sanguijuela",
    "nombreCientifico": "Hirudo medicinalis",
    "tipo": "INSECTO",
@@ -6088,7 +4688,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hirudo_medicinalis"
   },
   {
-   "id": 436,
+   "id": 336,
    "nombreComun": "Abedul",
    "nombreCientifico": "Betula pendula",
    "tipo": "PLANTA",
@@ -6102,63 +4702,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Betula_pendula"
   },
   {
-   "id": 437,
-   "nombreComun": "Pino Carrasco",
-   "nombreCientifico": "Pinus halepensis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pino mediterráneo resistente a la sequía.",
-   "curiosidades": "Repoblaciones extensas en sierras onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pinus_halepensis"
-  },
-  {
-   "id": 438,
-   "nombreComun": "Castaño Común",
-   "nombreCientifico": "Castanea sativa",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Árbol caducifolio productor de castañas.",
-   "curiosidades": "Castañares emblemáticos de Sierra Aracena.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Castanea_sativa"
-  },
-  {
-   "id": 439,
-   "nombreComun": "Higuera",
-   "nombreCientifico": "Ficus carica",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol mediterráneo productor de higos.",
-   "curiosidades": "Común en huertas onubenses, frutos en verano.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ficus_carica"
-  },
-  {
-   "id": 440,
-   "nombreComun": "Naranjo Amargo",
-   "nombreCientifico": "Citrus aurantium",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cítrico ornamental y para mermelada.",
-   "curiosidades": "Tradicional en patios y calles onubenses.",
-   "mejorEpoca": "INVIERNO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Citrus_aurantium"
-  },
-  {
-   "id": 441,
+   "id": 337,
    "nombreComun": "Naranjo Dulce",
    "nombreCientifico": "Citrus sinensis",
    "tipo": "PLANTA",
@@ -6172,7 +4716,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Citrus_sinensis"
   },
   {
-   "id": 442,
+   "id": 338,
    "nombreComun": "Limonero",
    "nombreCientifico": "Citrus limon",
    "tipo": "PLANTA",
@@ -6186,63 +4730,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Citrus_limon"
   },
   {
-   "id": 443,
-   "nombreComun": "Olivo",
-   "nombreCientifico": "Olea europaea",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol mediterráneo productor de aceite.",
-   "curiosidades": "Olivares centenarios en toda la provincia.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Olea_europaea"
-  },
-  {
-   "id": 444,
-   "nombreComun": "Vid",
-   "nombreCientifico": "Vitis vinifera",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Planta del vino, base económica del Condado.",
-   "curiosidades": "Cultivada en el Condado de Huelva, DOP propia.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vitis_vinifera"
-  },
-  {
-   "id": 445,
-   "nombreComun": "Membrillero",
-   "nombreCientifico": "Cydonia oblonga",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol productor de membrillos para dulce.",
-   "curiosidades": "Tradicional en huertas onubenses.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Cydonia_oblonga"
-  },
-  {
-   "id": 446,
-   "nombreComun": "Granado",
-   "nombreCientifico": "Punica granatum",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol productor de granadas.",
-   "curiosidades": "Tradicional en patios y huertas onubenses.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Punica_granatum"
-  },
-  {
-   "id": 447,
+   "id": 339,
    "nombreComun": "Albaricoquero",
    "nombreCientifico": "Prunus armeniaca",
    "tipo": "PLANTA",
@@ -6256,21 +4744,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Prunus_armeniaca"
   },
   {
-   "id": 448,
-   "nombreComun": "Almendro",
-   "nombreCientifico": "Prunus dulcis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol productor de almendras, florece en febrero.",
-   "curiosidades": "Cultivado en sierras onubenses, da nombre a 'El Almendro'.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Prunus_dulcis"
-  },
-  {
-   "id": 449,
+   "id": 340,
    "nombreComun": "Manzanilla Común",
    "nombreCientifico": "Matricaria chamomilla",
    "tipo": "PLANTA",
@@ -6284,7 +4758,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Matricaria_chamomilla"
   },
   {
-   "id": 450,
+   "id": 341,
    "nombreComun": "Hierba Luisa",
    "nombreCientifico": "Aloysia citrodora",
    "tipo": "PLANTA",
@@ -6298,7 +4772,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aloysia_citrodora"
   },
   {
-   "id": 451,
+   "id": 342,
    "nombreComun": "Hinojo Silvestre",
    "nombreCientifico": "Foeniculum vulgare",
    "tipo": "PLANTA",
@@ -6312,7 +4786,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Foeniculum_vulgare"
   },
   {
-   "id": 452,
+   "id": 343,
    "nombreComun": "Ortiga",
    "nombreCientifico": "Urtica dioica",
    "tipo": "PLANTA",
@@ -6326,7 +4800,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Urtica_dioica"
   },
   {
-   "id": 453,
+   "id": 344,
    "nombreComun": "Cardo Borriquero",
    "nombreCientifico": "Onopordum acanthium",
    "tipo": "PLANTA",
@@ -6340,21 +4814,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Onopordum_acanthium"
   },
   {
-   "id": 454,
-   "nombreComun": "Tagarnina",
-   "nombreCientifico": "Scolymus hispanicus",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cardo silvestre comestible, base de tagarniná.",
-   "curiosidades": "Tradicional en cocina serrana onubense en primavera.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Scolymus_hispanicus"
-  },
-  {
-   "id": 455,
+   "id": 345,
    "nombreComun": "Achicoria",
    "nombreCientifico": "Cichorium intybus",
    "tipo": "PLANTA",
@@ -6368,7 +4828,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cichorium_intybus"
   },
   {
-   "id": 456,
+   "id": 346,
    "nombreComun": "Diente de León",
    "nombreCientifico": "Taraxacum officinale",
    "tipo": "PLANTA",
@@ -6382,7 +4842,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Taraxacum_officinale"
   },
   {
-   "id": 457,
+   "id": 347,
    "nombreComun": "Amapola",
    "nombreCientifico": "Papaver rhoeas",
    "tipo": "PLANTA",
@@ -6396,7 +4856,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Papaver_rhoeas"
   },
   {
-   "id": 458,
+   "id": 348,
    "nombreComun": "Margarita",
    "nombreCientifico": "Bellis perennis",
    "tipo": "PLANTA",
@@ -6410,7 +4870,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bellis_perennis"
   },
   {
-   "id": 459,
+   "id": 349,
    "nombreComun": "Caléndula",
    "nombreCientifico": "Calendula arvensis",
    "tipo": "PLANTA",
@@ -6424,7 +4884,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calendula_arvensis"
   },
   {
-   "id": 460,
+   "id": 350,
    "nombreComun": "Salvia Común",
    "nombreCientifico": "Salvia officinalis",
    "tipo": "PLANTA",
@@ -6438,21 +4898,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvia_officinalis"
   },
   {
-   "id": 461,
-   "nombreComun": "Eucalipto",
-   "nombreCientifico": "Eucalyptus camaldulensis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol invasor de crecimiento rápido.",
-   "curiosidades": "Repoblaciones onubenses, impacto ecológico controvertido.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Eucalyptus_camaldulensis"
-  },
-  {
-   "id": 462,
+   "id": 351,
    "nombreComun": "Plátano de Sombra",
    "nombreCientifico": "Platanus hybrida",
    "tipo": "PLANTA",
@@ -6466,7 +4912,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Platanus_hispanica"
   },
   {
-   "id": 463,
+   "id": 352,
    "nombreComun": "Sauce",
    "nombreCientifico": "Salix alba",
    "tipo": "PLANTA",
@@ -6480,7 +4926,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salix_alba"
   },
   {
-   "id": 464,
+   "id": 353,
    "nombreComun": "Chopo Negro",
    "nombreCientifico": "Populus nigra",
    "tipo": "PLANTA",
@@ -6494,7 +4940,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Populus_nigra"
   },
   {
-   "id": 465,
+   "id": 354,
    "nombreComun": "Aliso",
    "nombreCientifico": "Alnus glutinosa",
    "tipo": "PLANTA",
@@ -6508,7 +4954,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Alnus_glutinosa"
   },
   {
-   "id": 466,
+   "id": 355,
    "nombreComun": "Champiñón Común",
    "nombreCientifico": "Agaricus bisporus",
    "tipo": "HONGO",
@@ -6522,7 +4968,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Agaricus_bisporus"
   },
   {
-   "id": 467,
+   "id": 356,
    "nombreComun": "Rebozuelo Atrompetado",
    "nombreCientifico": "Cantharellus tubaeformis",
    "tipo": "HONGO",
@@ -6536,7 +4982,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cantharellus_tubaeformis"
   },
   {
-   "id": 468,
+   "id": 357,
    "nombreComun": "Rúsula Verdosa",
    "nombreCientifico": "Russula virescens",
    "tipo": "HONGO",
@@ -6550,7 +4996,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Russula_virescens"
   },
   {
-   "id": 469,
+   "id": 358,
    "nombreComun": "Lengua de Vaca",
    "nombreCientifico": "Hydnum repandum",
    "tipo": "HONGO",
@@ -6564,7 +5010,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hydnum_repandum"
   },
   {
-   "id": 470,
+   "id": 359,
    "nombreComun": "Cierre Especies 470",
    "nombreCientifico": "Vita ferina",
    "tipo": "HONGO",
@@ -6577,7 +5023,7 @@
    "esEmblema": false
   },
   {
-   "id": 471,
+   "id": 360,
    "nombreComun": "Jabalí Ibérico",
    "nombreCientifico": "Sus scrofa baeticus",
    "tipo": "MAMIFERO",
@@ -6591,7 +5037,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sus_scrofa"
   },
   {
-   "id": 472,
+   "id": 361,
    "nombreComun": "Ciervo Ibérico",
    "nombreCientifico": "Cervus elaphus hispanicus",
    "tipo": "MAMIFERO",
@@ -6605,119 +5051,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cervus_elaphus_hispanicus"
   },
   {
-   "id": 473,
-   "nombreComun": "Gamo",
-   "nombreCientifico": "Dama dama",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cérvido con cuerna en palmas, color manchado.",
-   "curiosidades": "Presente en Doñana y dehesas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Dama_dama"
-  },
-  {
-   "id": 474,
-   "nombreComun": "Tejón",
-   "nombreCientifico": "Meles meles",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mustélido grande con raya blanca en la cara.",
-   "curiosidades": "Presente en bosques onubenses, hábitos nocturnos.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Meles_meles"
-  },
-  {
-   "id": 475,
-   "nombreComun": "Zorro Rojo",
-   "nombreCientifico": "Vulpes vulpes",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Carnívoro adaptable de pelaje rojizo.",
-   "curiosidades": "Común en monte y campos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vulpes_vulpes"
-  },
-  {
-   "id": 476,
-   "nombreComun": "Meloncillo",
-   "nombreCientifico": "Herpestes ichneumon",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeño mamífero diurno de aspecto longilíneo.",
-   "curiosidades": "Único mangosta europeo, presente en monte onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Herpestes_ichneumon"
-  },
-  {
-   "id": 477,
-   "nombreComun": "Gineta",
-   "nombreCientifico": "Genetta genetta",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mamífero nocturno con cola anillada larga.",
-   "curiosidades": "Habitual en bosques y dehesas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Genetta_genetta"
-  },
-  {
-   "id": 478,
-   "nombreComun": "Gato Montés",
-   "nombreCientifico": "Felis silvestris",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Felino silvestre con pelaje atigrado.",
-   "curiosidades": "Especie amenazada, presente en sierras onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Felis_silvestris"
-  },
-  {
-   "id": 479,
-   "nombreComun": "Camaleón Común",
-   "nombreCientifico": "Chamaeleo chamaeleon",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Único camaleón europeo, capaz de cambiar de color.",
-   "curiosidades": "Presente en zonas costeras onubenses, especie protegida.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Chamaeleo_chamaeleon"
-  },
-  {
-   "id": 480,
-   "nombreComun": "Salamanquesa",
-   "nombreCientifico": "Tarentola mauritanica",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño reptil nocturno de paredes y casas.",
-   "curiosidades": "Muy común en pueblos onubenses, beneficiosa.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Tarentola_mauritanica"
-  },
-  {
-   "id": 481,
+   "id": 362,
    "nombreComun": "Lagartija Colirroja",
    "nombreCientifico": "Acanthodactylus erythrurus",
    "tipo": "REPTIL",
@@ -6731,7 +5065,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Acanthodactylus_erythrurus"
   },
   {
-   "id": 482,
+   "id": 363,
    "nombreComun": "Culebra Viperina",
    "nombreCientifico": "Natrix maura",
    "tipo": "REPTIL",
@@ -6745,7 +5079,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Natrix_maura"
   },
   {
-   "id": 483,
+   "id": 364,
    "nombreComun": "Culebra de Collar",
    "nombreCientifico": "Natrix natrix",
    "tipo": "REPTIL",
@@ -6759,21 +5093,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Natrix_natrix"
   },
   {
-   "id": 484,
-   "nombreComun": "Tortuga Mora",
-   "nombreCientifico": "Testudo graeca",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Tortuga terrestre amenazada, escasa en Huelva.",
-   "curiosidades": "Especie protegida, presencia puntual onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Testudo_graeca"
-  },
-  {
-   "id": 485,
+   "id": 365,
    "nombreComun": "Tritón Ibérico",
    "nombreCientifico": "Lissotriton boscai",
    "tipo": "ANFIBIO",
@@ -6787,7 +5107,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lissotriton_boscai"
   },
   {
-   "id": 486,
+   "id": 366,
    "nombreComun": "Líquenes Foliáceos",
    "nombreCientifico": "Parmelia spp.",
    "tipo": "PLANTA",
@@ -6801,7 +5121,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Parmelia"
   },
   {
-   "id": 487,
+   "id": 367,
    "nombreComun": "Musgo Común",
    "nombreCientifico": "Bryum sp.",
    "tipo": "PLANTA",
@@ -6815,7 +5135,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bryum"
   },
   {
-   "id": 488,
+   "id": 368,
    "nombreComun": "Cinta Marina",
    "nombreCientifico": "Zostera marina",
    "tipo": "PLANTA",
@@ -6829,7 +5149,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Zostera_marina"
   },
   {
-   "id": 489,
+   "id": 369,
    "nombreComun": "Posidonia",
    "nombreCientifico": "Posidonia oceanica",
    "tipo": "PLANTA",
@@ -6843,7 +5163,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Posidonia_oceanica"
   },
   {
-   "id": 490,
+   "id": 370,
    "nombreComun": "Hortelano Común",
    "nombreCientifico": "Emberiza hortulana",
    "tipo": "AVE",
@@ -6857,7 +5177,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Emberiza_hortulana"
   },
   {
-   "id": 491,
+   "id": 371,
    "nombreComun": "Camachuelo Trompetero",
    "nombreCientifico": "Bucanetes githagineus",
    "tipo": "AVE",
@@ -6871,35 +5191,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Bucanetes_githagineus"
   },
   {
-   "id": 492,
-   "nombreComun": "Trepador Azul",
-   "nombreCientifico": "Sitta europaea",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeño pájaro que trepa por troncos hacia abajo.",
-   "curiosidades": "Presente en castañares y robledales onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sitta_europaea"
-  },
-  {
-   "id": 493,
-   "nombreComun": "Agateador Común",
-   "nombreCientifico": "Certhia brachydactyla",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño pájaro que trepa por troncos hacia arriba.",
-   "curiosidades": "Habitual en bosques serranos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Certhia_brachydactyla"
-  },
-  {
-   "id": 494,
+   "id": 372,
    "nombreComun": "Reyezuelo Sencillo",
    "nombreCientifico": "Regulus regulus",
    "tipo": "AVE",
@@ -6913,7 +5205,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Regulus_regulus"
   },
   {
-   "id": 495,
+   "id": 373,
    "nombreComun": "Avión Roquero",
    "nombreCientifico": "Ptyonoprogne rupestris",
    "tipo": "AVE",
@@ -6927,7 +5219,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Ptyonoprogne_rupestris"
   },
   {
-   "id": 496,
+   "id": 374,
    "nombreComun": "Murciélago Ratonero Pardo",
    "nombreCientifico": "Myotis emarginatus",
    "tipo": "MAMIFERO",
@@ -6941,35 +5233,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Myotis_emarginatus"
   },
   {
-   "id": 497,
-   "nombreComun": "Murciélago Hortelano",
-   "nombreCientifico": "Eptesicus serotinus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Murciélago de huertas y pueblos.",
-   "curiosidades": "Beneficioso en agricultura, control de plagas.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Eptesicus_serotinus"
-  },
-  {
-   "id": 498,
-   "nombreComun": "Erizo Moruno",
-   "nombreCientifico": "Atelerix algirus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Erizo norteafricano presente en sur de España.",
-   "curiosidades": "Presente en zonas costeras onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Atelerix_algirus"
-  },
-  {
-   "id": 499,
+   "id": 375,
    "nombreComun": "Garduña Ibérica",
    "nombreCientifico": "Martes foina ibérica",
    "tipo": "MAMIFERO",
@@ -6983,7 +5247,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Martes_foina"
   },
   {
-   "id": 500,
+   "id": 376,
    "nombreComun": "Catálogo 500 Especies Doñana",
    "nombreCientifico": "Catalogus quintus",
    "tipo": "PLANTA",
@@ -6996,7 +5260,7 @@
    "esEmblema": false
   },
   {
-   "id": 501,
+   "id": 377,
    "nombreComun": "Sabina Marítima",
    "nombreCientifico": "Juniperus oxycedrus macrocarpa",
    "tipo": "PLANTA",
@@ -7010,7 +5274,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juniperus_oxycedrus"
   },
   {
-   "id": 502,
+   "id": 378,
    "nombreComun": "Enebro Costero",
    "nombreCientifico": "Juniperus phoenicea turbinata",
    "tipo": "PLANTA",
@@ -7024,7 +5288,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juniperus_phoenicea"
   },
   {
-   "id": 503,
+   "id": 379,
    "nombreComun": "Camarina",
    "nombreCientifico": "Corema album",
    "tipo": "PLANTA",
@@ -7038,35 +5302,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Corema_album"
   },
   {
-   "id": 504,
-   "nombreComun": "Barrón",
-   "nombreCientifico": "Ammophila arenaria",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "COSTA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Gramínea fijadora de dunas.",
-   "curiosidades": "Esencial en las dunas onubenses, sujeta la arena.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Ammophila_arenaria"
-  },
-  {
-   "id": 505,
-   "nombreComun": "Cardo Marino",
-   "nombreCientifico": "Eryngium maritimum",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "COSTA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Cardo azulado de las playas.",
-   "curiosidades": "Especie protegida de las dunas onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Eryngium_maritimum"
-  },
-  {
-   "id": 506,
+   "id": 380,
    "nombreComun": "Azucena de Mar",
    "nombreCientifico": "Pancratium maritimum",
    "tipo": "PLANTA",
@@ -7080,7 +5316,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Pancratium_maritimum"
   },
   {
-   "id": 507,
+   "id": 381,
    "nombreComun": "Cuerno de Ciervo",
    "nombreCientifico": "Plantago coronopus",
    "tipo": "PLANTA",
@@ -7094,7 +5330,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Plantago_coronopus"
   },
   {
-   "id": 508,
+   "id": 382,
    "nombreComun": "Aulaga",
    "nombreCientifico": "Stauracanthus genistoides",
    "tipo": "PLANTA",
@@ -7108,7 +5344,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Stauracanthus_genistoides"
   },
   {
-   "id": 509,
+   "id": 383,
    "nombreComun": "Brezo Blanco Doñana",
    "nombreCientifico": "Erica scoparia",
    "tipo": "PLANTA",
@@ -7122,35 +5358,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Erica_scoparia"
   },
   {
-   "id": 510,
-   "nombreComun": "Madroño",
-   "nombreCientifico": "Arbutus unedo",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Árbol mediterráneo con frutos rojos comestibles.",
-   "curiosidades": "Común en bosques serranos onubenses.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Arbutus_unedo"
-  },
-  {
-   "id": 511,
-   "nombreComun": "Mirto Doñana",
-   "nombreCientifico": "Myrtus communis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto aromático con flores blancas.",
-   "curiosidades": "Forma parte del monte negro doñanero.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Myrtus_communis"
-  },
-  {
-   "id": 512,
+   "id": 384,
    "nombreComun": "Hibisco Costero",
    "nombreCientifico": "Hibiscus palustris",
    "tipo": "PLANTA",
@@ -7164,7 +5372,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hibiscus"
   },
   {
-   "id": 513,
+   "id": 385,
    "nombreComun": "Castañuela",
    "nombreCientifico": "Scirpoides holoschoenus",
    "tipo": "PLANTA",
@@ -7178,7 +5386,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Scirpoides_holoschoenus"
   },
   {
-   "id": 514,
+   "id": 386,
    "nombreComun": "Espadaña",
    "nombreCientifico": "Typha latifolia",
    "tipo": "PLANTA",
@@ -7192,7 +5400,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Typha_latifolia"
   },
   {
-   "id": 515,
+   "id": 387,
    "nombreComun": "Carrizo",
    "nombreCientifico": "Phragmites australis",
    "tipo": "PLANTA",
@@ -7206,7 +5414,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phragmites_australis"
   },
   {
-   "id": 516,
+   "id": 388,
    "nombreComun": "Junco Marítimo",
    "nombreCientifico": "Juncus maritimus",
    "tipo": "PLANTA",
@@ -7220,7 +5428,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Juncus_maritimus"
   },
   {
-   "id": 517,
+   "id": 389,
    "nombreComun": "Cebolla Albarrana",
    "nombreCientifico": "Drimia maritima",
    "tipo": "PLANTA",
@@ -7234,7 +5442,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Drimia_maritima"
   },
   {
-   "id": 518,
+   "id": 390,
    "nombreComun": "Asfódelo",
    "nombreCientifico": "Asphodelus albus",
    "tipo": "PLANTA",
@@ -7248,7 +5456,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Asphodelus_albus"
   },
   {
-   "id": 519,
+   "id": 391,
    "nombreComun": "Iris de los Pantanos",
    "nombreCientifico": "Iris pseudacorus",
    "tipo": "PLANTA",
@@ -7262,35 +5470,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Iris_pseudacorus"
   },
   {
-   "id": 520,
-   "nombreComun": "Helecho Real",
-   "nombreCientifico": "Osmunda regalis",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Gran helecho relicto de zonas húmedas.",
-   "curiosidades": "Presente en riberas onubenses serranas.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Osmunda_regalis"
-  },
-  {
-   "id": 521,
-   "nombreComun": "Helecho Águila",
-   "nombreCientifico": "Pteridium aquilinum",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Helecho común de bosques sombríos.",
-   "curiosidades": "Habitual en castañares serranos onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pteridium_aquilinum"
-  },
-  {
-   "id": 522,
+   "id": 392,
    "nombreComun": "Salvinia Acuática",
    "nombreCientifico": "Salvinia natans",
    "tipo": "PLANTA",
@@ -7304,7 +5484,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvinia_natans"
   },
   {
-   "id": 523,
+   "id": 393,
    "nombreComun": "Esparto",
    "nombreCientifico": "Macrochloa tenacissima",
    "tipo": "PLANTA",
@@ -7318,7 +5498,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Macrochloa_tenacissima"
   },
   {
-   "id": 524,
+   "id": 394,
    "nombreComun": "Salicornia",
    "nombreCientifico": "Salicornia ramosissima",
    "tipo": "PLANTA",
@@ -7332,7 +5512,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salicornia"
   },
   {
-   "id": 525,
+   "id": 395,
    "nombreComun": "Sosa",
    "nombreCientifico": "Salsola kali",
    "tipo": "PLANTA",
@@ -7346,7 +5526,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salsola_kali"
   },
   {
-   "id": 526,
+   "id": 396,
    "nombreComun": "Almajo Dulce",
    "nombreCientifico": "Suaeda vera",
    "tipo": "PLANTA",
@@ -7360,7 +5540,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Suaeda_vera"
   },
   {
-   "id": 527,
+   "id": 397,
    "nombreComun": "Espadañal",
    "nombreCientifico": "Phragmites communis",
    "tipo": "PLANTA",
@@ -7374,21 +5554,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Phragmites_australis"
   },
   {
-   "id": 528,
-   "nombreComun": "Tomillo Común",
-   "nombreCientifico": "Thymus vulgaris",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Hierba aromática con flores moradas.",
-   "curiosidades": "Común en monte mediterráneo onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Thymus_vulgaris"
-  },
-  {
-   "id": 529,
+   "id": 398,
    "nombreComun": "Tomillo Salsero",
    "nombreCientifico": "Thymbra capitata",
    "tipo": "PLANTA",
@@ -7402,49 +5568,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Thymbra_capitata"
   },
   {
-   "id": 530,
-   "nombreComun": "Mejorana",
-   "nombreCientifico": "Origanum majorana",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Hierba aromática condimentaria.",
-   "curiosidades": "Cultivada en huertas onubenses, condimento culinario.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Origanum_majorana"
-  },
-  {
-   "id": 531,
-   "nombreComun": "Orégano",
-   "nombreCientifico": "Origanum vulgare",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Hierba aromática silvestre, condimento.",
-   "curiosidades": "Crece silvestre en monte onubense.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Origanum_vulgare"
-  },
-  {
-   "id": 532,
-   "nombreComun": "Cantueso",
-   "nombreCientifico": "Lavandula stoechas",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Lavanda silvestre con flores moradas.",
-   "curiosidades": "Tiñe el monte onubense en primavera.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lavandula_stoechas"
-  },
-  {
-   "id": 533,
+   "id": 399,
    "nombreComun": "Lavanda Espliego",
    "nombreCientifico": "Lavandula latifolia",
    "tipo": "PLANTA",
@@ -7458,7 +5582,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Lavandula_latifolia"
   },
   {
-   "id": 534,
+   "id": 400,
    "nombreComun": "Hipérico",
    "nombreCientifico": "Hypericum perforatum",
    "tipo": "PLANTA",
@@ -7472,7 +5596,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Hypericum_perforatum"
   },
   {
-   "id": 535,
+   "id": 401,
    "nombreComun": "Llantén",
    "nombreCientifico": "Plantago lanceolata",
    "tipo": "PLANTA",
@@ -7486,7 +5610,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Plantago_lanceolata"
   },
   {
-   "id": 536,
+   "id": 402,
    "nombreComun": "Centaura Menor",
    "nombreCientifico": "Centaurium erythraea",
    "tipo": "PLANTA",
@@ -7500,7 +5624,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Centaurium_erythraea"
   },
   {
-   "id": 537,
+   "id": 403,
    "nombreComun": "Manzanilla Romana",
    "nombreCientifico": "Chamaemelum nobile",
    "tipo": "PLANTA",
@@ -7514,7 +5638,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Chamaemelum_nobile"
   },
   {
-   "id": 538,
+   "id": 404,
    "nombreComun": "Verónica",
    "nombreCientifico": "Veronica chamaedrys",
    "tipo": "PLANTA",
@@ -7528,21 +5652,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Veronica_chamaedrys"
   },
   {
-   "id": 539,
-   "nombreComun": "Adelfa",
-   "nombreCientifico": "Nerium oleander",
-   "tipo": "PLANTA",
-   "categoria": "FLORA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Arbusto venenoso con flores rosadas.",
-   "curiosidades": "Habitual en ramblas onubenses, tóxica.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Nerium_oleander"
-  },
-  {
-   "id": 540,
+   "id": 405,
    "nombreComun": "Cierre Flora Doñana",
    "nombreCientifico": "Flora finis",
    "tipo": "PLANTA",
@@ -7555,91 +5665,7 @@
    "esEmblema": false
   },
   {
-   "id": 541,
-   "nombreComun": "Mariposa Pavo Real",
-   "nombreCientifico": "Aglais io",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa con manchas oculares espectaculares.",
-   "curiosidades": "Común en jardines y bosques onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aglais_io"
-  },
-  {
-   "id": 542,
-   "nombreComun": "Mariposa Almirante Rojo",
-   "nombreCientifico": "Vanessa atalanta",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa migratoria con bandas rojas.",
-   "curiosidades": "Habitual en otoño en monte onubense.",
-   "mejorEpoca": "OTONO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vanessa_atalanta"
-  },
-  {
-   "id": 543,
-   "nombreComun": "Mariposa Velocidad",
-   "nombreCientifico": "Iphiclides feisthamelii",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mariposa con largas colas y vuelo rápido.",
-   "curiosidades": "Especie sureña en monte onubense.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Iphiclides_feisthamelii"
-  },
-  {
-   "id": 544,
-   "nombreComun": "Mariposa Saltacercas",
-   "nombreCientifico": "Lasiommata megera",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa naranja moteada de campos abiertos.",
-   "curiosidades": "Común en monte onubense.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lasiommata_megera"
-  },
-  {
-   "id": 545,
-   "nombreComun": "Mariposa Reina Brassicae",
-   "nombreCientifico": "Pieris brassicae brassicae",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariposa blanca grande con manchas oscuras.",
-   "curiosidades": "Muy abundante en huertas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pieris_brassicae"
-  },
-  {
-   "id": 546,
-   "nombreComun": "Hormiga Carpintera",
-   "nombreCientifico": "Camponotus cruentatus",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Hormiga grande negra de bosques.",
-   "curiosidades": "Habitual en castañares onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Camponotus_cruentatus"
-  },
-  {
-   "id": 547,
+   "id": 406,
    "nombreComun": "Abeja Carpintera",
    "nombreCientifico": "Xylocopa violacea",
    "tipo": "INSECTO",
@@ -7653,21 +5679,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Xylocopa_violacea"
   },
   {
-   "id": 548,
-   "nombreComun": "Mantis Religiosa",
-   "nombreCientifico": "Mantis religiosa",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Insecto depredador con patas raptoras.",
-   "curiosidades": "Habitual en monte y huertas onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Mantis_religiosa"
-  },
-  {
-   "id": 549,
+   "id": 407,
    "nombreComun": "Empusa Pennata",
    "nombreCientifico": "Empusa pennata",
    "tipo": "INSECTO",
@@ -7681,21 +5693,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Empusa_pennata"
   },
   {
-   "id": 550,
-   "nombreComun": "Escorpión Amarillo",
-   "nombreCientifico": "Buthus occitanus",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Escorpión mediterráneo de monte mediterráneo.",
-   "curiosidades": "Habitual en monte onubense, picadura dolorosa.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Buthus_occitanus"
-  },
-  {
-   "id": 551,
+   "id": 408,
    "nombreComun": "Saltamontes Verde",
    "nombreCientifico": "Calliptamus italicus",
    "tipo": "INSECTO",
@@ -7709,21 +5707,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Calliptamus_italicus"
   },
   {
-   "id": 552,
-   "nombreComun": "Cigarra Castaña",
-   "nombreCientifico": "Cicada orni",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Cigarra mediterránea con sonido fuerte.",
-   "curiosidades": "Canta en verano en bosques onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Cicada_orni"
-  },
-  {
-   "id": 553,
+   "id": 409,
    "nombreComun": "Mosquito Anofeles",
    "nombreCientifico": "Anopheles maculipennis",
    "tipo": "INSECTO",
@@ -7737,21 +5721,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Anopheles_maculipennis"
   },
   {
-   "id": 554,
-   "nombreComun": "Mariquita Siete Puntos",
-   "nombreCientifico": "Coccinella septempunctata",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Mariquita roja con 7 puntos negros.",
-   "curiosidades": "Beneficiosa en jardines y huertas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Coccinella_septempunctata"
-  },
-  {
-   "id": 555,
+   "id": 410,
    "nombreComun": "Escarabajo Pelotero",
    "nombreCientifico": "Scarabaeus sacer",
    "tipo": "INSECTO",
@@ -7765,21 +5735,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Scarabaeus_sacer"
   },
   {
-   "id": 556,
-   "nombreComun": "Luciérnaga",
-   "nombreCientifico": "Lampyris noctiluca",
-   "tipo": "INSECTO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Insecto luminoso nocturno.",
-   "curiosidades": "Avistable en monte onubense en noches de verano.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lampyris_noctiluca"
-  },
-  {
-   "id": 557,
+   "id": 411,
    "nombreComun": "Avispa Alfarera",
    "nombreCientifico": "Eumenes coarctatus",
    "tipo": "INSECTO",
@@ -7793,7 +5749,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Eumenes"
   },
   {
-   "id": 558,
+   "id": 412,
    "nombreComun": "Mosca Tigre",
    "nombreCientifico": "Stomoxys calcitrans",
    "tipo": "INSECTO",
@@ -7807,7 +5763,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Stomoxys_calcitrans"
   },
   {
-   "id": 559,
+   "id": 413,
    "nombreComun": "Salamandra Ibérica",
    "nombreCientifico": "Salamandra salamandra bejarae",
    "tipo": "ANFIBIO",
@@ -7821,7 +5777,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Salamandra_salamandra"
   },
   {
-   "id": 560,
+   "id": 414,
    "nombreComun": "Tritón Jaspeado",
    "nombreCientifico": "Triturus marmoratus",
    "tipo": "ANFIBIO",
@@ -7835,7 +5791,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Triturus_marmoratus"
   },
   {
-   "id": 561,
+   "id": 415,
    "nombreComun": "Sapillo Pintojo",
    "nombreCientifico": "Discoglossus pictus",
    "tipo": "ANFIBIO",
@@ -7849,63 +5805,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Discoglossus_pictus"
   },
   {
-   "id": 562,
-   "nombreComun": "Rana Verde Ibérica",
-   "nombreCientifico": "Pelophylax perezi",
-   "tipo": "ANFIBIO",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Rana común con piel verde, endémica ibérica.",
-   "curiosidades": "Muy común en charcas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Pelophylax_perezi"
-  },
-  {
-   "id": 563,
-   "nombreComun": "Galápago Leproso",
-   "nombreCientifico": "Mauremys leprosa",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Tortuga acuática autóctona.",
-   "curiosidades": "Habita charcas y ríos onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Mauremys_leprosa"
-  },
-  {
-   "id": 564,
-   "nombreComun": "Galápago Europeo",
-   "nombreCientifico": "Emys orbicularis",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Tortuga acuática europea, especie amenazada.",
-   "curiosidades": "Especie protegida en charcas serranas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Emys_orbicularis"
-  },
-  {
-   "id": 565,
-   "nombreComun": "Lagarto Ocelado",
-   "nombreCientifico": "Timon lepidus",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Gran lagarto verde y azul, espectacular.",
-   "curiosidades": "Característico del monte onubense, hasta 80 cm.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Timon_lepidus"
-  },
-  {
-   "id": 566,
+   "id": 416,
    "nombreComun": "Lagartija Cenicienta",
    "nombreCientifico": "Psammodromus hispanicus",
    "tipo": "REPTIL",
@@ -7919,147 +5819,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Psammodromus_hispanicus"
   },
   {
-   "id": 567,
-   "nombreComun": "Culebra de Herradura",
-   "nombreCientifico": "Hemorrhois hippocrepis",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Culebra grande inofensiva con marcas de herradura.",
-   "curiosidades": "Común en monte onubense, controla roedores.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Hemorrhois_hippocrepis"
-  },
-  {
-   "id": 568,
-   "nombreComun": "Víbora Hocicuda",
-   "nombreCientifico": "Vipera latastei",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Única víbora ibérica venenosa, hocico hacia arriba.",
-   "curiosidades": "Especie protegida, escasa en sierras onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Vipera_latastei"
-  },
-  {
-   "id": 569,
-   "nombreComun": "Culebrilla Ciega",
-   "nombreCientifico": "Blanus cinereus",
-   "tipo": "REPTIL",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeño reptil sin patas, parece lombriz.",
-   "curiosidades": "Endémico ibérico, presente en suelos onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Blanus_cinereus"
-  },
-  {
-   "id": 570,
-   "nombreComun": "Conejo Común",
-   "nombreCientifico": "Oryctolagus cuniculus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Lagomorfo emblemático ibérico.",
-   "curiosidades": "Base alimenticia del lince y aguila imperial onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Oryctolagus_cuniculus"
-  },
-  {
-   "id": 571,
-   "nombreComun": "Liebre Ibérica",
-   "nombreCientifico": "Lepus granatensis",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Liebre endémica ibérica.",
-   "curiosidades": "Endémica del sur ibérico, presente en monte onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Lepus_granatensis"
-  },
-  {
-   "id": 572,
-   "nombreComun": "Erizo Común",
-   "nombreCientifico": "Erinaceus europaeus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeño insectívoro con espinas.",
-   "curiosidades": "Habitual en jardines y huertas onubenses.",
-   "mejorEpoca": "VERANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Erinaceus_europaeus"
-  },
-  {
-   "id": 573,
-   "nombreComun": "Topillo Mediterráneo",
-   "nombreCientifico": "Microtus duodecimcostatus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño roedor subterráneo.",
-   "curiosidades": "Plaga ocasional en cultivos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Microtus_duodecimcostatus"
-  },
-  {
-   "id": 574,
-   "nombreComun": "Ratón de Campo",
-   "nombreCientifico": "Apodemus sylvaticus",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Ratón silvestre con cola larga.",
-   "curiosidades": "Habitual en bosques onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Apodemus_sylvaticus"
-  },
-  {
-   "id": 575,
-   "nombreComun": "Musaraña Común",
-   "nombreCientifico": "Crocidura russula",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño insectívoro de corta vida.",
-   "curiosidades": "Habitual en monte onubense.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Crocidura_russula"
-  },
-  {
-   "id": 576,
-   "nombreComun": "Topo Ibérico",
-   "nombreCientifico": "Talpa occidentalis",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Topo endémico ibérico.",
-   "curiosidades": "Endémico ibérico, presente en suelos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": true,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Talpa_occidentalis"
-  },
-  {
-   "id": 577,
+   "id": 417,
    "nombreComun": "Rata Negra",
    "nombreCientifico": "Rattus rattus",
    "tipo": "MAMIFERO",
@@ -8073,7 +5833,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rattus_rattus"
   },
   {
-   "id": 578,
+   "id": 418,
    "nombreComun": "Rata Parda",
    "nombreCientifico": "Rattus norvegicus",
    "tipo": "MAMIFERO",
@@ -8087,49 +5847,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Rattus_norvegicus"
   },
   {
-   "id": 579,
-   "nombreComun": "Comadreja",
-   "nombreCientifico": "Mustela nivalis",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mustélido pequeño y ágil.",
-   "curiosidades": "Habitual en monte y dehesas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Mustela_nivalis"
-  },
-  {
-   "id": 580,
-   "nombreComun": "Turón",
-   "nombreCientifico": "Mustela putorius",
-   "tipo": "MAMIFERO",
-   "categoria": "FAUNA",
-   "habitat": "MARISMA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Mustélido mediano nocturno.",
-   "curiosidades": "Presente en zonas húmedas onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Mustela_putorius"
-  },
-  {
-   "id": 581,
-   "nombreComun": "Búho Chico",
-   "nombreCientifico": "Asio otus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Búho mediano con orejas largas.",
-   "curiosidades": "Anida en pinares onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Asio_otus"
-  },
-  {
-   "id": 582,
+   "id": 419,
    "nombreComun": "Lechucita Acanela",
    "nombreCientifico": "Aegolius funereus",
    "tipo": "AVE",
@@ -8143,35 +5861,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Aegolius_funereus"
   },
   {
-   "id": 583,
-   "nombreComun": "Mochuelo Boreal",
-   "nombreCientifico": "Aegolius funereus",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "EN_PELIGRO",
-   "descripcion": "Pequeño búho forestal, especie centroeuropea.",
-   "curiosidades": "Presencia ocasional en sierras onubenses.",
-   "mejorEpoca": "INVIERNO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Aegolius_funereus"
-  },
-  {
-   "id": 584,
-   "nombreComun": "Triguero",
-   "nombreCientifico": "Emberiza calandra",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pájaro de campos abiertos con canto característico.",
-   "curiosidades": "Habitual en campiñas onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Emberiza_calandra"
-  },
-  {
-   "id": 585,
+   "id": 420,
    "nombreComun": "Escribano Soteño",
    "nombreCientifico": "Emberiza cirlus",
    "tipo": "AVE",
@@ -8185,7 +5875,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Emberiza_cirlus"
   },
   {
-   "id": 586,
+   "id": 421,
    "nombreComun": "Gorrión Moruno",
    "nombreCientifico": "Passer hispaniolensis",
    "tipo": "AVE",
@@ -8199,21 +5889,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Passer_hispaniolensis"
   },
   {
-   "id": 587,
-   "nombreComun": "Estornino Negro",
-   "nombreCientifico": "Sturnus unicolor",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Estornino ibérico, sin moteado.",
-   "curiosidades": "Muy común en ciudades y campos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Sturnus_unicolor"
-  },
-  {
-   "id": 588,
+   "id": 422,
    "nombreComun": "Vencejo Pálido",
    "nombreCientifico": "Apus pallidus",
    "tipo": "AVE",
@@ -8227,21 +5903,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Apus_pallidus"
   },
   {
-   "id": 589,
-   "nombreComun": "Vencejo Real",
-   "nombreCientifico": "Tachymarptis melba",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTANA",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Gran vencejo blanquinegro de montaña.",
-   "curiosidades": "Anida en cantiles serranos onubenses.",
-   "mejorEpoca": "PRIMAVERA",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Tachymarptis_melba"
-  },
-  {
-   "id": 590,
+   "id": 423,
    "nombreComun": "Golondrina Daúrica",
    "nombreCientifico": "Cecropis daurica",
    "tipo": "AVE",
@@ -8255,7 +5917,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Cecropis_daurica"
   },
   {
-   "id": 591,
+   "id": 424,
    "nombreComun": "Curruca Capirotada",
    "nombreCientifico": "Sylvia atricapilla",
    "tipo": "AVE",
@@ -8269,7 +5931,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sylvia_atricapilla"
   },
   {
-   "id": 592,
+   "id": 425,
    "nombreComun": "Curruca Cabecinegra",
    "nombreCientifico": "Sylvia melanocephala",
    "tipo": "AVE",
@@ -8283,21 +5945,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Sylvia_melanocephala"
   },
   {
-   "id": 593,
-   "nombreComun": "Reyezuelo Listado",
-   "nombreCientifico": "Regulus ignicapilla",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "VULNERABLE",
-   "descripcion": "Pequeño pájaro con corona naranja.",
-   "curiosidades": "Habitual en pinares serranos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Regulus_ignicapilla"
-  },
-  {
-   "id": 594,
+   "id": 426,
    "nombreComun": "Carbonero Garrapinos",
    "nombreCientifico": "Periparus ater",
    "tipo": "AVE",
@@ -8311,63 +5959,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Periparus_ater"
   },
   {
-   "id": 595,
-   "nombreComun": "Mosquitero Común",
-   "nombreCientifico": "Phylloscopus collybita",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pequeño pájaro verde con canto característico.",
-   "curiosidades": "Invernante muy común en bosques onubenses.",
-   "mejorEpoca": "INVIERNO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Phylloscopus_collybita"
-  },
-  {
-   "id": 596,
-   "nombreComun": "Pinzón Común",
-   "nombreCientifico": "Fringilla coelebs",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "BOSQUE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Pinzón con pecho rosado y franja blanca alar.",
-   "curiosidades": "Habitual en bosques serranos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Fringilla_coelebs"
-  },
-  {
-   "id": 597,
-   "nombreComun": "Verderón Común",
-   "nombreCientifico": "Chloris chloris",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Fringílido verde y amarillo.",
-   "curiosidades": "Habitual en huertas y jardines onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Chloris_chloris"
-  },
-  {
-   "id": 598,
-   "nombreComun": "Jilguero",
-   "nombreCientifico": "Carduelis carduelis",
-   "tipo": "AVE",
-   "categoria": "FAUNA",
-   "habitat": "MONTE",
-   "estadoConservacion": "ABUNDANTE",
-   "descripcion": "Fringílido colorido con cabeza roja, blanca y negra.",
-   "curiosidades": "Muy común en campos onubenses.",
-   "mejorEpoca": "TODO_EL_ANO",
-   "esEmblema": false,
-   "wikipediaUrl": "https://es.wikipedia.org/wiki/Carduelis_carduelis"
-  },
-  {
-   "id": 599,
+   "id": 427,
    "nombreComun": "Pardillo Común",
    "nombreCientifico": "Linaria cannabina",
    "tipo": "AVE",
@@ -8381,7 +5973,7 @@
    "wikipediaUrl": "https://es.wikipedia.org/wiki/Linaria_cannabina"
   },
   {
-   "id": 600,
+   "id": 428,
    "nombreComun": "Catálogo 600 Especies Onubenses",
    "nombreCientifico": "Catalogus sextus",
    "tipo": "AVE",
