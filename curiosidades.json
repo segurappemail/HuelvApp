@@ -1,0 +1,2092 @@
+{
+ "curiosidades": [
+  {
+   "id": 1,
+   "titulo": "El Recreativo: el club de fútbol decano de España",
+   "categoria": "DEPORTE",
+   "texto": "El Real Club Recreativo de Huelva, fundado el 23 de diciembre de 1889, es el club de fútbol más antiguo de España. Lo fundaron trabajadores británicos de la Rio Tinto Company que trajeron este deporte a la península.",
+   "fuente": "Real Club Recreativo de Huelva",
+   "icono": "⚽"
+  },
+  {
+   "id": 2,
+   "titulo": "El río Tinto: el Marte de la Tierra",
+   "categoria": "NATURALEZA",
+   "texto": "Las aguas rojizas del río Tinto son tan ácidas y ricas en metales que la NASA y la ESA las estudian como análogas a Marte. Sus extremófilos (bacterias que sobreviven en condiciones extremas) podrían parecerse a posible vida marciana.",
+   "fuente": "NASA Astrobiology",
+   "lugarRelacionadoId": 120,
+   "icono": "🔴"
+  },
+  {
+   "id": 3,
+   "titulo": "La plaza de toros más antigua de España",
+   "categoria": "HISTORIA",
+   "texto": "La Plaza de Toros de Campofrío comenzó a construirse en 1716 (con sello de 1710), convirtiéndose en la más antigua de España. Su planta circular de 54 metros está rodeada por un muro de piedra original.",
+   "lugarRelacionadoId": 51,
+   "icono": "🐂"
+  },
+  {
+   "id": 4,
+   "titulo": "Las grutas más visitadas de España",
+   "categoria": "NATURALEZA",
+   "texto": "Las Grutas de las Maravillas de Aracena fueron las primeras grutas turísticas abiertas en España (1914). Reciben cada año cientos de miles de visitantes que recorren 1.200 metros de salones espectaculares.",
+   "lugarRelacionadoId": 129,
+   "icono": "🕳️"
+  },
+  {
+   "id": 5,
+   "titulo": "El millón de personas en El Rocío",
+   "categoria": "CULTURA",
+   "texto": "La Romería del Rocío en Pentecostés congrega cada año entre 1 y 1,5 millones de peregrinos, convirtiéndola en la mayor manifestación religiosa popular de España. La aldea de El Rocío, sin asfaltar, es única en Europa.",
+   "lugarRelacionadoId": 85,
+   "icono": "🌟"
+  },
+  {
+   "id": 6,
+   "titulo": "Cinco siglos del descubrimiento",
+   "categoria": "HISTORIA",
+   "texto": "El 3 de agosto de 1492 zarparon de Palos de la Frontera tres carabelas: la Santa María, la Pinta y la Niña. Antes habían reposado en el Monasterio de La Rábida. Cambiaron la historia del mundo.",
+   "lugarRelacionadoId": 15,
+   "icono": "⛵"
+  },
+  {
+   "id": 7,
+   "titulo": "La mezquita rural más antigua de España",
+   "categoria": "HISTORIA",
+   "texto": "La pequeña mezquita califal de Almonaster la Real, del siglo X, es una de las mezquitas rurales mejor conservadas de España. Está integrada dentro de un castillo medieval cristiano.",
+   "lugarRelacionadoId": 94,
+   "icono": "🕌"
+  },
+  {
+   "id": 8,
+   "titulo": "El Premio Nobel choquero",
+   "categoria": "CULTURA",
+   "texto": "Juan Ramón Jiménez recibió el Premio Nobel de Literatura en 1956 mientras su esposa Zenobia agonizaba en Puerto Rico. Falleció tres días después. Es el único Nobel literario nacido en Huelva.",
+   "lugarRelacionadoId": 185,
+   "icono": "🏆"
+  },
+  {
+   "id": 9,
+   "titulo": "Sin Huelva no habría Coca-Cola",
+   "categoria": "GEOGRAFIA",
+   "texto": "El cobre extraído en Riotinto fue exportado masivamente a Estados Unidos desde finales del siglo XIX. Sin él, no se podrían haber fabricado las máquinas industriales que producen muchos productos cotidianos.",
+   "icono": "🥤"
+  },
+  {
+   "id": 10,
+   "titulo": "El felino más amenazado del mundo",
+   "categoria": "NATURALEZA",
+   "texto": "El lince ibérico es el felino más amenazado del planeta. En 2002 quedaban menos de 100 ejemplares. Gracias al programa LIFE Iberlince, hoy hay más de 1.500, muchos en Doñana y su entorno.",
+   "icono": "🐱"
+  },
+  {
+   "id": 11,
+   "titulo": "La flecha que cada año crece más",
+   "categoria": "NATURALEZA",
+   "texto": "La Flecha del Rompido es una lengua de arena de más de 12 km que avanza paralela a la costa unos 30 metros cada año. Es una de las playas vírgenes más extensas de Europa, accesible solo en barco.",
+   "lugarRelacionadoId": 68,
+   "icono": "🏖️"
+  },
+  {
+   "id": 12,
+   "titulo": "El cerdo más feliz del mundo",
+   "categoria": "GASTRONOMIA",
+   "texto": "Los cerdos ibéricos de bellota que producen el jamón de Jabugo viven libres en las dehesas serranas alimentándose exclusivamente de bellotas durante la 'montanera' (octubre-marzo). Esta dieta y libertad les dan ese sabor único.",
+   "lugarRelacionadoId": 131,
+   "icono": "🐖"
+  },
+  {
+   "id": 13,
+   "titulo": "La estatua mirando al océano",
+   "categoria": "HISTORIA",
+   "texto": "El Monumento a la Fe Descubridora de Huelva mide 37 metros, fue obra de la escultora americana Gertrude Vanderbilt Whitney y se inauguró en 1929. Es un regalo de Estados Unidos a España en agradecimiento por el descubrimiento de América.",
+   "lugarRelacionadoId": 110,
+   "icono": "🗽"
+  },
+  {
+   "id": 14,
+   "titulo": "Doñana: Patrimonio de la Humanidad",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana es Patrimonio de la Humanidad UNESCO desde 1994 y Reserva de la Biosfera desde 1980. Acoge a 6 millones de aves migratorias cada año. Es uno de los ecosistemas más importantes de Europa.",
+   "lugarRelacionadoId": 11,
+   "icono": "🦩"
+  },
+  {
+   "id": 15,
+   "titulo": "La fresa de Lepe alimenta a Europa",
+   "categoria": "GASTRONOMIA",
+   "texto": "Huelva produce el 95% de las fresas de España y más del 30% de las consumidas en toda Europa. Lepe es la capital de la fresa. La temporada va de febrero a junio.",
+   "lugarRelacionadoId": 69,
+   "icono": "🍓"
+  },
+  {
+   "id": 16,
+   "titulo": "El barrio inglés en plena Huelva",
+   "categoria": "HISTORIA",
+   "texto": "El Barrio Reina Victoria de Huelva fue construido entre 1916 y 1929 por la Rio Tinto Company para sus obreros británicos. Sus 200 casas en estilo cottage inglés son únicas en Andalucía.",
+   "lugarRelacionadoId": 76,
+   "icono": "🏡"
+  },
+  {
+   "id": 17,
+   "titulo": "El primer tren minero",
+   "categoria": "HISTORIA",
+   "texto": "El ferrocarril minero de Riotinto, inaugurado en 1875, fue uno de los primeros de España. Transportaba mineral hasta el puerto de Huelva. Hoy parte de él es el Tren Turístico Minero.",
+   "lugarRelacionadoId": 106,
+   "icono": "🚂"
+  },
+  {
+   "id": 18,
+   "titulo": "El choco da nombre a los choqueros",
+   "categoria": "CULTURA",
+   "texto": "Los habitantes de Huelva capital se llaman 'choqueros' porque el choco (sepia) era el alimento básico de los pescadores onubenses. Hoy sigue siendo el plato más identificativo de la ciudad.",
+   "icono": "🦑"
+  },
+  {
+   "id": 19,
+   "titulo": "El primer tren de España... casi",
+   "categoria": "HISTORIA",
+   "texto": "El tramo entre Huelva y Sevilla fue uno de los primeros ferrocarriles construidos en España, inaugurado en 1880. Conectaba el puerto onubense con la capital andaluza para exportar minerales y productos.",
+   "icono": "🚆"
+  },
+  {
+   "id": 20,
+   "titulo": "Los británicos trajeron el fútbol",
+   "categoria": "DEPORTE",
+   "texto": "Los ingenieros y obreros británicos de Riotinto trajeron muchos deportes a España: fútbol, tenis, golf, polo... El primer partido oficial de fútbol en España se jugó en Huelva en 1890.",
+   "icono": "⚽"
+  },
+  {
+   "id": 21,
+   "titulo": "Acantilados rojos de 100 metros",
+   "categoria": "GEOGRAFIA",
+   "texto": "Los Acantilados del Asperillo son los acantilados de arena más altos de toda la costa andaluza, con hasta 100 metros de altura. Sus formas erosivas son únicas en Europa.",
+   "lugarRelacionadoId": 82,
+   "icono": "🏔️"
+  },
+  {
+   "id": 22,
+   "titulo": "La cabalgata más antigua",
+   "categoria": "CULTURA",
+   "texto": "La Cabalgata de Reyes de Higuera de la Sierra, celebrada desde 1918, es Fiesta de Interés Turístico Nacional y una de las más antiguas y emblemáticas de España. Sus cuadros vivientes son únicos.",
+   "lugarRelacionadoId": 50,
+   "icono": "👑"
+  },
+  {
+   "id": 23,
+   "titulo": "El nombre romano de Huelva",
+   "categoria": "HISTORIA",
+   "texto": "Los romanos llamaban a Huelva 'Onuba Aestuaria', de donde viene el gentilicio 'onubense'. Antes la habían llamado los fenicios 'Onoba'.",
+   "icono": "🏛️"
+  },
+  {
+   "id": 24,
+   "titulo": "1.500 yeguas cruzan Doñana",
+   "categoria": "CULTURA",
+   "texto": "Cada 26 de junio, la Saca de las Yeguas reúne a 1.500 yeguas marismeñas que cruzan Doñana para ser herradas en Almonte. Tradición ancestral de 1504, Fiesta de Interés Turístico.",
+   "icono": "🐎"
+  },
+  {
+   "id": 25,
+   "titulo": "El gurumelo, joya andevaleña",
+   "categoria": "GASTRONOMIA",
+   "texto": "El gurumelo (Amanita ponderosa) es una seta única del Andévalo onubense que aparece solo en primavera tras las lluvias. Tan valorada que tiene su propia fiesta anual en El Almendro.",
+   "icono": "🍄"
+  },
+  {
+   "id": 26,
+   "titulo": "La playa virgen más larga",
+   "categoria": "NATURALEZA",
+   "texto": "Las playas de Doñana suman más de 30 km de costa virgen sin urbanización. La playa de Caños de Meca y el tramo entre Matalascañas y Mazagón son tramos vírgenes únicos en Europa Occidental.",
+   "icono": "🏖️"
+  },
+  {
+   "id": 27,
+   "titulo": "Vino del Condado: más viejo que la Rioja",
+   "categoria": "GASTRONOMIA",
+   "texto": "La Denominación de Origen Condado de Huelva es una de las más antiguas de España, oficial desde 1933. Se elaboraban vinos en la zona desde la época romana.",
+   "lugarRelacionadoId": 58,
+   "icono": "🍷"
+  },
+  {
+   "id": 28,
+   "titulo": "El primer kayak transatlántico",
+   "categoria": "DEPORTE",
+   "texto": "En 1999 el onubense José Luis Ugarte cruzó solo el Océano Atlántico en kayak desde Huelva hasta el Caribe. Fue el primer español en hacerlo. Una hazaña que rinde homenaje a Colón.",
+   "icono": "🛶"
+  },
+  {
+   "id": 29,
+   "titulo": "La provincia con más kilómetros de litoral",
+   "categoria": "GEOGRAFIA",
+   "texto": "Huelva tiene 122 km de costa atlántica, con la mayor proporción de playas vírgenes de toda Andalucía. Una franja de pinares y dunas protege la costa del urbanismo.",
+   "icono": "🌊"
+  },
+  {
+   "id": 30,
+   "titulo": "El pico San Cristóbal: techo serrano",
+   "categoria": "GEOGRAFIA",
+   "texto": "El Pico San Cristóbal en Almonaster (916 m) es una de las mayores alturas de la Sierra de Aracena. Desde su cima, en días claros, se ven Portugal y Sevilla en lontananza.",
+   "lugarRelacionadoId": 117,
+   "icono": "⛰️"
+  },
+  {
+   "id": 31,
+   "titulo": "El tiro al pichón en La Rábida",
+   "categoria": "DEPORTE",
+   "texto": "En La Rábida se celebraron los primeros campeonatos de tiro al pichón de España, traídos por los británicos. La afición onubense por la caza tiene aquí su origen moderno.",
+   "icono": "🎯"
+  },
+  {
+   "id": 32,
+   "titulo": "Berrocal, la 'pequeña Suiza' de Huelva",
+   "categoria": "GEOGRAFIA",
+   "texto": "El término municipal de Berrocal, con su paisaje serrano de granito y vegetación mediterránea, es conocido localmente como la 'pequeña Suiza' por sus formaciones rocosas únicas.",
+   "lugarRelacionadoId": 177,
+   "icono": "🏔️"
+  },
+  {
+   "id": 33,
+   "titulo": "El monasterio más antiguo de Doñana",
+   "categoria": "HISTORIA",
+   "texto": "Los franciscanos de La Rábida llevan custodiando ese monasterio desde 1261. Han sido testigos de toda la historia colombina y siguen siendo comunidad activa.",
+   "lugarRelacionadoId": 15,
+   "icono": "⛪"
+  },
+  {
+   "id": 34,
+   "titulo": "La gamba blanca, oro líquido",
+   "categoria": "GASTRONOMIA",
+   "texto": "La gamba blanca de Huelva tiene Denominación de Origen Específica. Vive en aguas profundas del Atlántico onubense (200-400 m) y se considera una de las mejores del mundo.",
+   "icono": "🦐"
+  },
+  {
+   "id": 35,
+   "titulo": "El olivar más grande de Andalucía",
+   "categoria": "GEOGRAFIA",
+   "texto": "La Sierra de Aracena alberga uno de los olivares más grandes de Andalucía, con olivos centenarios de variedades autóctonas como la 'verdial' que producen un aceite muy apreciado.",
+   "icono": "🫒"
+  },
+  {
+   "id": 36,
+   "titulo": "El primer abuelo del jamón",
+   "categoria": "GASTRONOMIA",
+   "texto": "El cerdo ibérico, antepasado de todos los cerdos domésticos europeos, es una raza única que solo prospera en la dehesa ibérica. La de Huelva es de las más extensas y mejor conservadas.",
+   "icono": "🐷"
+  },
+  {
+   "id": 37,
+   "titulo": "El cante minero onubense",
+   "categoria": "CULTURA",
+   "texto": "El fandango de Huelva es uno de los grandes palos del flamenco. Tiene variantes locales en cada pueblo: el de Alosno, el de Almonaster, el de Encinasola... cada uno con su matiz.",
+   "lugarRelacionadoId": 65,
+   "icono": "🎤"
+  },
+  {
+   "id": 38,
+   "titulo": "La ciudad amurallada de Niebla",
+   "categoria": "HISTORIA",
+   "texto": "Niebla conserva más de 2 km de muralla medieval intacta, una de las mejor preservadas de Europa. Por sus puertas pasaron tartesios, fenicios, romanos, visigodos y árabes.",
+   "lugarRelacionadoId": 56,
+   "icono": "🏰"
+  },
+  {
+   "id": 39,
+   "titulo": "Tres tipos de jamón ibérico",
+   "categoria": "GASTRONOMIA",
+   "texto": "El jamón ibérico onubense se clasifica en tres categorías: bellota (cerdo libre con bellota), cebo de campo (con bellota y pienso) y cebo (solo pienso). El de bellota es el más valorado y caro.",
+   "icono": "🥩"
+  },
+  {
+   "id": 40,
+   "titulo": "Huelva fue capital mundial del cobre",
+   "categoria": "HISTORIA",
+   "texto": "A finales del siglo XIX y principios del XX, Huelva fue el primer productor mundial de cobre gracias a las minas de Riotinto y Tharsis. Su mineral construyó la electricidad mundial.",
+   "icono": "🟠"
+  },
+  {
+   "id": 41,
+   "titulo": "La primera Copa de Europa con un onubense",
+   "categoria": "DEPORTE",
+   "texto": "El onubense José Antonio Camacho fue uno de los protagonistas de la primera Copa de Europa ganada por un club español: el Real Madrid en 1956. Vinculó así Huelva al máximo trofeo europeo.",
+   "icono": "⚽"
+  },
+  {
+   "id": 42,
+   "titulo": "El primer aceite de oliva del mundo",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las primeras evidencias arqueológicas de producción de aceite de oliva en la península ibérica se encuentran en Huelva. Los olivares serranos de variedad verdial son herederos directos de aquellos.",
+   "icono": "🫒"
+  },
+  {
+   "id": 43,
+   "titulo": "Una romería patrimonio inmaterial",
+   "categoria": "CULTURA",
+   "texto": "La Romería del Rocío es candidata a Patrimonio Cultural Inmaterial de la Humanidad por UNESCO. Más de 100 hermandades de toda España peregrinan cada Pentecostés.",
+   "lugarRelacionadoId": 85,
+   "icono": "🌟"
+  },
+  {
+   "id": 44,
+   "titulo": "Doñana acoge a un tercio de aves de Europa",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana es paso obligado para el 70% de las aves migratorias que cruzan el Estrecho de Gibraltar. En invierno acoge a más de 200.000 aves acuáticas simultáneamente.",
+   "lugarRelacionadoId": 11,
+   "icono": "🦆"
+  },
+  {
+   "id": 45,
+   "titulo": "El faro más alto de la costa atlántica andaluza",
+   "categoria": "GEOGRAFIA",
+   "texto": "El Faro de El Rompido (nuevo, 2009) mide 30 metros y es uno de los más altos de la costa atlántica andaluza. Su luz es visible a 18 millas náuticas mar adentro.",
+   "lugarRelacionadoId": 149,
+   "icono": "🗼"
+  },
+  {
+   "id": 46,
+   "titulo": "El primer Premio Nobel español",
+   "categoria": "CULTURA",
+   "texto": "Juan Ramón Jiménez fue uno de los primeros españoles en ganar el Premio Nobel de Literatura (1956). El segundo en literatura tras Echegaray (1904) y Benavente (1922).",
+   "lugarRelacionadoId": 185,
+   "icono": "🏆"
+  },
+  {
+   "id": 47,
+   "titulo": "Huelva tiene una catedral relativamente joven",
+   "categoria": "HISTORIA",
+   "texto": "La diócesis de Huelva fue creada en 1953, separándose de la de Sevilla. Es una de las más jóvenes de España. Su catedral es La Merced, antiguo convento mercedario.",
+   "lugarRelacionadoId": 73,
+   "icono": "⛪"
+  },
+  {
+   "id": 48,
+   "titulo": "El pueblo más al norte de Andalucía",
+   "categoria": "GEOGRAFIA",
+   "texto": "Encinasola, en la Sierra de Aracena, es el pueblo más al norte de toda Andalucía. Fronterizo con Portugal y Extremadura, conserva fuertes defensivos del siglo XVII.",
+   "lugarRelacionadoId": 47,
+   "icono": "🧭"
+  },
+  {
+   "id": 49,
+   "titulo": "Carolina Marín revolucionó el bádminton",
+   "categoria": "DEPORTE",
+   "texto": "La onubense Carolina Marín es la única jugadora no asiática en ganar el Campeonato Mundial de bádminton (lo hizo tres veces). Su agresividad y técnica cambiaron el deporte para siempre.",
+   "lugarRelacionadoId": 231,
+   "icono": "🏸"
+  },
+  {
+   "id": 50,
+   "titulo": "La 'pequeña Suiza' onubense",
+   "categoria": "GEOGRAFIA",
+   "texto": "El paisaje granítico de Berrocal, con sus formaciones rocosas y vegetación mediterránea, es conocido como 'la pequeña Suiza' de Huelva por su parecido a paisajes alpinos en miniatura.",
+   "lugarRelacionadoId": 177,
+   "icono": "🏔️"
+  },
+  {
+   "id": 51,
+   "titulo": "La mezquita rural única de España",
+   "categoria": "HISTORIA",
+   "texto": "Almonaster la Real tiene la única mezquita rural conservada de España. Construida en el siglo X como mezquita califal, fue convertida en iglesia tras la Reconquista pero mantiene intacto el mihrab original.",
+   "fuente": "BIC declarado",
+   "lugarRelacionadoId": 554,
+   "icono": "🕌"
+  },
+  {
+   "id": 52,
+   "titulo": "El descubrimiento del río Tinto",
+   "categoria": "CIENCIA",
+   "texto": "La NASA estudia el Río Tinto porque sus aguas extremadamente ácidas (pH 2) y ricas en metales son lo más parecido en la Tierra a las condiciones que podrían existir en Marte.",
+   "fuente": "NASA Astrobiology",
+   "lugarRelacionadoId": 901,
+   "icono": "🚀"
+  },
+  {
+   "id": 53,
+   "titulo": "Los flamencos rosados son por la dieta",
+   "categoria": "NATURALEZA",
+   "texto": "Los flamencos de las Marismas del Odiel y Doñana nacen blancos. Su color rosado característico se debe a los carotenoides de las gambas pequeñas que comen.",
+   "lugarRelacionadoId": 543,
+   "icono": "🦩"
+  },
+  {
+   "id": 54,
+   "titulo": "El choco que dio nombre a los onubenses",
+   "categoria": "GASTRONOMIA",
+   "texto": "Los habitantes de Huelva se llaman 'choqueros' por la abundancia y tradición pesquera del choco (sepia). Es el único gentilicio gastronómico de España.",
+   "lugarRelacionadoId": 94,
+   "icono": "🦑"
+  },
+  {
+   "id": 55,
+   "titulo": "La capital mundial de la fresa",
+   "categoria": "GASTRONOMIA",
+   "texto": "Huelva produce el 95% de las fresas de España y el 30% de las europeas. Los frutos rojos onubenses se exportan a más de 40 países.",
+   "fuente": "Datos sector freseros",
+   "icono": "🍓"
+  },
+  {
+   "id": 56,
+   "titulo": "El más antiguo del fútbol español",
+   "categoria": "DEPORTE",
+   "texto": "El Real Club Recreativo de Huelva, fundado en 1889 por ingenieros británicos de las minas, es el club de fútbol más antiguo de España. Su nombre es por las actividades 'recreativas' de los obreros mineros.",
+   "lugarRelacionadoId": 1081,
+   "icono": "⚽"
+  },
+  {
+   "id": 57,
+   "titulo": "La tirolina más larga entre dos países",
+   "categoria": "CURIOSO",
+   "texto": "La tirolina entre Sanlúcar de Guadiana (España) y Alcoutim (Portugal) cruza el río Guadiana entre dos países en 60 segundos. Es única en el mundo.",
+   "lugarRelacionadoId": 793,
+   "icono": "🪂"
+  },
+  {
+   "id": 58,
+   "titulo": "El acantilado de arena único en el Atlántico",
+   "categoria": "GEOGRAFIA",
+   "texto": "Los Acantilados del Asperillo, en la costa de Doñana, son los únicos acantilados de arena del Atlántico europeo. Sus paredes ocres alcanzan los 100 metros.",
+   "lugarRelacionadoId": 862,
+   "icono": "🏞️"
+  },
+  {
+   "id": 59,
+   "titulo": "La feria centenaria del jamón",
+   "categoria": "GASTRONOMIA",
+   "texto": "El Salón Ibérico Internacional del Jamón de Aracena, celebrado desde 1996, es la mayor feria del jamón ibérico del mundo. Reúne a productores y profesionales de toda Europa.",
+   "lugarRelacionadoId": 161,
+   "icono": "🐖"
+  },
+  {
+   "id": 60,
+   "titulo": "La iglesia construida sobre un castillo",
+   "categoria": "HISTORIA",
+   "texto": "La Iglesia del Castillo de Aracena está literalmente construida encima del castillo medieval. Un caso único en España de fusión arquitectónica entre defensa y religión.",
+   "lugarRelacionadoId": 552,
+   "icono": "⛪"
+  },
+  {
+   "id": 61,
+   "titulo": "El mercadillo medieval más famoso",
+   "categoria": "HISTORIA",
+   "texto": "El Mercado Medieval de Niebla, celebrado desde 1995, recrea la vida medieval en el recinto amurallado mejor conservado de Andalucía. Atrae a 100.000 visitantes anuales.",
+   "lugarRelacionadoId": 230,
+   "icono": "🏰"
+  },
+  {
+   "id": 62,
+   "titulo": "Los ríos de aguas curativas",
+   "categoria": "NATURALEZA",
+   "texto": "Fuenteheridos significa 'fuente de heridos': sus aguas se consideraron desde tiempos antiguos sanadoras de heridas. El pueblo tiene varios manantiales naturales con propiedades únicas.",
+   "lugarRelacionadoId": 884,
+   "icono": "💧"
+  },
+  {
+   "id": 63,
+   "titulo": "El monasterio donde se decidió América",
+   "categoria": "HISTORIA",
+   "texto": "En el Monasterio de La Rábida, Fray Antonio de Marchena y Fray Juan Pérez convencieron a los Reyes Católicos de financiar a Colón. Sin estos frailes, no habría habido Descubrimiento.",
+   "lugarRelacionadoId": 8,
+   "icono": "🗺️"
+  },
+  {
+   "id": 64,
+   "titulo": "El pueblo que se moja en pleno septiembre",
+   "categoria": "TRADICION",
+   "texto": "Galaroza celebra cada 6 de septiembre la 'Fiesta de los Jarritos', única en España. Los vecinos se lanzan agua con jarras y cubos por las calles. Una tradición sin paralelo.",
+   "lugarRelacionadoId": 177,
+   "icono": "💦"
+  },
+  {
+   "id": 65,
+   "titulo": "El barrio inglés único",
+   "categoria": "HISTORIA",
+   "texto": "El Barrio Reina Victoria de Huelva, construido entre 1916 y 1929 por la Rio Tinto Company para sus obreros británicos, es el único barrio en estilo cottage inglés de Andalucía.",
+   "lugarRelacionadoId": 474,
+   "icono": "🏘️"
+  },
+  {
+   "id": 66,
+   "titulo": "El club británico minero",
+   "categoria": "HISTORIA",
+   "texto": "El Club Bell Vue en Riotinto fue el club social donde los ingenieros británicos se reunían a tomar el té y jugar al cricket. Patrimonio industrial-social.",
+   "lugarRelacionadoId": 933,
+   "icono": "🎩"
+  },
+  {
+   "id": 67,
+   "titulo": "El polígono octogonal único",
+   "categoria": "ARQUITECTURA",
+   "texto": "La Plaza de Toros de Aroche, construida en el siglo XIX, es octogonal. Una de las muy pocas plazas con esta forma en España.",
+   "lugarRelacionadoId": 787,
+   "icono": "🐂"
+  },
+  {
+   "id": 68,
+   "titulo": "El cerdo que sólo come bellotas",
+   "categoria": "GASTRONOMIA",
+   "texto": "El cerdo ibérico de bellota, alimentado exclusivamente de bellotas durante la montanera (oct-mar), engorda hasta 70 kg en esos meses. Su grasa infiltra la carne dándole sabor único.",
+   "fuente": "DOP Jabugo",
+   "icono": "🌰"
+  },
+  {
+   "id": 69,
+   "titulo": "El bosque mediterráneo más rico",
+   "categoria": "NATURALEZA",
+   "texto": "La Sierra de Aracena tiene la mayor diversidad de árboles autóctonos de Andalucía: encinas, alcornoques, quejigos, castaños, robles, pinos y acebuches conviven en menos de 20 km².",
+   "lugarRelacionadoId": 913,
+   "icono": "🌳"
+  },
+  {
+   "id": 70,
+   "titulo": "La Saca de Yeguas centenaria",
+   "categoria": "TRADICION",
+   "texto": "Cada 26 de junio, los yegüerizos sacan las yeguas marismeñas semisalvajes de Doñana hasta Almonte. Tradición vigente desde el siglo XV, declarada de Interés Etnológico.",
+   "lugarRelacionadoId": 217,
+   "icono": "🐎"
+  },
+  {
+   "id": 71,
+   "titulo": "El antiguo Reino de Niebla",
+   "categoria": "HISTORIA",
+   "texto": "Niebla fue capital de un reino taifa musulmán independiente durante el siglo XI. Llegó a ser una de las ciudades más importantes del sur de Al-Ándalus.",
+   "lugarRelacionadoId": 41,
+   "icono": "👑"
+  },
+  {
+   "id": 72,
+   "titulo": "Casa de Doñana, residencia real",
+   "categoria": "HISTORIA",
+   "texto": "El Palacio de Doñana, propiedad de los duques de Medina Sidonia, hospedó a Velázquez, Goya y a varios reyes españoles durante cacerías reales.",
+   "lugarRelacionadoId": 795,
+   "icono": "🏰"
+  },
+  {
+   "id": 73,
+   "titulo": "El origen del nombre Huelva",
+   "categoria": "HISTORIA",
+   "texto": "El topónimo Huelva proviene de 'Onoba Aestuaria', su nombre romano. Significaría 'Onoba del estuario'. Onoba era una ciudad fenicia anterior.",
+   "lugarRelacionadoId": 8,
+   "icono": "🏛️"
+  },
+  {
+   "id": 74,
+   "titulo": "El acueducto romano milenario",
+   "categoria": "HISTORIA",
+   "texto": "Niebla conserva uno de los acueductos romanos mejor preservados de Andalucía, abasteciendo a la ciudad desde el siglo I a.C. Hoy parte del paisaje urbano.",
+   "lugarRelacionadoId": 742,
+   "icono": "💧"
+  },
+  {
+   "id": 75,
+   "titulo": "El sefardí en el Condado",
+   "categoria": "HISTORIA",
+   "texto": "Niebla tuvo una de las juderías más activas de Andalucía hasta la expulsión de 1492. Aún se conservan restos de la sinagoga y la antigua judería.",
+   "lugarRelacionadoId": 550,
+   "icono": "✡️"
+  },
+  {
+   "id": 76,
+   "titulo": "Los acebuches milenarios",
+   "categoria": "NATURALEZA",
+   "texto": "Algunos acebuches (olivos silvestres) de la Sierra de Aracena superan los 1.000 años de edad. Son los árboles vivos más antiguos de Huelva.",
+   "lugarRelacionadoId": 993,
+   "icono": "🫒"
+  },
+  {
+   "id": 77,
+   "titulo": "Las marismas, primer humedal protegido",
+   "categoria": "NATURALEZA",
+   "texto": "Las Marismas del Odiel fueron declaradas Reserva de la Biosfera por la UNESCO en 1983, antes incluso que Doñana. 7.000 hectáreas de humedales únicos.",
+   "lugarRelacionadoId": 543,
+   "icono": "🦅"
+  },
+  {
+   "id": 78,
+   "titulo": "La almadraba milenaria",
+   "categoria": "GASTRONOMIA",
+   "texto": "La pesca del atún rojo con almadraba en Isla Cristina y Ayamonte se realiza con técnicas heredadas de fenicios y romanos. Tradición de 3.000 años conservada.",
+   "lugarRelacionadoId": 539,
+   "icono": "🐟"
+  },
+  {
+   "id": 79,
+   "titulo": "Los Pueblos Blancos onubenses",
+   "categoria": "ARQUITECTURA",
+   "texto": "Huelva tiene su propia Ruta de los Pueblos Blancos en la sierra norte: Aracena, Almonaster, Alájar, Linares y otros conservan la cal característica.",
+   "lugarRelacionadoId": 1111,
+   "icono": "🏘️"
+  },
+  {
+   "id": 80,
+   "titulo": "El primer parque nacional español",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana fue declarado Parque Nacional en 1969, uno de los primeros de España. Hoy es Patrimonio Mundial de la UNESCO y Reserva de la Biosfera.",
+   "lugarRelacionadoId": 1131,
+   "icono": "🌳"
+  },
+  {
+   "id": 81,
+   "titulo": "Las cuevas con vida única",
+   "categoria": "CIENCIA",
+   "texto": "Las Grutas de las Maravillas de Aracena albergan especies de microfauna que no existen en ningún otro lugar del mundo. La cueva tiene su propio ecosistema único.",
+   "lugarRelacionadoId": 1,
+   "icono": "🦇"
+  },
+  {
+   "id": 82,
+   "titulo": "Doñana, hogar de un millón de aves",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana es la zona húmeda más importante de Europa. Cada invierno acoge a más de un millón de aves migratorias de toda Europa y África.",
+   "lugarRelacionadoId": 1131,
+   "icono": "🦆"
+  },
+  {
+   "id": 83,
+   "titulo": "El lince ibérico vuelve",
+   "categoria": "NATURALEZA",
+   "texto": "El lince ibérico, considerado el felino más amenazado del mundo, ha pasado de 90 ejemplares en 2002 a más de 2.000 en 2024 gracias a programas de cría en Huelva.",
+   "fuente": "Programas Junta de Andalucía",
+   "lugarRelacionadoId": 796,
+   "icono": "🐱"
+  },
+  {
+   "id": 84,
+   "titulo": "La fresa que viene del Andévalo",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las fresas de Huelva no son autóctonas: fueron introducidas en 1970 por agricultores valencianos que vieron el potencial del clima costero. Hoy son seña de identidad.",
+   "lugarRelacionadoId": 832,
+   "icono": "🍓"
+  },
+  {
+   "id": 85,
+   "titulo": "El Jamón de Jabugo, DOP exclusiva",
+   "categoria": "GASTRONOMIA",
+   "texto": "Solo 31 pueblos de la Sierra de Aracena pueden producir jamón con DOP Jabugo. El secreto está en el microclima de altura y la dehesa de bellota.",
+   "fuente": "DOP Jabugo",
+   "lugarRelacionadoId": 182,
+   "icono": "🥩"
+  },
+  {
+   "id": 86,
+   "titulo": "El centro del mundo en 1492",
+   "categoria": "HISTORIA",
+   "texto": "Durante varios meses en 1492-1493, Palos de la Frontera fue el puerto más importante del mundo: de aquí partió y aquí volvió el viaje que cambió la historia.",
+   "lugarRelacionadoId": 9,
+   "icono": "🌍"
+  },
+  {
+   "id": 87,
+   "titulo": "El vinagre con DOP única",
+   "categoria": "GASTRONOMIA",
+   "texto": "El Vinagre del Condado de Huelva tiene Denominación de Origen Protegida. Se cría en sistema de criaderas y soleras como los grandes vinos generosos.",
+   "fuente": "DOP Vinagre Condado",
+   "icono": "🍶"
+  },
+  {
+   "id": 88,
+   "titulo": "Las gambas blancas únicas",
+   "categoria": "GASTRONOMIA",
+   "texto": "La gamba blanca de Huelva (Parapenaeus longirostris) es considerada la mejor de Europa. Su carne dulce y suave la diferencia de cualquier otra del Mediterráneo.",
+   "icono": "🦐"
+  },
+  {
+   "id": 89,
+   "titulo": "El olivar más viejo de Andalucía",
+   "categoria": "GASTRONOMIA",
+   "texto": "El olivar de Aroche tiene ejemplares con 600 años de edad documentados. Algunos olivos siguen produciendo aceite tras seis siglos.",
+   "lugarRelacionadoId": 988,
+   "icono": "🫒"
+  },
+  {
+   "id": 90,
+   "titulo": "El Centro José Antonio Valverde",
+   "categoria": "CULTURA",
+   "texto": "El centro de visitantes José Antonio Valverde de Doñana lleva el nombre del naturalista que salvó el parque de ser destruido por urbanizadores en los años 60.",
+   "lugarRelacionadoId": 798,
+   "icono": "🦅"
+  },
+  {
+   "id": 91,
+   "titulo": "El embarcadero olvidado",
+   "categoria": "HISTORIA",
+   "texto": "El antiguo embarcadero de Tharsis era el más grande del mundo en su época para exportar mineral. Los buques llegaban hasta el centro del Andévalo.",
+   "lugarRelacionadoId": 926,
+   "icono": "🚢"
+  },
+  {
+   "id": 92,
+   "titulo": "El ferrocarril minero más antiguo",
+   "categoria": "HISTORIA",
+   "texto": "El ferrocarril minero de Riotinto, inaugurado en 1875, fue uno de los primeros de España y exportaba mineral hasta el puerto de Huelva. 84 km de vías históricas.",
+   "lugarRelacionadoId": 925,
+   "icono": "🚂"
+  },
+  {
+   "id": 93,
+   "titulo": "El barrio de los obreros británicos",
+   "categoria": "HISTORIA",
+   "texto": "Bella Vista en Riotinto fue el primer barrio residencial exclusivamente británico de España. Tenía iglesia anglicana, club privado y campo de cricket propio.",
+   "lugarRelacionadoId": 933,
+   "icono": "🏘️"
+  },
+  {
+   "id": 94,
+   "titulo": "El cementerio inglés único",
+   "categoria": "HISTORIA",
+   "texto": "Huelva tiene el único cementerio anglicano funcional de Andalucía. Allí descansan los obreros y directivos británicos que vivieron y murieron en la cuenca minera.",
+   "lugarRelacionadoId": 773,
+   "icono": "⚰️"
+  },
+  {
+   "id": 95,
+   "titulo": "El descubrimiento de Brasil",
+   "categoria": "HISTORIA",
+   "texto": "Vicente Yáñez Pinzón, moguereño, descubrió Brasil en 1500, tres meses antes que el portugués Pedro Álvares Cabral, pero la historia oficial dio la primacía al portugués.",
+   "lugarRelacionadoId": 42,
+   "icono": "🗺️"
+  },
+  {
+   "id": 96,
+   "titulo": "Las choznas de Huelva",
+   "categoria": "TRADICION",
+   "texto": "Las 'choznas' eran chozas tradicionales de los pescadores onubenses, construidas con ramas y barro. Hoy sobreviven solo en miniaturas y maquetas museísticas.",
+   "icono": "🏚️"
+  },
+  {
+   "id": 97,
+   "titulo": "El idioma de los marineros choqueros",
+   "categoria": "TRADICION",
+   "texto": "Los marineros choqueros desarrollaron un dialecto propio con palabras únicas: chivota, parrillo, ñoño, etc. Forma parte del patrimonio inmaterial.",
+   "icono": "🗣️"
+  },
+  {
+   "id": 98,
+   "titulo": "El antiguo Reino taifa",
+   "categoria": "HISTORIA",
+   "texto": "Saltés (en la ría del Odiel) fue capital de un reino taifa independiente en el siglo XI, con dinastía propia. Hoy es un yacimiento arqueológico clave.",
+   "lugarRelacionadoId": 694,
+   "icono": "👑"
+  },
+  {
+   "id": 99,
+   "titulo": "El acuífero más grande de Europa",
+   "categoria": "NATURALEZA",
+   "texto": "Bajo Doñana se extiende uno de los acuíferos más grandes de Europa. Su sobreexplotación es una de las grandes amenazas ambientales del parque.",
+   "lugarRelacionadoId": 1131,
+   "icono": "💧"
+  },
+  {
+   "id": 100,
+   "titulo": "Las 1000 maravillas de Huelva",
+   "categoria": "CULTURA",
+   "texto": "Huelva tiene más de 1.000 lugares de interés turístico catalogados. Una de las provincias con mayor densidad patrimonial por kilómetro cuadrado de España.",
+   "lugarRelacionadoId": 1000,
+   "icono": "✨"
+  },
+  {
+   "id": 101,
+   "titulo": "Doñana tiene 300+ especies de aves",
+   "categoria": "NATURALEZA",
+   "texto": "El Parque Nacional de Doñana alberga más de 300 especies de aves, de las cuales 250 son residentes o migratorias regulares. Es uno de los humedales más importantes de Europa.",
+   "lugarRelacionadoId": 300,
+   "icono": "🦩"
+  },
+  {
+   "id": 102,
+   "titulo": "Mina de Riotinto: 5.000 años explotando",
+   "categoria": "HISTORIA",
+   "texto": "Las minas de Riotinto son uno de los yacimientos más antiguos del mundo, con explotación documentada desde hace 5.000 años. Fenicios, romanos y tartesios extrajeron aquí sus metales.",
+   "fuente": "Minas de Riotinto",
+   "lugarRelacionadoId": 5000,
+   "icono": "⛏️"
+  },
+  {
+   "id": 103,
+   "titulo": "80 municipios diferentes",
+   "categoria": "CULTURA",
+   "texto": "La provincia de Huelva tiene exactamente 80 municipios, distribuidos en 6 comarcas: Sierra, Andévalo, Cuenca Minera, Condado, Costa y Capital.",
+   "lugarRelacionadoId": 80,
+   "icono": "🗺️"
+  },
+  {
+   "id": 104,
+   "titulo": "Gruta de las Maravillas: la primera turística de España",
+   "categoria": "NATURALEZA",
+   "texto": "La Gruta de las Maravillas de Aracena fue la primera cueva turística abierta al público en España (1914). Más de 100 años recibiendo visitantes.",
+   "fuente": "Aracena",
+   "lugarRelacionadoId": 1914,
+   "icono": "🕳️"
+  },
+  {
+   "id": 105,
+   "titulo": "Río Tinto: el río de Marte",
+   "categoria": "NATURALEZA",
+   "texto": "La NASA estudia el río Tinto porque sus aguas rojas, ácidas y ricas en hierro y azufre se parecen a las condiciones que podría haber tenido Marte. Albergan vida extremófila única.",
+   "fuente": "Río Tinto",
+   "icono": "🔴"
+  },
+  {
+   "id": 106,
+   "titulo": "Lince ibérico: pasó de 100 a más de 2.000 ejemplares",
+   "categoria": "NATURALEZA",
+   "texto": "El lince ibérico estaba en peligro crítico con menos de 100 ejemplares en 2002. Hoy supera los 2.000 gracias a programas de cría en Doñana y Sierra Morena. Historia de éxito ecológico.",
+   "lugarRelacionadoId": 2000,
+   "icono": "🐆"
+  },
+  {
+   "id": 107,
+   "titulo": "Jamón de Jabugo: 36 meses curándose",
+   "categoria": "GASTRONOMIA",
+   "texto": "Los jamones de Jabugo de pata negra de bellota se curan en bodegas naturales durante 36-48 meses. Son los más caros y prestigiosos del mundo.",
+   "fuente": "Jabugo",
+   "lugarRelacionadoId": 36,
+   "icono": "🍖"
+  },
+  {
+   "id": 108,
+   "titulo": "Huelva: cuna del flamenco",
+   "categoria": "CULTURA",
+   "texto": "El fandango de Huelva es Patrimonio Cultural Inmaterial de Andalucía (2020). La provincia es cuna histórica del flamenco junto con Sevilla, Cádiz y Jerez.",
+   "lugarRelacionadoId": 2020,
+   "icono": "💃"
+  },
+  {
+   "id": 109,
+   "titulo": "9 millones de avifauna en Doñana",
+   "categoria": "NATURALEZA",
+   "texto": "Por Doñana pasan al año más de 9 millones de aves entre residentes y migratorias. Es el punto de invernada más importante de Europa Occidental.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 9000000,
+   "icono": "🦆"
+  },
+  {
+   "id": 110,
+   "titulo": "El primer puerto de Indias",
+   "categoria": "HISTORIA",
+   "texto": "Palos de la Frontera fue el primer puerto de Indias en 1492. De aquí zarparon las tres carabelas y aquí desembarcaron Colón y los Pinzones a su regreso.",
+   "fuente": "Palos de la Frontera",
+   "lugarRelacionadoId": 1492,
+   "icono": "⚓"
+  },
+  {
+   "id": 111,
+   "titulo": "Marismas del Odiel: segunda colonia de flamencos",
+   "categoria": "NATURALEZA",
+   "texto": "Las Marismas del Odiel albergan más de 6.000 flamencos, siendo la segunda mayor colonia de España. Reserva de la Biosfera UNESCO.",
+   "fuente": "Marismas del Odiel",
+   "lugarRelacionadoId": 6000,
+   "icono": "🦩"
+  },
+  {
+   "id": 112,
+   "titulo": "El olivo más viejo: 1.700 años",
+   "categoria": "NATURALEZA",
+   "texto": "El acebuche milenario de la Sierra de Aracena tiene aproximadamente 1.700 años. Es uno de los árboles más antiguos de Andalucía.",
+   "fuente": "Sierra de Aracena",
+   "lugarRelacionadoId": 1700,
+   "icono": "🌳"
+  },
+  {
+   "id": 113,
+   "titulo": "Castaños centenarios en la Sierra",
+   "categoria": "NATURALEZA",
+   "texto": "En la Sierra de Aracena hay castaños documentados de más de 500 años. Producen castañas usadas en la receta del calbote serrano.",
+   "fuente": "Sierra de Aracena",
+   "lugarRelacionadoId": 500,
+   "icono": "🌰"
+  },
+  {
+   "id": 114,
+   "titulo": "La playa más larga: 12 km",
+   "categoria": "COSTA",
+   "texto": "La playa de Mazagón es una de las más largas de España: 12 km de arena fina y dunas naturales sin construcciones que las interrumpan.",
+   "fuente": "Mazagón",
+   "lugarRelacionadoId": 12,
+   "icono": "🏖️"
+  },
+  {
+   "id": 115,
+   "titulo": "Universidad de Huelva: tres campus",
+   "categoria": "CULTURA",
+   "texto": "La Universidad de Huelva (UHU) se distribuye en tres campus: La Rábida, El Carmen y Cantero Cuadrado, abarcando toda la oferta universitaria.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 3,
+   "icono": "🎓"
+  },
+  {
+   "id": 116,
+   "titulo": "Huelva en cifras: 525.000 habitantes",
+   "categoria": "DEMOGRAFIA",
+   "texto": "La provincia de Huelva tiene aproximadamente 525.000 habitantes, distribuidos muy desigualmente: la mitad vive en la franja costera.",
+   "lugarRelacionadoId": 525000,
+   "icono": "👥"
+  },
+  {
+   "id": 117,
+   "titulo": "Onubenses ilustres documentados: 94",
+   "categoria": "CULTURA",
+   "texto": "El catálogo más completo registra 94 onubenses ilustres con biografías detalladas, recogido por Feliciano Robles. Incluye Juan Ramón Jiménez, Premio Nobel.",
+   "lugarRelacionadoId": 94,
+   "icono": "👤"
+  },
+  {
+   "id": 118,
+   "titulo": "Provincia productora de fresa #1 mundial",
+   "categoria": "GASTRONOMIA",
+   "texto": "Huelva es la primera provincia productora de fresas de Europa, con más del 95% de la producción nacional y 30% de la europea.",
+   "lugarRelacionadoId": 95,
+   "icono": "🍓"
+  },
+  {
+   "id": 119,
+   "titulo": "Frontera lusa: 60 km",
+   "categoria": "GEOGRAFIA",
+   "texto": "Huelva comparte 60 km de frontera con Portugal a lo largo del río Guadiana. Es una de las fronteras más antiguas de Europa, fijada en 1267.",
+   "lugarRelacionadoId": 60,
+   "icono": "🇵🇹"
+  },
+  {
+   "id": 120,
+   "titulo": "Senderos PR oficiales: más de 134",
+   "categoria": "NATURALEZA",
+   "texto": "Huelva tiene más de 134 senderos PR (Pequeño Recorrido) oficiales homologados, distribuidos por toda la provincia. Tercera provincia andaluza con más senderos.",
+   "lugarRelacionadoId": 134,
+   "icono": "🥾"
+  },
+  {
+   "id": 121,
+   "titulo": "Romería del Rocío: 1 millón de romeros",
+   "categoria": "CULTURA",
+   "texto": "La Romería del Rocío reúne hasta 1 millón de romeros en Pentecostés. Es la mayor manifestación religiosa popular de España.",
+   "fuente": "Almonte",
+   "lugarRelacionadoId": 1000000,
+   "icono": "🌹"
+  },
+  {
+   "id": 122,
+   "titulo": "Producción de cobre romana en Riotinto: 6 millones de toneladas",
+   "categoria": "HISTORIA",
+   "texto": "Los romanos extrajeron de Riotinto cerca de 6 millones de toneladas de cobre. Para hacerse idea, eso es el equivalente a 600 Torres Eiffel en peso.",
+   "fuente": "Riotinto",
+   "lugarRelacionadoId": 6000000,
+   "icono": "🟠"
+  },
+  {
+   "id": 123,
+   "titulo": "Cumbres Mayores: capital de la chacina",
+   "categoria": "GASTRONOMIA",
+   "texto": "Cumbres Mayores produce algunas de las mejores chacinas serranas de Huelva, con embutidos artesanales como morcillas y chorizos de cerdo ibérico.",
+   "fuente": "Cumbres Mayores",
+   "icono": "🌭"
+  },
+  {
+   "id": 124,
+   "titulo": "Ayamonte: la luz del crepúsculo",
+   "categoria": "COSTA",
+   "texto": "Ayamonte es el municipio más occidental de Andalucía. Por su latitud, el sol se pone más tarde que en cualquier otro punto andaluz.",
+   "fuente": "Ayamonte",
+   "icono": "🌅"
+  },
+  {
+   "id": 125,
+   "titulo": "Niebla: primera ciudad romana de Iberia",
+   "categoria": "HISTORIA",
+   "texto": "Niebla fue una de las primeras civitates fundadas por Roma en la Hispania Ulterior. Sus murallas son de las mejor conservadas del sur peninsular.",
+   "fuente": "Niebla",
+   "icono": "🏛️"
+  },
+  {
+   "id": 126,
+   "titulo": "Festival de Cine Iberoamericano: 51 años",
+   "categoria": "CULTURA",
+   "texto": "El Festival de Cine Iberoamericano de Huelva es el más antiguo dedicado al cine iberoamericano, con 51 ediciones celebradas. Premia anualmente al cine latinoamericano.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 51,
+   "icono": "🎬"
+  },
+  {
+   "id": 127,
+   "titulo": "Almonaster: la mezquita más antigua de Europa",
+   "categoria": "HISTORIA",
+   "texto": "La mezquita califal de Almonaster (siglo X) es una de las pocas mezquitas rurales conservadas en Europa y la más antigua del territorio español.",
+   "fuente": "Almonaster la Real",
+   "lugarRelacionadoId": 10,
+   "icono": "🕌"
+  },
+  {
+   "id": 128,
+   "titulo": "Atún rojo: 1.000 años de almadraba",
+   "categoria": "GASTRONOMIA",
+   "texto": "La almadraba isleña tiene 1.000 años de antigüedad. Es el arte de pesca artesanal del atún rojo más sostenible que existe.",
+   "fuente": "Isla Cristina",
+   "lugarRelacionadoId": 1000,
+   "icono": "🐟"
+  },
+  {
+   "id": 129,
+   "titulo": "Cabalgata de Higuera: la única en España",
+   "categoria": "CULTURA",
+   "texto": "La Cabalgata de Reyes de Higuera de la Sierra (5 de enero) es la única en España que representa escenas del nacimiento de Jesús. Interés Turístico Nacional.",
+   "fuente": "Higuera de la Sierra",
+   "icono": "✨"
+  },
+  {
+   "id": 130,
+   "titulo": "82 BIC en la provincia",
+   "categoria": "CULTURA",
+   "texto": "Huelva tiene más de 82 Bienes de Interés Cultural (BIC) catalogados oficialmente, distribuidos en castillos, iglesias, conjuntos históricos y zonas arqueológicas.",
+   "lugarRelacionadoId": 82,
+   "icono": "🏰"
+  },
+  {
+   "id": 131,
+   "titulo": "Punta Umbría: balneario victoriano",
+   "categoria": "COSTA",
+   "texto": "Punta Umbría fue fundada como balneario de los ingleses de Riotinto a finales del siglo XIX. De ahí las casas de madera 'Casa de los Ingleses'.",
+   "fuente": "Punta Umbría",
+   "lugarRelacionadoId": 1880,
+   "icono": "🏠"
+  },
+  {
+   "id": 132,
+   "titulo": "Sierra de Aracena: Reserva de la Biosfera",
+   "categoria": "NATURALEZA",
+   "texto": "El Parque Natural Sierra de Aracena y Picos de Aroche es Reserva de la Biosfera UNESCO desde 2002. 187.000 hectáreas protegidas.",
+   "fuente": "Sierra de Aracena",
+   "lugarRelacionadoId": 187000,
+   "icono": "🌲"
+  },
+  {
+   "id": 133,
+   "titulo": "Recreativo de Huelva: decano del fútbol español",
+   "categoria": "DEPORTE",
+   "texto": "El Real Club Recreativo de Huelva, fundado en 1889, es el club de fútbol más antiguo de España. Su lema: 'Más viejos que el aire'.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1889,
+   "icono": "⚽"
+  },
+  {
+   "id": 134,
+   "titulo": "Acedías: tapeo único onubense",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las acedías son un pez plano pequeño que sólo se encuentra en el golfo de Cádiz onubense. Tapa emblema absolutamente local.",
+   "fuente": "Costa onubense",
+   "icono": "🐟"
+  },
+  {
+   "id": 135,
+   "titulo": "Coquinas: marisco salud",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las coquinas de Huelva son uno de los mariscos más bajos en calorías (45 kcal/100g) y altísimos en proteínas y hierro.",
+   "fuente": "Costa onubense",
+   "lugarRelacionadoId": 45,
+   "icono": "🐚"
+  },
+  {
+   "id": 136,
+   "titulo": "Mosto del Condado: vino de uva sin fermentar",
+   "categoria": "GASTRONOMIA",
+   "texto": "El mosto del Condado es el vino joven sin fermentar completamente. Se bebe en noviembre tras la vendimia. Tradición vinatera onubense única.",
+   "fuente": "La Palma del Condado",
+   "icono": "🍷"
+  },
+  {
+   "id": 137,
+   "titulo": "Pueblos blancos: 30+ en Huelva",
+   "categoria": "CULTURA",
+   "texto": "Huelva tiene más de 30 pueblos blancos que pintan sus casas con cal cada primavera. Tradición ancestral mediterránea con función térmica y antiséptica.",
+   "lugarRelacionadoId": 30,
+   "icono": "🏘️"
+  },
+  {
+   "id": 138,
+   "titulo": "Choco: símbolo gastronómico onubense",
+   "categoria": "GASTRONOMIA",
+   "texto": "El choco frito es el plato emblema absoluto de Huelva capital. Los onubenses se llaman a sí mismos 'choqueros' por su pasión por este molusco.",
+   "fuente": "Huelva",
+   "icono": "🦑"
+  },
+  {
+   "id": 139,
+   "titulo": "Provincial con más kilómetros de Vía Verde",
+   "categoria": "NATURALEZA",
+   "texto": "Huelva tiene 4 Vías Verdes (Litoral, Molinos del Agua, Riotinto, Almendro-Tharsis) con más de 80 km total, ideales para bicicleta y senderismo familiar.",
+   "lugarRelacionadoId": 80,
+   "icono": "🚴"
+  },
+  {
+   "id": 140,
+   "titulo": "Léxico choquero: 800+ palabras únicas",
+   "categoria": "CULTURA",
+   "texto": "El léxico onubense documentado supera las 800 palabras únicas: dialectalismos serranos, marineros, andevaleños, rocieros. Tesoro lingüístico irrepetible.",
+   "lugarRelacionadoId": 800,
+   "icono": "📖"
+  },
+  {
+   "id": 141,
+   "titulo": "Encinas centenarias: 6 millones de árboles",
+   "categoria": "NATURALEZA",
+   "texto": "La dehesa onubense alberga aproximadamente 6 millones de encinas y alcornoques, base económica del ibérico y ecosistema único en el mundo.",
+   "lugarRelacionadoId": 6000000,
+   "icono": "🌳"
+  },
+  {
+   "id": 142,
+   "titulo": "Bellota: 9 kg por cerdo y año",
+   "categoria": "GASTRONOMIA",
+   "texto": "Un cerdo ibérico en montanera come 9 kg de bellota al día durante 3-4 meses, ganando 60-80 kg. Eso explica la calidad del jamón de bellota.",
+   "lugarRelacionadoId": 9,
+   "icono": "🌰"
+  },
+  {
+   "id": 143,
+   "titulo": "Provincia más exportadora pesquera",
+   "categoria": "ECONOMIA",
+   "texto": "Huelva es la primera provincia exportadora de pescado y marisco fresco de España. Sus lonjas mueven 50 millones de euros al año.",
+   "lugarRelacionadoId": 50000000,
+   "icono": "🐟"
+  },
+  {
+   "id": 144,
+   "titulo": "Mostos del Condado: DOP",
+   "categoria": "GASTRONOMIA",
+   "texto": "El vino del Condado de Huelva tiene Denominación de Origen Protegida desde 1964. Mosto, Joven, Pálido, Oloroso, Pedro Ximénez, Vinos Naranja.",
+   "fuente": "Condado",
+   "lugarRelacionadoId": 1964,
+   "icono": "🍷"
+  },
+  {
+   "id": 145,
+   "titulo": "Gurumelo: la seta más cara del Andévalo",
+   "categoria": "GASTRONOMIA",
+   "texto": "El gurumelo (Amanita ponderosa) sólo crece en la primavera del Andévalo. Es una de las setas más caras y exclusivas de España.",
+   "fuente": "Andévalo",
+   "icono": "🍄"
+  },
+  {
+   "id": 146,
+   "titulo": "Riotinto: el monte más rojo del mundo",
+   "categoria": "NATURALEZA",
+   "texto": "El paisaje de Riotinto es uno de los más espectaculares del mundo. La cantera Atalaya, una de las minas a cielo abierto más grandes de Europa, mide 1.200 m de diámetro.",
+   "fuente": "Minas de Riotinto",
+   "lugarRelacionadoId": 1200,
+   "icono": "⛰️"
+  },
+  {
+   "id": 147,
+   "titulo": "Doñana: 1° patrimonio UNESCO andaluz",
+   "categoria": "NATURALEZA",
+   "texto": "El Parque Nacional de Doñana fue declarado Patrimonio de la Humanidad UNESCO en 1994, el primero de Andalucía. Único humedal de su naturaleza en Europa.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 1994,
+   "icono": "🏛️"
+  },
+  {
+   "id": 148,
+   "titulo": "Almonaster: 6 culturas en sus piedras",
+   "categoria": "HISTORIA",
+   "texto": "El castillo-mezquita de Almonaster la Real conserva restos de 6 civilizaciones diferentes: romana, visigoda, califal, almohade, cristiana y barroca. Único en Europa.",
+   "fuente": "Almonaster la Real",
+   "lugarRelacionadoId": 6,
+   "icono": "🏰"
+  },
+  {
+   "id": 149,
+   "titulo": "Universidad: 12.000 estudiantes",
+   "categoria": "CULTURA",
+   "texto": "La Universidad de Huelva (UHU) acoge cerca de 12.000 estudiantes en 30 grados y 40 másteres. Es la universidad más joven de Andalucía (1993).",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 12000,
+   "icono": "🎓"
+  },
+  {
+   "id": 150,
+   "titulo": "150 datos sorprendentes documentados",
+   "categoria": "CULTURA",
+   "texto": "Este es el dato 150 del catálogo de curiosidades de HuelvApp. Una enciclopedia de datos sorprendentes que demuestra la riqueza única de la provincia de Huelva.",
+   "lugarRelacionadoId": 150,
+   "icono": "🎯"
+  },
+  {
+   "id": 151,
+   "titulo": "Doñana: 11 hábitats únicos",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana alberga 11 hábitats diferentes en un mismo territorio: marisma, dunas móviles, pinares, alcornocales, cotos, vera, contraveras, playa, río, sotos y monte.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 11,
+   "icono": "🌿"
+  },
+  {
+   "id": 152,
+   "titulo": "Marismas Odiel: la mayor producción de sal de Andalucía",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las salinas tradicionales de Odiel producen sal marina de altísima calidad, base de la salazón onubense. Tradición milenaria.",
+   "fuente": "Marismas del Odiel",
+   "icono": "🧂"
+  },
+  {
+   "id": 153,
+   "titulo": "Costa onubense: 120 km de playas",
+   "categoria": "COSTA",
+   "texto": "Huelva tiene 120 km de costa atlántica con más de 30 playas distintas, desde Ayamonte hasta Matalascañas. La mayoría arenales vírgenes.",
+   "lugarRelacionadoId": 120,
+   "icono": "🏖️"
+  },
+  {
+   "id": 154,
+   "titulo": "El cante por fandangos: 30 estilos en Huelva",
+   "categoria": "CULTURA",
+   "texto": "El fandango onubense tiene más de 30 estilos diferentes catalogados, uno por casi cada pueblo. Patrimonio Inmaterial 2020.",
+   "lugarRelacionadoId": 30,
+   "icono": "🎶"
+  },
+  {
+   "id": 155,
+   "titulo": "Castaño centenario de Castaño del Robledo",
+   "categoria": "NATURALEZA",
+   "texto": "El castaño centenario de Castaño del Robledo es considerado uno de los árboles singulares de Andalucía, con más de 500 años.",
+   "fuente": "Castaño del Robledo",
+   "lugarRelacionadoId": 500,
+   "icono": "🌳"
+  },
+  {
+   "id": 156,
+   "titulo": "Encina de la Virgen Tórtola",
+   "categoria": "NATURALEZA",
+   "texto": "La encina centenaria junto al santuario de la Virgen de la Tórtola (El Cerro de Andévalo) tiene más de 400 años y es árbol monumental.",
+   "fuente": "El Cerro de Andévalo",
+   "lugarRelacionadoId": 400,
+   "icono": "🌳"
+  },
+  {
+   "id": 157,
+   "titulo": "Niebla: el mayor recinto amurallado de Andalucía",
+   "categoria": "HISTORIA",
+   "texto": "Niebla conserva el mayor recinto amurallado de Andalucía y uno de los mayores de España (2.300 m de perímetro, 50 torres).",
+   "fuente": "Niebla",
+   "lugarRelacionadoId": 2300,
+   "icono": "🏰"
+  },
+  {
+   "id": 158,
+   "titulo": "Aroche: plaza de toros octogonal única",
+   "categoria": "HISTORIA",
+   "texto": "La plaza de toros octogonal de Aroche es única en España. Construida en 1804, conserva su singular planta de 8 lados.",
+   "fuente": "Aroche",
+   "lugarRelacionadoId": 1804,
+   "icono": "🐂"
+  },
+  {
+   "id": 159,
+   "titulo": "Cumbres Mayores: 99% de chacina",
+   "categoria": "GASTRONOMIA",
+   "texto": "El 99% de la economía de Cumbres Mayores depende de la chacina ibérica. Es la capital chacinera de la sierra norte.",
+   "fuente": "Cumbres Mayores",
+   "lugarRelacionadoId": 99,
+   "icono": "🥩"
+  },
+  {
+   "id": 160,
+   "titulo": "Hinojos: el rocío más antiguo",
+   "categoria": "CULTURA",
+   "texto": "Hinojos celebra una de las romerías más antiguas de la provincia: la de Santa María de la Tórtola, datada en el siglo XIII.",
+   "fuente": "Hinojos",
+   "lugarRelacionadoId": 13,
+   "icono": "🌹"
+  },
+  {
+   "id": 161,
+   "titulo": "Huelva: la primera bombilla de Europa Continental",
+   "categoria": "HISTORIA",
+   "texto": "Huelva fue la primera ciudad de Europa Continental en tener iluminación eléctrica pública (1885), gracias a Riotinto Company Limited.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1885,
+   "icono": "💡"
+  },
+  {
+   "id": 162,
+   "titulo": "Riotinto: el barrio inglés más completo de España",
+   "categoria": "HISTORIA",
+   "texto": "El barrio de Bella Vista en Minas de Riotinto es el barrio inglés más completo y mejor conservado de España. Tipo bungalow victoriano.",
+   "fuente": "Minas de Riotinto",
+   "icono": "🏘️"
+  },
+  {
+   "id": 163,
+   "titulo": "Almonte: 11.000 km2 de marismas",
+   "categoria": "GEOGRAFIA",
+   "texto": "El término municipal de Almonte abarca gran parte de Doñana, lo que lo convierte en uno de los municipios más extensos de Andalucía: 858 km2.",
+   "fuente": "Almonte",
+   "lugarRelacionadoId": 858,
+   "icono": "🗺️"
+  },
+  {
+   "id": 164,
+   "titulo": "Aracena: 25 km de cuevas turísticas",
+   "categoria": "NATURALEZA",
+   "texto": "Bajo Aracena hay más de 25 km de galerías cársticas. La Gruta de las Maravillas es solo la parte abierta al público (1,2 km).",
+   "fuente": "Aracena",
+   "lugarRelacionadoId": 25,
+   "icono": "🕳️"
+  },
+  {
+   "id": 165,
+   "titulo": "Jamón de Jabugo: 4 categorías DOP",
+   "categoria": "GASTRONOMIA",
+   "texto": "La DOP Jabugo distingue 4 categorías de jamón: Summum (bellota 100% ibérico), Excellens, Selección y Étiqueta Roja. Sistema único.",
+   "fuente": "Jabugo",
+   "lugarRelacionadoId": 4,
+   "icono": "🏷️"
+  },
+  {
+   "id": 166,
+   "titulo": "Río Odiel: la mayor concentración de aves",
+   "categoria": "NATURALEZA",
+   "texto": "Las Marismas del Odiel concentran la mayor diversidad de aves limícolas de la Península Ibérica: más de 200 especies catalogadas.",
+   "fuente": "Marismas del Odiel",
+   "lugarRelacionadoId": 200,
+   "icono": "🦢"
+  },
+  {
+   "id": 167,
+   "titulo": "Cádiz-Huelva: la frontera más corta",
+   "categoria": "GEOGRAFIA",
+   "texto": "La provincia de Huelva limita con Cádiz sólo 22 km, todos a través de Doñana. Es la frontera interior más corta de Andalucía.",
+   "lugarRelacionadoId": 22,
+   "icono": "🗺️"
+  },
+  {
+   "id": 168,
+   "titulo": "Punta Umbría: las dunas más altas de Europa",
+   "categoria": "NATURALEZA",
+   "texto": "Las dunas del Asperillo (Punta Umbría-Matalascañas) son las dunas litorales más altas de Europa: hasta 110 metros.",
+   "fuente": "Costa onubense",
+   "lugarRelacionadoId": 110,
+   "icono": "🏜️"
+  },
+  {
+   "id": 169,
+   "titulo": "Tartessos: aquí está su tesoro",
+   "categoria": "HISTORIA",
+   "texto": "La cultura tartesia (siglos IX-VI a.C.) tuvo en Huelva uno de sus centros principales. Tesoro de Aliseda y restos en Tejada la Vieja.",
+   "lugarRelacionadoId": 900,
+   "icono": "👑"
+  },
+  {
+   "id": 170,
+   "titulo": "Festival Iberoamericano: el más antiguo en su género",
+   "categoria": "CULTURA",
+   "texto": "El Festival de Cine Iberoamericano de Huelva (1975) es el más antiguo del mundo dedicado exclusivamente al cine iberoamericano.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1975,
+   "icono": "🎬"
+  },
+  {
+   "id": 171,
+   "titulo": "Caballo de las marismas: 2.000 años de raza pura",
+   "categoria": "NATURALEZA",
+   "texto": "El caballo marismeño de Doñana es una raza autóctona con más de 2.000 años de historia, criada en estado semisalvaje.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 2000,
+   "icono": "🐎"
+  },
+  {
+   "id": 172,
+   "titulo": "Tinto: rojo desde antes del hombre",
+   "categoria": "NATURALEZA",
+   "texto": "El río Tinto es rojo desde antes de la llegada del hombre. La causa es la actividad bacteriana extremófila en aguas con metales.",
+   "fuente": "Río Tinto",
+   "icono": "🔴"
+  },
+  {
+   "id": 173,
+   "titulo": "Convento Madre de Dios Huelva: 1515",
+   "categoria": "HISTORIA",
+   "texto": "El Convento de la Madre de Dios de Huelva data de 1515 y es uno de los edificios religiosos más antiguos en uso continuo de la capital.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1515,
+   "icono": "⛪"
+  },
+  {
+   "id": 174,
+   "titulo": "El Recreativo: el escudo más antiguo del fútbol español",
+   "categoria": "DEPORTE",
+   "texto": "El escudo del Real Club Recreativo de Huelva incluye una corona inglesa. Es el más antiguo del fútbol español, sin modificaciones desde 1889.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1889,
+   "icono": "🛡️"
+  },
+  {
+   "id": 175,
+   "titulo": "Hierba de la marisma: medicinal milenaria",
+   "categoria": "NATURALEZA",
+   "texto": "La salicornia y otras plantas halófilas de las marismas onubenses tienen propiedades medicinales conocidas desde hace milenios.",
+   "fuente": "Marismas",
+   "icono": "🌿"
+  },
+  {
+   "id": 176,
+   "titulo": "Almonaster: 6 culturas en un edificio",
+   "categoria": "HISTORIA",
+   "texto": "La mezquita-iglesia de Almonaster la Real conserva en sus piedras restos de 6 culturas: romana, visigoda, califal, almohade, cristiana y barroca.",
+   "fuente": "Almonaster la Real",
+   "lugarRelacionadoId": 6,
+   "icono": "🕌"
+  },
+  {
+   "id": 177,
+   "titulo": "Huelva: ciudad con 2 nombres oficiales",
+   "categoria": "CULTURA",
+   "texto": "Huelva ha tenido dos nombres a lo largo de su historia: Onuba (romano) y Welba/Wuelba (árabe), origen del nombre actual.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 2,
+   "icono": "📜"
+  },
+  {
+   "id": 178,
+   "titulo": "Sierra de Aracena: 187.000 hectáreas",
+   "categoria": "NATURALEZA",
+   "texto": "El Parque Natural Sierra de Aracena y Picos de Aroche tiene 187.000 hectáreas. Es el tercer parque natural más grande de Andalucía.",
+   "fuente": "Sierra de Aracena",
+   "lugarRelacionadoId": 187000,
+   "icono": "🌲"
+  },
+  {
+   "id": 179,
+   "titulo": "El Andévalo: el cielo más oscuro de España",
+   "categoria": "NATURALEZA",
+   "texto": "Las dehesas del Andévalo conservan uno de los cielos más oscuros de Europa Occidental. Ideal para observación astronómica.",
+   "fuente": "Andévalo",
+   "icono": "✨"
+  },
+  {
+   "id": 180,
+   "titulo": "180 datos: cierre del catálogo de curiosidades",
+   "categoria": "CULTURA",
+   "texto": "Este es el dato 180. Cierre ampliado del catálogo de curiosidades sorprendentes de HuelvApp. Compendio único en su género.",
+   "lugarRelacionadoId": 180,
+   "icono": "🎯"
+  },
+  {
+   "id": 181,
+   "titulo": "Huelva: la luz más blanca de Europa",
+   "categoria": "NATURALEZA",
+   "texto": "La luz en Huelva tiene una particular calidad fotográfica reconocida en los círculos artísticos. Pintores como Vázquez Díaz la describieron como única.",
+   "fuente": "Huelva",
+   "icono": "💡"
+  },
+  {
+   "id": 182,
+   "titulo": "Aldea de El Rocío: solo arena en sus calles",
+   "categoria": "CULTURA",
+   "texto": "La aldea de El Rocío en Almonte es la única en España donde no hay asfalto en sus calles. Solo arena, como tributo a la tradición.",
+   "fuente": "El Rocío",
+   "icono": "🏘️"
+  },
+  {
+   "id": 183,
+   "titulo": "Aracena: 100 cuevas conocidas",
+   "categoria": "NATURALEZA",
+   "texto": "Bajo la sierra de Aracena hay más de 100 cuevas y simas catalogadas, conformando un sistema cárstico de los más grandes de Andalucía.",
+   "fuente": "Aracena",
+   "lugarRelacionadoId": 100,
+   "icono": "🕳️"
+  },
+  {
+   "id": 184,
+   "titulo": "Lince Ibérico: 8 cachorros récord en Doñana",
+   "categoria": "NATURALEZA",
+   "texto": "Un único linceo hembra puede tener hasta 4 cachorros por camada. Doñana ha visto récords reproductivos del programa de recuperación.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 8,
+   "icono": "🐆"
+  },
+  {
+   "id": 185,
+   "titulo": "Río Tinto: única forma de vida extremófila terrestre",
+   "categoria": "NATURALEZA",
+   "texto": "El Río Tinto alberga las únicas formas de vida extremófila terrestres de toda la Península Ibérica, en pH 2 con metales pesados.",
+   "fuente": "Río Tinto",
+   "lugarRelacionadoId": 2,
+   "icono": "🔬"
+  },
+  {
+   "id": 186,
+   "titulo": "Marismas Odiel: más sal por hectárea",
+   "categoria": "GASTRONOMIA",
+   "texto": "Las salinas de Odiel producen 1500 kg de sal marina por hectárea al año, máxima productividad de Andalucía.",
+   "fuente": "Marismas del Odiel",
+   "lugarRelacionadoId": 1500,
+   "icono": "🧂"
+  },
+  {
+   "id": 187,
+   "titulo": "Huelva: la mayor industria conservera de Andalucía",
+   "categoria": "GASTRONOMIA",
+   "texto": "Huelva tiene la mayor industria conservera (atún, sardina, caballa) de Andalucía, herencia de la tradición almadrabera.",
+   "fuente": "Huelva",
+   "icono": "🥫"
+  },
+  {
+   "id": 188,
+   "titulo": "Cabezo de la Joya: tesoro tartésico onubense",
+   "categoria": "HISTORIA",
+   "texto": "En el Cabezo de la Joya (Huelva) se encontraron joyas tartésicas únicas hoy en el Museo de Huelva. Tesoro irrepetible.",
+   "fuente": "Huelva",
+   "icono": "💎"
+  },
+  {
+   "id": 189,
+   "titulo": "Ciudad de Onuba: 3.000 años de historia",
+   "categoria": "HISTORIA",
+   "texto": "Huelva (Onuba) es una de las ciudades más antiguas de Europa, con casi 3.000 años de historia continua.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 3000,
+   "icono": "🏛️"
+  },
+  {
+   "id": 190,
+   "titulo": "Acebuchal de Doñana: 200 años el árbol",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana conserva acebuches centenarios (olivo silvestre) de más de 200 años, único bosque relicto.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 200,
+   "icono": "🌳"
+  },
+  {
+   "id": 191,
+   "titulo": "Plaza de los Naranjos La Palma del Condado",
+   "categoria": "HISTORIA",
+   "texto": "La Palma del Condado tiene una de las plazas más bonitas de Andalucía, con naranjos centenarios y la iglesia más alta de la provincia.",
+   "fuente": "La Palma del Condado",
+   "icono": "🍊"
+  },
+  {
+   "id": 192,
+   "titulo": "Iglesia La Palma Condado: 70m torre",
+   "categoria": "HISTORIA",
+   "texto": "La torre de la iglesia de San Juan Bautista de La Palma del Condado mide 70 m, la más alta de la provincia.",
+   "fuente": "La Palma del Condado",
+   "lugarRelacionadoId": 70,
+   "icono": "🗼"
+  },
+  {
+   "id": 193,
+   "titulo": "Sierra Pelada: Reserva Biosfera",
+   "categoria": "NATURALEZA",
+   "texto": "Sierra Pelada y Rivera del Aserrador son Reserva de la Biosfera por UNESCO, importante zona ornitológica.",
+   "fuente": "Sierra Pelada",
+   "icono": "🌲"
+  },
+  {
+   "id": 194,
+   "titulo": "Huelva: el primer ferrocarril minero",
+   "categoria": "HISTORIA",
+   "texto": "El ferrocarril minero de Riotinto fue uno de los primeros de España (1875), inaugurado por la Riotinto Company Limited.",
+   "fuente": "Riotinto",
+   "lugarRelacionadoId": 1875,
+   "icono": "🚂"
+  },
+  {
+   "id": 195,
+   "titulo": "Aceite Sierra: DOP Sierra Aracena",
+   "categoria": "GASTRONOMIA",
+   "texto": "El aceite de oliva virgen extra serrano tiene Denominación de Origen Protegida 'Sierra de Aracena y Picos de Aroche'.",
+   "fuente": "Sierra Aracena",
+   "icono": "🫒"
+  },
+  {
+   "id": 196,
+   "titulo": "El Cerro Negro Riotinto",
+   "categoria": "HISTORIA",
+   "texto": "El Cerro Negro de Riotinto contiene uno de los mayores yacimientos de pirita del mundo, explotado desde la antigüedad.",
+   "fuente": "Riotinto",
+   "icono": "⚒️"
+  },
+  {
+   "id": 197,
+   "titulo": "Doñana: 9 marismas únicas",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana tiene 9 marismas con nombre propio: Hinojos, Asperillo, Almonte, La Vera, Sotos, Caracoles, Saetilla, El Cerro y Mata.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 9,
+   "icono": "🌅"
+  },
+  {
+   "id": 198,
+   "titulo": "Galaroza: 17 manantiales",
+   "categoria": "NATURALEZA",
+   "texto": "El pueblo de Galaroza tiene 17 manantiales naturales en su término municipal, todos potables.",
+   "fuente": "Galaroza",
+   "lugarRelacionadoId": 17,
+   "icono": "💧"
+  },
+  {
+   "id": 199,
+   "titulo": "Bollullos: bodegas centenarias",
+   "categoria": "GASTRONOMIA",
+   "texto": "Bollullos Par del Condado tiene más de 50 bodegas centenarias activas, capital indiscutible del Condado de Huelva.",
+   "fuente": "Bollullos del Condado",
+   "lugarRelacionadoId": 50,
+   "icono": "🍷"
+  },
+  {
+   "id": 200,
+   "titulo": "Cumbres Mayores: castillo más alto de Andalucía",
+   "categoria": "HISTORIA",
+   "texto": "El castillo de Cumbres Mayores está a 707 m de altitud, el castillo medieval más alto de Andalucía.",
+   "fuente": "Cumbres Mayores",
+   "lugarRelacionadoId": 707,
+   "icono": "🏰"
+  },
+  {
+   "id": 201,
+   "titulo": "Aroche: 60 estancias castillo",
+   "categoria": "HISTORIA",
+   "texto": "El castillo de Aroche tiene 60 estancias documentadas. Considerado uno de los más grandes de Andalucía.",
+   "fuente": "Aroche",
+   "lugarRelacionadoId": 60,
+   "icono": "🏯"
+  },
+  {
+   "id": 202,
+   "titulo": "Almonaster: mezquita visigoda",
+   "categoria": "HISTORIA",
+   "texto": "La mezquita-iglesia de Almonaster tiene restos visigodos (s. VI) bajo construcción musulmana (s. X), única en Europa.",
+   "fuente": "Almonaster la Real",
+   "lugarRelacionadoId": 6,
+   "icono": "🕌"
+  },
+  {
+   "id": 203,
+   "titulo": "Niebla: 50 torres en muralla",
+   "categoria": "HISTORIA",
+   "texto": "Las murallas de Niebla tienen 50 torres defensivas catalogadas. Conjunto único en Andalucía Occidental.",
+   "fuente": "Niebla",
+   "lugarRelacionadoId": 50,
+   "icono": "🗼"
+  },
+  {
+   "id": 204,
+   "titulo": "Huelva: 4 ríos principales",
+   "categoria": "GEOGRAFIA",
+   "texto": "Por la provincia de Huelva discurren 4 ríos principales: Tinto, Odiel, Guadiana, Piedras. Más afluentes.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 4,
+   "icono": "🌊"
+  },
+  {
+   "id": 205,
+   "titulo": "Isla Cristina: 100 barcos pesqueros",
+   "categoria": "COSTA",
+   "texto": "Isla Cristina tiene una de las flotas pesqueras más grandes de Andalucía, con más de 100 barcos activos.",
+   "fuente": "Isla Cristina",
+   "lugarRelacionadoId": 100,
+   "icono": "⛵"
+  },
+  {
+   "id": 206,
+   "titulo": "Punta Umbría: 9 playas",
+   "categoria": "COSTA",
+   "texto": "Punta Umbría tiene 9 playas distintas: La Bota, La Mata Negra, El Portil, Cuesta Maneli, El Espigón, El Loro, Sandín, La Antilla y Caribe.",
+   "fuente": "Punta Umbría",
+   "lugarRelacionadoId": 9,
+   "icono": "🏖️"
+  },
+  {
+   "id": 207,
+   "titulo": "Lepe: capital fresera de Europa",
+   "categoria": "GASTRONOMIA",
+   "texto": "Lepe es la capital fresera de Europa, con más del 60% de la producción europea de fresa.",
+   "fuente": "Lepe",
+   "lugarRelacionadoId": 60,
+   "icono": "🍓"
+  },
+  {
+   "id": 208,
+   "titulo": "Ayamonte: frontera nº 1 con Portugal",
+   "categoria": "GEOGRAFIA",
+   "texto": "Ayamonte es la principal frontera Andalucía-Portugal, con el puente internacional sobre el Guadiana.",
+   "fuente": "Ayamonte",
+   "lugarRelacionadoId": 1,
+   "icono": "🌉"
+  },
+  {
+   "id": 209,
+   "titulo": "Mazagón: faro centenario",
+   "categoria": "COSTA",
+   "texto": "El faro de Mazagón está en activo desde 1902. Más de 120 años guiando barcos por el Atlántico onubense.",
+   "fuente": "Mazagón",
+   "lugarRelacionadoId": 120,
+   "icono": "🚦"
+  },
+  {
+   "id": 210,
+   "titulo": "Castaño Robledo: pueblo + alto Sierra",
+   "categoria": "GEOGRAFIA",
+   "texto": "Castaño del Robledo está a 743 m de altitud, el pueblo más alto de la Sierra de Aracena.",
+   "fuente": "Castaño del Robledo",
+   "lugarRelacionadoId": 743,
+   "icono": "⛰️"
+  },
+  {
+   "id": 211,
+   "titulo": "Aracena: temperatura máxima 35°C",
+   "categoria": "GEOGRAFIA",
+   "texto": "La Sierra de Aracena rara vez supera los 35°C en verano, lo que la convierte en refugio climático estival onubense.",
+   "fuente": "Sierra Aracena",
+   "lugarRelacionadoId": 35,
+   "icono": "🌡️"
+  },
+  {
+   "id": 212,
+   "titulo": "Doñana: 6 millones aves invernantes",
+   "categoria": "NATURALEZA",
+   "texto": "Por Doñana pasan en migración hasta 6 millones de aves cada año. Es la mayor ruta migratoria europea.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 6,
+   "icono": "🦆"
+  },
+  {
+   "id": 213,
+   "titulo": "El Rocío: 1 millón peregrinos",
+   "categoria": "CULTURA",
+   "texto": "La romería del Rocío reúne anualmente a más de 1 millón de peregrinos. La mayor concentración religiosa de España.",
+   "fuente": "El Rocío",
+   "lugarRelacionadoId": 1,
+   "icono": "🙏"
+  },
+  {
+   "id": 214,
+   "titulo": "Cumbre ONU 2025 Sevilla-Huelva",
+   "categoria": "CULTURA",
+   "texto": "En 2025, Sevilla y Huelva fueron sede de la Cumbre ONU para la Financiación al Desarrollo, evento internacional histórico.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 2025,
+   "icono": "🌍"
+  },
+  {
+   "id": 215,
+   "titulo": "Festival Iberoamericano Cine Huelva: 50 ediciones",
+   "categoria": "CULTURA",
+   "texto": "El Festival de Cine Iberoamericano de Huelva celebra más de 50 ediciones, el más antiguo del mundo en su género.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 50,
+   "icono": "🎬"
+  },
+  {
+   "id": 216,
+   "titulo": "Caballito Tinto Huelva: nemesis NASA",
+   "categoria": "NATURALEZA",
+   "texto": "La NASA ha estudiado el Río Tinto desde 2003 para entender posibles formas de vida en Marte. Cooperación científica única.",
+   "fuente": "Río Tinto",
+   "lugarRelacionadoId": 2003,
+   "icono": "🚀"
+  },
+  {
+   "id": 217,
+   "titulo": "Huelva: la Bombilla más antigua",
+   "categoria": "HISTORIA",
+   "texto": "Huelva fue una de las primeras ciudades de Europa Continental con luz eléctrica pública (1885), por Riotinto Company.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1885,
+   "icono": "💡"
+  },
+  {
+   "id": 218,
+   "titulo": "Real Club Recreativo: decano fútbol español",
+   "categoria": "DEPORTE",
+   "texto": "Fundado el 23 de diciembre de 1889, el Real Club Recreativo de Huelva es el club de fútbol más antiguo de España.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1889,
+   "icono": "⚽"
+  },
+  {
+   "id": 219,
+   "titulo": "Plaza Toros La Merced: 24 corridas",
+   "categoria": "CULTURA",
+   "texto": "La plaza de toros La Merced de Huelva acoge anualmente las Fiestas Colombinas con hasta 24 corridas en agosto.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 24,
+   "icono": "🐂"
+  },
+  {
+   "id": 220,
+   "titulo": "Hinojos: la romería más antigua",
+   "categoria": "CULTURA",
+   "texto": "La romería de Santa María de la Tórtola en Hinojos es una de las más antiguas de Andalucía, documentada desde el s. XIII.",
+   "fuente": "Hinojos",
+   "lugarRelacionadoId": 13,
+   "icono": "🌹"
+  },
+  {
+   "id": 221,
+   "titulo": "Tartesos: tres reinos onubenses",
+   "categoria": "HISTORIA",
+   "texto": "La cultura tartésica tuvo tres reinos en lo que hoy es Huelva: Tejada la Vieja, Niebla y la propia Onuba.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 3,
+   "icono": "👑"
+  },
+  {
+   "id": 222,
+   "titulo": "Conquero: 100 m sobre Huelva",
+   "categoria": "GEOGRAFIA",
+   "texto": "El Conquero es una colina de 100 m de altura sobre la ría de Huelva, miradores naturales sobre la ciudad.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 100,
+   "icono": "🌄"
+  },
+  {
+   "id": 223,
+   "titulo": "Marismas Odiel: 75 km de canales",
+   "categoria": "NATURALEZA",
+   "texto": "Las Marismas del Odiel tienen 75 km de canales de marea, conformando un laberinto natural único.",
+   "fuente": "Marismas del Odiel",
+   "lugarRelacionadoId": 75,
+   "icono": "🛶"
+  },
+  {
+   "id": 224,
+   "titulo": "Costa onubense: 19 km dunas vivas",
+   "categoria": "NATURALEZA",
+   "texto": "La costa onubense conserva 19 km de dunas vivas en movimiento, las más largas de España.",
+   "fuente": "Costa onubense",
+   "lugarRelacionadoId": 19,
+   "icono": "🏜️"
+  },
+  {
+   "id": 225,
+   "titulo": "Pino piñonero El Rocío: 600 años",
+   "categoria": "NATURALEZA",
+   "texto": "El pino piñonero histórico de El Rocío tiene más de 600 años. Considerado uno de los árboles más viejos de Andalucía.",
+   "fuente": "El Rocío",
+   "lugarRelacionadoId": 600,
+   "icono": "🌲"
+  },
+  {
+   "id": 226,
+   "titulo": "Almonte: 858 km² término municipal",
+   "categoria": "GEOGRAFIA",
+   "texto": "Almonte tiene un término municipal de 858 km², el más extenso de la provincia de Huelva.",
+   "fuente": "Almonte",
+   "lugarRelacionadoId": 858,
+   "icono": "🗺️"
+  },
+  {
+   "id": 227,
+   "titulo": "Jabugo: 36 meses curación máxima",
+   "categoria": "GASTRONOMIA",
+   "texto": "El jamón de Jabugo DOP Summum se cura un mínimo de 36 meses, máxima maduración mundial.",
+   "fuente": "Jabugo",
+   "lugarRelacionadoId": 36,
+   "icono": "🥓"
+  },
+  {
+   "id": 228,
+   "titulo": "Huelva: 3 patrimonios humanidad",
+   "categoria": "CULTURA",
+   "texto": "Huelva tiene 3 patrimonios reconocidos: Doñana (UNESCO), Mezquita Almonaster (BIC) y Niebla (Conjunto Histórico).",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 3,
+   "icono": "🌍"
+  },
+  {
+   "id": 229,
+   "titulo": "Tartessos: minería desde 1200 a.C.",
+   "categoria": "HISTORIA",
+   "texto": "Los tartesios explotaban minas onubenses desde 1200 a.C., comerciando con fenicios y griegos. Cultura urbana milenaria.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 1200,
+   "icono": "⚒️"
+  },
+  {
+   "id": 230,
+   "titulo": "Colón: 12 años en Huelva",
+   "categoria": "HISTORIA",
+   "texto": "Cristóbal Colón vivió 12 años en Huelva (Palos, La Rábida, Moguer) antes de su primer viaje. Aprendió náutica onubense.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 12,
+   "icono": "⚓"
+  },
+  {
+   "id": 231,
+   "titulo": "Huelva: 5 espacios protegidos",
+   "categoria": "NATURALEZA",
+   "texto": "Huelva tiene 5 espacios protegidos: Doñana, Odiel, Sierra Aracena-Picos Aroche, Asperillo, Sierra Pelada.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 5,
+   "icono": "🌿"
+  },
+  {
+   "id": 232,
+   "titulo": "Trigueros: 50% fandangos onubenses",
+   "categoria": "CULTURA",
+   "texto": "Trigueros es el municipio onubense donde se interpretan más estilos diferentes de fandango: 30 estilos.",
+   "fuente": "Trigueros",
+   "lugarRelacionadoId": 30,
+   "icono": "🎵"
+  },
+  {
+   "id": 233,
+   "titulo": "Lepe: 30.000 toneladas fresa al año",
+   "categoria": "GASTRONOMIA",
+   "texto": "Lepe produce anualmente más de 30.000 toneladas de fresa, capital fresera europea.",
+   "fuente": "Lepe",
+   "lugarRelacionadoId": 30000,
+   "icono": "🍓"
+  },
+  {
+   "id": 234,
+   "titulo": "Aljaraque: 21.000 habitantes en 25 años",
+   "categoria": "GEOGRAFIA",
+   "texto": "Aljaraque creció de 4.000 a 21.000 habitantes en 25 años, el municipio onubense de mayor crecimiento.",
+   "fuente": "Aljaraque",
+   "lugarRelacionadoId": 21000,
+   "icono": "📈"
+  },
+  {
+   "id": 235,
+   "titulo": "Aracena: 8 km de túneles cuevas",
+   "categoria": "NATURALEZA",
+   "texto": "El sistema de la Gruta de las Maravillas tiene 8 km de túneles conocidos, solo 1,2 km abiertos al público.",
+   "fuente": "Aracena",
+   "lugarRelacionadoId": 8,
+   "icono": "🕳️"
+  },
+  {
+   "id": 236,
+   "titulo": "Doñana: 122.487 hectáreas",
+   "categoria": "NATURALEZA",
+   "texto": "El Espacio Natural de Doñana tiene 122.487 hectáreas en total, entre Parque Nacional y Natural.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 122487,
+   "icono": "📏"
+  },
+  {
+   "id": 237,
+   "titulo": "Costa onubense: 38°C agua verano",
+   "categoria": "COSTA",
+   "texto": "El agua del mar en la costa onubense alcanza los 25°C en verano, la más cálida del litoral atlántico europeo.",
+   "fuente": "Costa",
+   "lugarRelacionadoId": 25,
+   "icono": "🌊"
+  },
+  {
+   "id": 238,
+   "titulo": "Andévalo: 89% dehesa",
+   "categoria": "GEOGRAFIA",
+   "texto": "El Andévalo onubense tiene un 89% de superficie dehesa, paisaje cultural único Andalucía Occidental.",
+   "fuente": "Andévalo",
+   "lugarRelacionadoId": 89,
+   "icono": "🌳"
+  },
+  {
+   "id": 239,
+   "titulo": "Huelva: 22 hermandades rocieras",
+   "categoria": "RELIGION",
+   "texto": "La provincia de Huelva tiene 22 hermandades rocieras filiales, segundo lugar tras Sevilla.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 22,
+   "icono": "✝️"
+  },
+  {
+   "id": 240,
+   "titulo": "Castillo Cumbres Mayores: 1293",
+   "categoria": "HISTORIA",
+   "texto": "El castillo de Cumbres Mayores se construyó en 1293, una de las fortificaciones medievales más antiguas en uso de Andalucía.",
+   "fuente": "Cumbres Mayores",
+   "lugarRelacionadoId": 1293,
+   "icono": "🏰"
+  },
+  {
+   "id": 241,
+   "titulo": "Aroche: necropolis romana 60 tumbas",
+   "categoria": "HISTORIA",
+   "texto": "La necrópolis romana de Aroche tiene más de 60 tumbas excavadas, una de las más grandes de Andalucía Occidental.",
+   "fuente": "Aroche",
+   "lugarRelacionadoId": 60,
+   "icono": "⚱️"
+  },
+  {
+   "id": 242,
+   "titulo": "Iglesia Granada Niebla: única mudéjar",
+   "categoria": "HISTORIA",
+   "texto": "La iglesia de Santa María de la Granada en Niebla es la única gran iglesia mudéjar de la provincia, sobre mezquita anterior.",
+   "fuente": "Niebla",
+   "icono": "⛪"
+  },
+  {
+   "id": 243,
+   "titulo": "Faro Mazagón: 50m altura",
+   "categoria": "COSTA",
+   "texto": "El faro de Mazagón tiene 50 m de altura sobre el nivel del mar, alcance 28 millas náuticas.",
+   "fuente": "Mazagón",
+   "lugarRelacionadoId": 50,
+   "icono": "🚦"
+  },
+  {
+   "id": 244,
+   "titulo": "Cazalla Sierra: 100 fuentes naturales",
+   "categoria": "NATURALEZA",
+   "texto": "La sierra de Aracena tiene más de 100 fuentes naturales catalogadas, sistema hídrico único.",
+   "fuente": "Sierra Aracena",
+   "lugarRelacionadoId": 100,
+   "icono": "💧"
+  },
+  {
+   "id": 245,
+   "titulo": "Doñana: 6 especies de murciélago",
+   "categoria": "NATURALEZA",
+   "texto": "Doñana alberga 6 especies de murciélago diferentes, control natural de mosquitos.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 6,
+   "icono": "🦇"
+  },
+  {
+   "id": 246,
+   "titulo": "Huelva: 350 ediciones Recreativo",
+   "categoria": "DEPORTE",
+   "texto": "El Real Club Recreativo de Huelva ha completado más de 350 temporadas oficiales en su historia.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 350,
+   "icono": "⚽"
+  },
+  {
+   "id": 247,
+   "titulo": "Huelva: 12 puertos pesqueros",
+   "categoria": "COSTA",
+   "texto": "La provincia de Huelva tiene 12 puertos pesqueros activos en su litoral, segunda comunidad pesquera de Andalucía.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 12,
+   "icono": "⚓"
+  },
+  {
+   "id": 248,
+   "titulo": "Doñana: 25 colectivos investigadores",
+   "categoria": "CULTURA",
+   "texto": "En Doñana investigan permanentemente 25 grupos de investigación de universidades internacionales.",
+   "fuente": "Doñana",
+   "lugarRelacionadoId": 25,
+   "icono": "🔬"
+  },
+  {
+   "id": 249,
+   "titulo": "Huelva: 2000 km² Reserva Biosfera",
+   "categoria": "NATURALEZA",
+   "texto": "Huelva tiene más de 2000 km² declarados Reserva de la Biosfera UNESCO, máximo Andalucía.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 2000,
+   "icono": "🌿"
+  },
+  {
+   "id": 250,
+   "titulo": "Cierre: 250 curiosidades onubenses",
+   "categoria": "CULTURA",
+   "texto": "Cierre definitivo del catálogo de curiosidades: 250 datos sorprendentes documentados. Compendio absoluto onubense.",
+   "fuente": "Huelva",
+   "lugarRelacionadoId": 250,
+   "icono": "🎯"
+  }
+ ]
+}

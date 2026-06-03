@@ -1,0 +1,10 @@
+{
+  "avisos": [
+    {
+      "titulo": "Bienvenido a HuelvApp",
+      "texto": "Desde aquí publicaremos avisos útiles: cortes, cambios de horario, recomendaciones y novedades de la provincia.",
+      "zona": "Toda la provincia",
+      "nivel": "info"
+    }
+  ]
+}
