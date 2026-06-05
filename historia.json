@@ -12,7 +12,9 @@
       "lugares": [
         "Huelva",
         "Ría de Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 2,
@@ -27,7 +29,9 @@
         "Huelva",
         "Minas de Riotinto",
         "Niebla"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 3,
@@ -41,7 +45,9 @@
       "lugares": [
         "Niebla",
         "Almonaster la Real"
-      ]
+      ],
+      "lat": 37.3589,
+      "lon": -6.6772
     },
     {
       "id": 4,
@@ -56,7 +62,9 @@
         "Niebla",
         "Gibraleón",
         "Ayamonte"
-      ]
+      ],
+      "lat": 37.3589,
+      "lon": -6.6772
     },
     {
       "id": 5,
@@ -71,7 +79,9 @@
         "Palos de la Frontera",
         "La Rábida",
         "Moguer"
-      ]
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
     },
     {
       "id": 6,
@@ -86,7 +96,9 @@
         "La Rábida",
         "Palos de la Frontera",
         "Moguer"
-      ]
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
     },
     {
       "id": 7,
@@ -101,7 +113,9 @@
         "Ayamonte",
         "Lepe",
         "Costa de Huelva"
-      ]
+      ],
+      "lat": 37.2103,
+      "lon": -7.4042
     },
     {
       "id": 8,
@@ -116,7 +130,9 @@
         "Minas de Riotinto",
         "Nerva",
         "Huelva"
-      ]
+      ],
+      "lat": 37.6925,
+      "lon": -6.5894
     },
     {
       "id": 9,
@@ -131,7 +147,9 @@
         "Minas de Riotinto",
         "Nerva",
         "Zalamea la Real"
-      ]
+      ],
+      "lat": 37.6925,
+      "lon": -6.5894
     },
     {
       "id": 10,
@@ -145,7 +163,9 @@
       "lugares": [
         "Doñana",
         "Almonte"
-      ]
+      ],
+      "lat": 37.14376,
+      "lon": -6.5234
     },
     {
       "id": 11,
@@ -158,7 +178,9 @@
       "descripcion": "Niebla es un libro de historia a cielo abierto. Sobre el río Tinto, su casco antiguo está rodeado por una muralla de origen almorávide que se cuenta entre las mejor conservadas de su época en España: un perímetro de más de dos kilómetros con cinco puertas monumentales y casi medio centenar de torreones.\nDentro, las piedras cuentan el paso de las culturas. La iglesia de Santa María de la Granada se levanta sobre una antigua mezquita —y esta, a su vez, sobre un templo anterior—, conservando elementos de cada época. La iglesia de San Martín se alza sobre lo que fue una sinagoga, recuerdo de la comunidad judía medieval. Junto al recinto se conservan un puente y restos del acueducto de origen romano.\nCapital de taifa, cabeza de condado y plaza fronteriza, Niebla atesora íberos, romanos, visigodos, musulmanes y castellanos en un mismo lugar. Su conjunto histórico está declarado Bien de Interés Cultural y su castillo acoge cada verano un conocido festival de teatro y danza.",
       "lugares": [
         "Niebla"
-      ]
+      ],
+      "lat": 37.3589,
+      "lon": -6.6772
     },
     {
       "id": 12,
@@ -174,7 +196,9 @@
         "Palos de la Frontera",
         "Lepe",
         "Ayamonte"
-      ]
+      ],
+      "lat": 37.2761,
+      "lon": -6.8389
     },
     {
       "id": 13,
@@ -187,7 +211,9 @@
       "descripcion": "En el corazón de Aracena, justo bajo el cerro que corona su castillo medieval, se abre una de las grutas más bellas y famosas de España. Descubierta a finales del siglo XIX —la leyenda local lo atribuye a un pastor que buscaba una res perdida—, la Gruta de las Maravillas se abrió al público en 1914, lo que la convierte en una de las primeras cuevas habilitadas para el turismo en el país.\nSu interior es un mundo de salas, galerías y lagos de aguas cristalinas en los que se reflejan miles de estalactitas, estalagmitas, columnas y formaciones caprichosas modeladas durante milenios por el agua y la caliza. El recorrido, de algo más de un kilómetro, atraviesa rincones con nombres tan evocadores como la Sala de los Garbanzos o el Salón de los Brillantes.\nPor su valor y su belleza ha aparecido en numerosas películas y sigue siendo, más de un siglo después, una visita imprescindible de la Sierra de Aracena.",
       "lugares": [
         "Aracena"
-      ]
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
     },
     {
       "id": 14,
@@ -200,7 +226,9 @@
       "descripcion": "Más de cuatro siglos después de Colón, Palos de la Frontera volvió a ser punto de partida de una gran aventura. El 22 de enero de 1926, el hidroavión 'Plus Ultra' despegó de las aguas de la ría, junto a Palos, para realizar el primer vuelo entre España y Sudamérica.\nLa tripulación la formaban el comandante Ramón Franco, el capitán Julio Ruiz de Alda, el teniente de navío Juan Manuel Durán y el mecánico Pablo Rada. Tras varias etapas y miles de kilómetros sobre el Atlántico, el aparato amaró triunfalmente en Buenos Aires, en una hazaña que tuvo enorme repercusión en toda España e Hispanoamérica.\nLa elección de Palos no fue casual: enlazaba simbólicamente con la gesta colombina, uniendo de nuevo la vieja Europa y América desde el mismo rincón de Huelva. El vuelo del Plus Ultra es hoy uno de los grandes hitos de la historia de la aviación española.",
       "lugares": [
         "Palos de la Frontera"
-      ]
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
     },
     {
       "id": 15,
@@ -213,7 +241,9 @@
       "descripcion": "En lo alto de Almonaster la Real, entre castaños y dehesas de la Sierra de Aracena, se conserva una joya casi única: una pequeña mezquita rural del siglo X, de época del califato de Córdoba. Son muy pocas las mezquitas rurales de Al-Ándalus que han llegado hasta nosotros, y esta es una de las mejores conservadas de toda la península.\nTiene planta de varias naves separadas por arcos de herradura sobre columnas reaprovechadas de épocas anteriores —romanas y visigodas—, su mihrab orientado y un alminar que después se transformó en campanario. Tras la conquista cristiana, el edificio no se destruyó, sino que se integró en la ermita de Santa María de la Concepción, lo que explica su excepcional conservación.\nJunto a la mezquita, y formando un conjunto sorprendente, hay una pequeña plaza de toros. Desde lo alto del cerro, las vistas sobre la sierra y el propio pueblo son uno de los paisajes más bellos del norte de la provincia.",
       "lugares": [
         "Almonaster la Real"
-      ]
+      ],
+      "lat": 37.8722,
+      "lon": -6.7858
     },
     {
       "id": 16,
@@ -226,7 +256,9 @@
       "descripcion": "Sobre el pueblo de Alájar, en plena Sierra de Aracena, se alza una imponente peña caliza, mirador natural sobre el valle. A este lugar, cargado de silencio y misticismo, se retiró en el siglo XVI uno de los grandes sabios de su tiempo: Benito Arias Montano.\nArias Montano fue bibliotecario del monasterio de El Escorial, capellán y hombre de confianza de Felipe II, y editor de la monumental Biblia Políglota de Amberes, en varias lenguas. Humanista, orientalista y conocedor de las ciencias —lo que le valió fama de alquimista y astrólogo—, buscó en la Peña un retiro para meditar y estudiar lejos de la corte. Se cuenta que el propio rey llegó a visitarle allí.\nEn lo más alto se encuentra la ermita de la Reina de los Ángeles, patrona de Alájar, meta cada septiembre de una multitudinaria romería. Alrededor, un conjunto de grutas y rincones envueltos en leyenda completan uno de los lugares con más encanto y misterio de la provincia.",
       "lugares": [
         "Alájar"
-      ]
+      ],
+      "lat": 37.8728,
+      "lon": -6.675
     },
     {
       "id": 17,
@@ -240,7 +272,9 @@
       "lugares": [
         "Minas de Riotinto",
         "Nerva"
-      ]
+      ],
+      "lat": 37.6925,
+      "lon": -6.5894
     },
     {
       "id": 18,
@@ -253,7 +287,9 @@
       "descripcion": "Isla Cristina es uno de los pueblos más jóvenes de la provincia, y su origen está ligado al mar. En el siglo XVIII, pescadores catalanes y levantinos —de lugares como Mataró, Sitges o Canet— empezaron a frecuentar la desembocadura del Guadiana atraídos por la riqueza de sardina y atún. Al principio venían solo en temporada, pero acabaron asentándose para salar el pescado y extraer sal.\nEl terremoto y maremoto de Lisboa de 1755 precipitó ese asentamiento estable. El nuevo poblado se llamó Real Isla de la Higuerita, por una higuera que crecía junto a un pozo del guarda del lugar, José Faneca; esa higuera aún figura en el escudo del pueblo. Hacia 1834, la villa cambió su nombre por el de Isla Cristina, en agradecimiento a la reina María Cristina por la ayuda prestada durante una grave epidemia de cólera.\nA finales del siglo XIX, con las primeras fábricas de conservas, la pesca se convirtió en su gran motor. Hoy su puerto es uno de los más importantes de Andalucía y su tradición salazonera y conservera es famosa en toda España.",
       "lugares": [
         "Isla Cristina"
-      ]
+      ],
+      "lat": 37.1989,
+      "lon": -7.3189
     },
     {
       "id": 19,
@@ -267,7 +303,9 @@
       "lugares": [
         "Huelva",
         "Minas de Riotinto"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 20,
@@ -280,7 +318,9 @@
       "descripcion": "Antes incluso de la historia escrita, los griegos ya situaban en el extremo occidental del mundo conocido —estas tierras del suroeste— un reino fabuloso. Su señor era Gerión, un gigante monstruoso de tres cuerpos unidos por la cintura, dueño de inmensos rebaños de bueyes de un rojo intenso que pastaban junto al océano.\nEn el décimo de sus doce trabajos, el héroe Hércules (Heracles para los griegos) recibió el encargo de robar aquel ganado. Tras un largo viaje hasta el confín del mundo —donde, según la leyenda, separó los continentes abriendo el estrecho de Gibraltar y dejando las 'columnas de Hércules'—, se enfrentó a Gerión y le dio muerte, llevándose los bueyes.\nEl mito enlaza con la realidad de Tartessos: el 'ganado rojo' y la riqueza del gigante son seguramente un eco poético de los metales y la prosperidad de aquella antigua cultura. Así, Huelva aparece ya en los relatos fundacionales de la mitología clásica.",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 21,
@@ -293,7 +333,9 @@
       "descripcion": "Cuenta la tradición de Aracena que, en tiempos en que la fortaleza de la villa estaba en manos musulmanas, vivía allí Zulema, hija del alcaide, una joven de extraordinaria belleza. Zulema se enamoró perdidamente de un caballero cristiano, en una época en que un amor así estaba condenado de antemano.\nLos enamorados se veían a escondidas, de noche, conscientes del peligro. Como en tantas leyendas de frontera entre dos mundos, la pasión chocó con la guerra, la religión y el deber, y la historia terminó en tragedia. El nombre de una fuente cercana perpetuó el recuerdo de la joven y de su amor imposible.\nLa leyenda, recogida por el escritor onubense Manuel Garrido Palacios en su libro 'Voces de la sierra', tiene varias versiones, porque ha pasado de boca en boca durante siglos. Más allá de los detalles, sigue viva porque habla de algo muy humano: el amor que no entiende de fronteras. (Relato de tradición popular.)",
       "lugares": [
         "Aracena"
-      ]
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
     },
     {
       "id": 22,
@@ -307,7 +349,9 @@
       "lugares": [
         "Río Tinto",
         "Marismas del Odiel"
-      ]
+      ],
+      "lat": 37.68988,
+      "lon": -6.58654
     },
     {
       "id": 23,
@@ -321,7 +365,9 @@
       "lugares": [
         "Huelva",
         "Santuario de la Cinta"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 24,
@@ -335,7 +381,9 @@
       "lugares": [
         "Isla de Saltés",
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 25,
@@ -350,7 +398,9 @@
         "Aracena",
         "La Palma del Condado",
         "Valdelarco"
-      ]
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
     },
     {
       "id": 26,
@@ -364,7 +414,9 @@
       "lugares": [
         "Almonte",
         "El Rocío"
-      ]
+      ],
+      "lat": 37.2622,
+      "lon": -6.5172
     },
     {
       "id": 27,
@@ -377,7 +429,9 @@
       "descripcion": "En el recinto de la Peña de Arias Montano, en Alájar, entre ermitas, grutas y monumentos de distintas épocas, se encuentra un pequeño arco de piedra muy antiguo conocido como el Arco de los Novios.\nLa tradición que lo rodea es de las que arrancan una sonrisa: dicen que el hombre que lo atraviese acompañado de una mujer, la tendrá por esposa. Por eso muchas parejas y grupos de visitantes lo cruzan entre risas, medio en broma medio en serio, como quien no quiere tentar a la suerte.\nEs solo uno de los muchos detalles cargados de simbolismo de este lugar mágico, donde conviven lo religioso, lo histórico y lo legendario. En un entorno tan ligado al recogimiento y al misticismo de Arias Montano, no es extraño que hasta un arco de piedra tenga su propia historia de amor. (Tradición popular.)",
       "lugares": [
         "Alájar"
-      ]
+      ],
+      "lat": 37.8728,
+      "lon": -6.675
     },
     {
       "id": 28,
@@ -390,7 +444,9 @@
       "descripcion": "Entre las historias religiosas menos conocidas de la vieja Huelva está la del Cristo milagroso de la calle Enmedio. Se trataba de un azulejo con la imagen de un crucificado que, según la tradición popular, databa nada menos que de hacia 1241, cuando la ciudad era todavía musulmana.\nA aquella humilde imagen, situada en una calle del casco antiguo, el pueblo le atribuía toda clase de milagros y favores. Vecinos y devotos se encomendaban a ella, le encendían luces y la rodeaban de un cariño que se transmitió de generación en generación.\nHistorias así, ligadas a una imagen, una calle o una ermita, salpican el callejero de la Huelva antigua y conviven con las leyendas más célebres de la ciudad, como las de la Virgen de la Cinta. Son pequeñas devociones populares que ayudan a entender cómo era la vida y la fe en los barrios de antaño. (Relato de tradición popular.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 29,
@@ -403,7 +459,9 @@
       "descripcion": "Huelva está construida entre cabezos, esas características colinas de arena y arcilla que asoman entre los barrios. Y, como toda ciudad con subsuelo, tiene su leyenda de túneles secretos.\nLa más repetida habla de un pasadizo que partía de la zona de la antigua plaza de toros y discurría por dentro de los cabezos hasta la iglesia de San Pedro, uno de los puntos más altos y antiguos de la ciudad. Durante generaciones se especuló sobre su existencia, su finalidad —¿defensa?, ¿huida?, ¿contrabando?— y su trazado.\nHay quien relaciona ese supuesto túnel con algo muy real: el acueducto que abastecía a la Onuba romana, cuyos restos han aparecido en distintas obras. Entre la leyenda y la arqueología, el 'túnel de los cabezos' sigue alimentando la imaginación de los onubenses y recordándoles que bajo sus pies hay siglos de historia. (Relato popular.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 30,
@@ -416,7 +474,9 @@
       "descripcion": "Si se pregunta a un onubense por un lugar encantado en la capital, lo más probable es que mencione el antiguo hospital Manuel Lois, conocido popularmente como 'El Agromán'. Desalojado en los años 90 y abandonado durante mucho tiempo, su edificio se convirtió en el escenario de incontables historias de misterio.\nQuienes se acercaban hablaban de ruidos sin explicación, sombras, sensaciones de presencia y supuestas psicofonías. La fama del lugar creció hasta convertirlo en parada obligada de aficionados a lo paranormal, rutas nocturnas y recopiladores de leyendas urbanas, que lo señalan una y otra vez como 'el hospital encantado' por excelencia de Huelva.\nConviene recordar que se trata de relatos populares, sin ninguna base científica: el atractivo de un edificio antiguo y vacío, la sugestión y el boca a boca bastan para tejer este tipo de historias. Aun así, forman parte del folclore moderno de la ciudad. (Relatos populares, sin base científica.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 31,
@@ -430,7 +490,9 @@
       "lugares": [
         "Jabugo",
         "Sierra de Aracena"
-      ]
+      ],
+      "lat": 37.9006,
+      "lon": -6.7325
     },
     {
       "id": 32,
@@ -443,7 +505,9 @@
       "descripcion": "El hospital Vázquez Díaz, en la capital, es otro de los grandes protagonistas de las historias de misterio onubenses, hasta el punto de compararse con el célebre Manuel Lois.\nSegún recogen quienes investigan estos temas, parte del personal sanitario ha contado a lo largo del tiempo sucesos difíciles de explicar: huellas o pisadas que aparecen de la nada en un pasillo recién limpiado, timbres que suenan llamando desde habitaciones que están vacías, o figuras que entran en una estancia y, al ir a buscarlas, ya no están.\nComo ocurre con muchos hospitales antiguos —lugares marcados por la enfermedad, la vida y la muerte—, la imaginación y la sugestión hacen el resto. Se trata, una vez más, de relatos populares sin base científica, pero que forman parte del anecdotario de la ciudad. (Relatos populares, sin base científica.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 33,
@@ -456,7 +520,9 @@
       "descripcion": "Ayamonte, vieja villa marinera y fronteriza junto al Guadiana, tiene también su ración de leyendas oscuras. La más conocida es la del fantasma sin cabeza del Marqués de Ayamonte.\nSegún la tradición, el espectro de un antiguo marqués recorrería ciertos rincones de la localidad despojado de su cabeza, una imagen tan inquietante como clásica en el repertorio de las apariciones. La historia se ha transmitido de generación en generación y es uno de los platos fuertes de las rutas nocturnas de misterio que recorren la provincia.\nComo tantos relatos nobiliarios de este tipo —castillos, palacios y linajes con su fantasma propio—, mezcla algo de historia local con mucha imaginación popular. Sea como fuere, el Marqués sin cabeza sigue siendo uno de los personajes más recordados del lado tenebroso de Ayamonte. (Relato popular, sin base científica.)",
       "lugares": [
         "Ayamonte"
-      ]
+      ],
+      "lat": 37.2103,
+      "lon": -7.4042
     },
     {
       "id": 34,
@@ -470,7 +536,9 @@
       "lugares": [
         "Minas de Riotinto",
         "Huelva"
-      ]
+      ],
+      "lat": 37.6925,
+      "lon": -6.5894
     },
     {
       "id": 35,
@@ -483,7 +551,9 @@
       "descripcion": "Más que una historia de un solo lugar, esta es una tradición compartida por toda la provincia y muy arraigada en el mundo rural. Cuenta que, en la noche del 31 de octubre al 1 de noviembre, víspera de Todos los Santos, los espíritus de los difuntos regresan a visitar las casas de sus seres queridos.\nSegún la creencia, si el ánima encuentra una vela encendida en su memoria, se marcha en paz y no perturba a los vivos; pero si no halla esa luz, se molesta y provoca pesadillas y malos sueños. Por eso, encender una vela por los difuntos era —y sigue siendo en muchos hogares— un gesto de respeto y de protección.\nEsta costumbre enlaza con la honda relación que los pueblos de Huelva, como toda Andalucía, han mantenido siempre con la muerte y el recuerdo de los antepasados. Brujas, duendes y ánimas pueblan estas fechas, hoy mezcladas con el Halloween importado, pero con raíces mucho más antiguas. (Tradición popular.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 36,
@@ -496,7 +566,9 @@
       "descripcion": "Bajo la Peña de Arias Montano, en Alájar, se abre un laberinto de más de treinta grutas y cuevas con nombres tan sugerentes como la Cueva de la Virgen, la Sillita del Rey o, la más célebre de todas, el Palacio Oscuro.\nDe esta última se cuenta algo que ha alimentado su fama de lugar mágico: dicen que quien entra con una brújula se desorienta, porque la aguja se vuelve loca y no consigue marcar el norte. Sumado al pasado de Arias Montano —humanista al que la leyenda atribuía conocimientos de alquimia y astrología—, el rincón quedó envuelto en un aura de misterio difícil de igualar.\nAunque la explicación más probable está en la propia geología del lugar, la historia ha calado en el imaginario popular. Hoy las cuevas están en su mayoría cerradas y protegidas por su valor natural y por las colonias de murciélagos que albergan, lo que añade aún más enigma a este rincón de la Sierra. (Relato popular; acceso restringido por conservación.)",
       "lugares": [
         "Alájar"
-      ]
+      ],
+      "lat": 37.8728,
+      "lon": -6.675
     },
     {
       "id": 37,
@@ -510,7 +582,9 @@
       "lugares": [
         "Huelva",
         "Manzanilla"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 38,
@@ -524,7 +598,9 @@
       "lugares": [
         "La Rábida",
         "Palos de la Frontera"
-      ]
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
     },
     {
       "id": 39,
@@ -538,7 +614,9 @@
       "lugares": [
         "Trigueros",
         "Zalamea la Real"
-      ]
+      ],
+      "lat": 37.3789,
+      "lon": -6.8225
     },
     {
       "id": 40,
@@ -552,7 +630,9 @@
       "lugares": [
         "Huelva",
         "Punta del Sebo"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 41,
@@ -567,7 +647,9 @@
         "Almonte",
         "El Rocío",
         "Doñana"
-      ]
+      ],
+      "lat": 37.2622,
+      "lon": -6.5172
     },
     {
       "id": 42,
@@ -581,7 +663,9 @@
       "lugares": [
         "Mazagón",
         "Costa de Huelva"
-      ]
+      ],
+      "lat": 37.1378,
+      "lon": -6.8333
     },
     {
       "id": 43,
@@ -596,7 +680,9 @@
         "Cumbres Mayores",
         "Aroche",
         "Aracena"
-      ]
+      ],
+      "lat": 37.9956,
+      "lon": -6.6478
     },
     {
       "id": 44,
@@ -609,7 +695,9 @@
       "descripcion": "De todos los castillos de la Banda Gallega, el de Cortegana es el mejor conservado y uno de los más visitados de la Sierra de Aracena. Encaramado en un cerro al norte del pueblo, controlaba las rutas hacia Portugal y se comunicaba con las fortalezas vecinas de Aroche, Encinasola y Cumbres Mayores.\nSobre una base de origen islámico, el castillo fue restaurado por orden de Sancho IV a finales del siglo XIII y reformado en los siglos siguientes al ritmo de las continuas tensiones fronterizas. Dentro del recinto se conserva una ermita, la de Nuestra Señora de la Piedad, lo que une en un mismo lugar la función militar y la religiosa. Con el tiempo, al perder su utilidad defensiva, buena parte de la muralla se fue desmontando y reaprovechando en las casas del pueblo.\nHoy el castillo, magníficamente recuperado, acoge un punto de información del Parque Natural y, sobre todo, cobra vida cada agosto con unas conocidas jornadas medievales que llenan sus muros de mercados, justas y ambiente de época.",
       "lugares": [
         "Cortegana"
-      ]
+      ],
+      "lat": 37.9131,
+      "lon": -6.8158
     },
     {
       "id": 45,
@@ -624,7 +712,9 @@
         "Alosno",
         "Huelva",
         "Moguer"
-      ]
+      ],
+      "lat": 37.5519,
+      "lon": -7.1153
     },
     {
       "id": 46,
@@ -637,7 +727,9 @@
       "descripcion": "Pocas figuras del cante andaluz están tan envueltas en leyenda como 'la Parrala'. Detrás del mito hubo una mujer real: Dolores Parrales Moreno, nacida en Moguer en el siglo XIX, una de las grandes voces de su tiempo y una de las primeras en difundir el fandango de Huelva, que llegó a cantar incluso en París, hacia 1880.\nCon los años, su nombre quedó inmortalizado en una célebre copla —'En el café de Levante / entre palmas y alegrías, / cantaba la Parrala...'— que la convirtió en personaje casi de leyenda. La canción, popularizada mucho después, mezcló la biografía real de la cantaora con una imagen romántica y misteriosa de mujer de cafés cantantes y tablaos, hasta el punto de que hoy cuesta separar lo histórico de lo legendario.\nAsí, 'la Parrala' es a la vez historia y mito: el recuerdo de una artista onubense de verdad y el símbolo de toda una época dorada del cante. Su figura sigue ligada para siempre a Moguer y al flamenco de Huelva. (Personaje real rodeado de tradición popular.)",
       "lugares": [
         "Moguer"
-      ]
+      ],
+      "lat": 37.2761,
+      "lon": -6.8389
     },
     {
       "id": 47,
@@ -652,7 +744,9 @@
         "Zalamea la Real",
         "Valverde del Camino",
         "Beas"
-      ]
+      ],
+      "lat": 37.6803,
+      "lon": -6.6519
     },
     {
       "id": 48,
@@ -666,7 +760,9 @@
       "lugares": [
         "Doñana",
         "Almonte"
-      ]
+      ],
+      "lat": 37.14376,
+      "lon": -6.5234
     },
     {
       "id": 49,
@@ -681,7 +777,9 @@
         "La Palma del Condado",
         "Bollullos Par del Condado",
         "Niebla"
-      ]
+      ],
+      "lat": 37.3819,
+      "lon": -6.5536
     },
     {
       "id": 50,
@@ -694,7 +792,9 @@
       "descripcion": "Uno de los monumentos más singulares de la capital no es un castillo ni una iglesia, sino una obra de hierro: el Muelle del Tinto, también llamado Muelle-Embarcadero de Mineral de la Rio Tinto Company. Lo levantó la compañía británica en la década de 1870 para cargar en los barcos el cobre y las piritas que llegaban por ferrocarril desde las minas.\nSu diseño, fruto de la mejor ingeniería británica de la época del hierro, es una elegante estructura curva que se adentra en la ría sobre grandes pilares, permitiendo que los trenes descargaran directamente en los buques. Durante décadas fue el corazón de la actividad exportadora del puerto y un símbolo del poderío de la minería onubense.\nCuando la actividad minera decayó, el muelle perdió su uso, pero en lugar de demolerse fue restaurado y convertido en un magnífico paseo sobre el agua. Hoy es uno de los rincones más queridos y fotografiados de Huelva, sobre todo al atardecer, y un emblema de su patrimonio industrial.",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 51,
@@ -707,7 +807,9 @@
       "descripcion": "El Carnaval de Isla Cristina es de los más antiguos y arraigados de Andalucía, y un fiel reflejo del origen mestizo del pueblo. Sus raíces se remontan al siglo XVIII, cuando los pescadores catalanes y levantinos que fundaron la villa trajeron consigo sus propias tradiciones festivas, entre ellas el clásico Entierro de la Sardina.\nA esa base se sumaron dos grandes influencias: la del Carnaval de Cádiz, que marca la estructura musical de las agrupaciones, y la cercanía de Portugal, que aportó la estética de carrozas y disfraces. De esa mezcla nació un carnaval único. Su corazón son las agrupaciones —coros, comparsas, murgas y cuartetos—, que compiten cada año; ni la prohibición de épocas pasadas pudo con la fiesta callejera, que se celebraba 'a cara descubierta' esquivando a la autoridad.\nHoy es Fiesta de Interés Turístico y un auténtico fenómeno que llena las calles isleñas. De su concurso de agrupaciones salieron además artistas hoy célebres, como el cantante Manuel Carrasco o el dúo Antílopez.",
       "lugares": [
         "Isla Cristina"
-      ]
+      ],
+      "lat": 37.1989,
+      "lon": -7.3189
     },
     {
       "id": 52,
@@ -720,7 +822,9 @@
       "descripcion": "Hoy Punta Umbría es uno de los grandes destinos de playa de Huelva, pero su origen como pueblo está ligado, una vez más, a la minería y a los ingleses. Los directivos y empleados británicos de la Rio Tinto Company, que querían huir del aire tóxico de las minas y disfrutar de los beneficios del mar, encontraron en este arenal entre el Atlántico y las marismas del Odiel el lugar perfecto para descansar.\nA finales del siglo XIX comenzaron a construir allí sus casas de veraneo: características viviendas de madera levantadas sobre pilotes, frente a las interminables playas. Aquel pequeño 'balneario' de la colonia inglesa fue el germen de la futura localidad. Una de aquellas casas se conserva hoy como la Casa-Museo de los Ingleses, testimonio de aquel modo de vida.\nCon el tiempo, lo que empezó como retiro de unos pocos se transformó en un animado pueblo marinero y turístico, separado de Huelva por la ría y unido a ella por tradición. El veraneo onubense nació, en buena parte, aquí.",
       "lugares": [
         "Punta Umbría"
-      ]
+      ],
+      "lat": 37.18367,
+      "lon": -6.96444
     },
     {
       "id": 53,
@@ -734,7 +838,9 @@
       "lugares": [
         "Tharsis",
         "Alosno"
-      ]
+      ],
+      "lat": 37.6,
+      "lon": -7.1
     },
     {
       "id": 54,
@@ -748,7 +854,9 @@
       "lugares": [
         "Minas de Riotinto",
         "Huelva"
-      ]
+      ],
+      "lat": 37.6925,
+      "lon": -6.5894
     },
     {
       "id": 55,
@@ -761,7 +869,9 @@
       "descripcion": "Durante mucho tiempo circuló por Huelva una creencia tan curiosa como antigua: que la ciudad había sido fundada por unos gigantes que vivieron antes del Diluvio universal de la Biblia. La 'prueba', decían, estaba en los enormes huesos que de vez en cuando aparecían enterrados en los cabezos, las colinas sobre las que se asienta la ciudad.\nAquellos restos descomunales se interpretaban como esqueletos de seres gigantescos, lo que daba a Huelva un origen mítico y heroico. Hoy sabemos que muchos de esos 'huesos de gigante' eran en realidad fósiles de grandes animales prehistóricos, restos paleontológicos que la imaginación popular convertía en titanes.\nEs un buen ejemplo de cómo nuestros antepasados explicaban lo que no entendían a través de la leyenda. Antes de Tartessos, de fenicios y romanos, los onubenses ya se contaban que su tierra había sido cuna de gigantes. Una fantasía que, sin saberlo, escondía un fondo de verdad geológica. (Leyenda popular.)",
       "lugares": [
         "Huelva"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 56,
@@ -774,7 +884,9 @@
       "descripcion": "Cortegana, coronada por uno de los castillos mejor conservados de la sierra, guarda la leyenda de la aparición de su patrona, Nuestra Señora de la Piedad, cuya ermita se encuentra precisamente dentro del recinto de la fortaleza.\nCuenta la tradición que, allá por el siglo XV, un labrador trabajaba sus tierras en aquel lugar cuando se topó con la sagrada imagen. Según el relato, la Virgen le pidió piedad —'¡Ten piedad de mí!'—, palabras que habrían dado nombre a la advocación. Desde entonces, los corteganeses la veneran como su protectora, y la ermita del castillo es uno de los corazones espirituales del pueblo.\nLa sierra de Huelva es pródiga en este tipo de historias, mezcla de fe y tradición oral. En el propio Cortegana se cuenta también la del Cabezo de la Horca, una loma donde, dicen, no echa raíces ningún árbol por su tétrico pasado. Leyendas que se siguen transmitiendo de generación en generación. (Relato de tradición popular.)",
       "lugares": [
         "Cortegana"
-      ]
+      ],
+      "lat": 37.9131,
+      "lon": -6.8158
     },
     {
       "id": 57,
@@ -787,7 +899,9 @@
       "descripcion": "La provincia de Huelva es tierra de romerías, y la más antigua de todas es la de San Benito Abad, en El Cerro de Andévalo. Se celebra el primer fin de semana de mayo y está declarada Fiesta de Interés Turístico de Andalucía.\nLo que la hace única es su impresionante 'danza de espadas': un grupo de danzaores, ataviados con trajes característicos, ejecuta al son de la música una antigua danza ritual entrechocando las espadas, en una tradición que se remonta siglos atrás. La fiesta, según la tradición, conmemora un hecho histórico: que las tropas portuguesas no llegaran a entrar en el pueblo durante las guerras fronterizas del siglo XVII.\nEntre la elección de mayordomos, las peregrinaciones, los cantes y la convivencia, San Benito condensa lo mejor del alma serrana y andevaleña. Es una de esas celebraciones en las que la devoción, la historia y la identidad de un pueblo se funden en una sola fiesta.",
       "lugares": [
         "El Cerro de Andévalo"
-      ]
+      ],
+      "lat": 37.7378,
+      "lon": -7.0506
     },
     {
       "id": 58,
@@ -803,7 +917,9 @@
         "Lepe",
         "Gibraleón",
         "Beas"
-      ]
+      ],
+      "lat": 37.2761,
+      "lon": -6.8389
     },
     {
       "id": 59,
@@ -818,7 +934,9 @@
         "Huelva",
         "Aljaraque",
         "Punta Umbría"
-      ]
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
     },
     {
       "id": 60,
@@ -832,7 +950,9 @@
       "lugares": [
         "Jabugo",
         "Sierra de Aracena"
-      ]
+      ],
+      "lat": 37.9006,
+      "lon": -6.7325
     },
     {
       "id": 61,
@@ -846,7 +966,9 @@
       "lugares": [
         "Matalascañas",
         "Almonte"
-      ]
+      ],
+      "lat": 37.14376,
+      "lon": -6.5234
     },
     {
       "id": 62,
@@ -859,7 +981,339 @@
       "descripcion": "Huelva tiene también un lugar destacado en la historia de la literatura. En Moguer nació en 1881 Juan Ramón Jiménez, uno de los mayores poetas españoles del siglo XX, galardonado con el Premio Nobel de Literatura en 1956.\nSu obra más universal, 'Platero y yo', es un canto poético a su tierra: un retrato tierno y melancólico de Moguer y sus gentes a través de los paseos del autor con su burrito Platero, 'pequeño, peludo, suave'. El libro, leído por generaciones de niños y adultos en todo el mundo de habla hispana, convirtió las calles, plazas y campos moguereños en escenario literario para siempre.\nEn Moguer se puede visitar la Casa Museo Zenobia y Juan Ramón Jiménez, dedicada al poeta y a su esposa y colaboradora, Zenobia Camprubí. Junto a la huella de los Lugares Colombinos, la figura de Juan Ramón añade a la provincia un orgullo más: el de ser cuna de un premio Nobel.",
       "lugares": [
         "Moguer"
-      ]
+      ],
+      "lat": 37.2761,
+      "lon": -6.8389
+    },
+    {
+      "id": 63,
+      "categoria": "paranormal",
+      "titulo": "Los fantasmas del castillo de Niebla",
+      "epoca": "Lugar con fama de encantado",
+      "anios": "Niebla",
+      "icono": "🏯",
+      "resumen": "El viejo castillo de los Guzmán es escenario de psicofonías e historias inquietantes.",
+      "descripcion": "Niebla es famosa por sus murallas y por su milenaria historia, pero su castillo —el castillo de los Guzmán— tiene también un lado oscuro muy del gusto de los aficionados al misterio. Sus muros han visto pasar romanos, musulmanes y señores medievales, y se les supone cargados de sufrimiento de épocas de guerras, asedios y mazmorras.\nDistintos grupos de investigación llevan años realizando allí sesiones nocturnas con grabadoras y aparatos de todo tipo. Según relatan, han registrado psicofonías y, mediante dispositivos de captación de voces, palabras sueltas tan inquietantes como 'dolor', 'miedo', 'muerte' o el nombre 'Dolores'. Los visitantes hablan de sensaciones extrañas y de una atmósfera densa al recorrer ciertas estancias.\nComo siempre en estos casos, se trata de relatos sin base científica, alimentados por la antigüedad del lugar y por su dramática historia. Pero hay que reconocer que pocos escenarios resultan tan propicios para una buena historia de fantasmas como un castillo medieval a oscuras. (Relatos populares, sin base científica.)",
+      "lugares": [
+        "Niebla"
+      ],
+      "lat": 37.3589,
+      "lon": -6.6772
+    },
+    {
+      "id": 64,
+      "categoria": "paranormal",
+      "titulo": "La finca de El Condesito",
+      "epoca": "Relato del campo onubense",
+      "anios": "Entre Almonte y Rociana",
+      "icono": "📷",
+      "resumen": "Aficionados al misterio dicen haber captado allí sonidos y una extraña figura.",
+      "descripcion": "Entre los campos que separan Almonte y Rociana del Condado se sitúa una vieja finca conocida como 'El Condesito', uno de los lugares que aparecen en los relatos de misterio de la provincia. Como tantas casonas y haciendas antiguas, arrastra fama de albergar 'algo' difícil de explicar.\nCuentan los aficionados que pasaron allí una noche entera haciendo psicofonías y tomando fotografías con película de infrarrojos. Según su testimonio, registraron varios sonidos sin origen aparente y, en una de las imágenes, apareció lo que describieron como el busto de un ser que no estaba a la vista cuando dispararon la foto.\nHistorias de este tipo —noches de grabadoras, cámaras y nervios en parajes solitarios— forman parte del folclore del misterio onubense, muy activo desde hace décadas. Conviene tomarlas como lo que son: relatos populares sin base científica, hijos de la sugestión, la oscuridad y las ganas de creer. (Relatos populares, sin base científica.)",
+      "lugares": [
+        "Almonte",
+        "Rociana del Condado"
+      ],
+      "lat": 37.2622,
+      "lon": -6.5172
+    },
+    {
+      "id": 65,
+      "categoria": "paranormal",
+      "titulo": "Huelva, tierra de misterios",
+      "epoca": "Cultura del misterio",
+      "anios": "Siglos XX–XXI",
+      "icono": "🛸",
+      "resumen": "Casas encantadas, apariciones y hasta ovnis han hecho de Huelva un imán para los curiosos.",
+      "descripcion": "Por su historia milenaria, sus pueblos solitarios y sus paisajes únicos, Huelva se ha ganado una sólida fama dentro del mundo del misterio. Investigadores aficionados llevan décadas recopilando aquí toda clase de relatos: casas encantadas, hospitales con presencias, apariciones marianas, e incluso avistamientos de ovnis y supuestos 'humanoides'.\nAutores locales han dedicado libros enteros al tema —con títulos como 'Huelva Sobrenatural' o 'Casas encantadas de Huelva'—, reuniendo decenas de casos por toda la provincia, desde la capital hasta el último pueblo de la Sierra. Incluso han surgido rutas nocturnas turísticas, como la 'Huelva Tenebrosa', que recorren los rincones más inquietantes contando sus historias.\nConviene subrayar que todo ello pertenece al terreno de las creencias y los relatos populares, sin base científica. Pero, como expresión cultural, esta 'Huelva oscura' es fascinante: dice mucho de cómo un pueblo imagina sus miedos y convierte sus viejos edificios y leyendas en parte de su identidad. (Relatos populares, sin base científica.)",
+      "lugares": [
+        "Huelva"
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
+    },
+    {
+      "id": 66,
+      "categoria": "historia",
+      "titulo": "El castillo de Aracena y su prioral",
+      "epoca": "Patrimonio",
+      "anios": "s. XIII",
+      "icono": "⛪",
+      "resumen": "Sobre Aracena se alzan un castillo medieval y una bella iglesia gótico-mudéjar.",
+      "descripcion": "Aracena, capital de la Sierra, está coronada por un cerro en el que conviven dos joyas: su castillo medieval y, junto a él, la Iglesia Prioral de Nuestra Señora del Mayor Dolor. Desde lo alto, las vistas sobre el pueblo blanco y la sierra son inolvidables.\nEl castillo se levantó en el siglo XIII, en pleno conflicto fronterizo entre Castilla y Portugal, e integró la red defensiva de la zona. A su lado, la iglesia prioral, de bello estilo gótico-mudéjar, destaca por su torre, que recuerda a la Giralda sevillana. Una arraigada tradición vincula el conjunto a la Orden del Temple, lo que ha rodeado el cerro de un halo de leyenda, aunque los historiadores debaten ese origen templario.\nY bajo ese mismo cerro se abre otra maravilla: la Gruta de las Maravillas. Pocos lugares reúnen, en tan poco espacio, castillo, templo histórico y una de las cuevas más bellas de España. Aracena es, sin duda, uno de los grandes tesoros de la provincia.",
+      "lugares": [
+        "Aracena"
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
+    },
+    {
+      "id": 67,
+      "categoria": "historia",
+      "titulo": "El puerto de Palos y La Fontanilla",
+      "epoca": "Edad Moderna",
+      "anios": "1492",
+      "icono": "⚓",
+      "resumen": "Del pequeño puerto fluvial de Palos zarparon las tres naves del Descubrimiento, tras hacer aguada en La Fontanilla.",
+      "descripcion": "Palos de la Frontera era una villa marinera de origen medieval —su nombre procede del latín palus, 'laguna'— cuyo puerto fluvial, junto a sus astilleros, llegó a ser el de mayor actividad de la comarca, por delante incluso del vecino Moguer. En junio de 1492 los Reyes Católicos compraron la mitad de la villa para que la expedición partiera de un puerto bajo jurisdicción real. Así, el 3 de agosto de 1492 Cristóbal Colón y los palermos hermanos Pinzón soltaron amarras con la Pinta, la Niña y la nao Santa María rumbo a lo desconocido.\nAntes de partir, la tripulación se abasteció de agua en La Fontanilla, la fuente pública de la localidad, levantada sobre un antiguo pozo de época romana y cubierta por un templete de aire mudéjar. En la iglesia de San Jorge, por su Puerta de los Novios, los marineros oyeron misa antes de embarcar. El terremoto de Lisboa de 1755 alejó la línea de costa y dejó el viejo muelle tierra adentro; hoy aquel escenario forma parte de los Lugares Colombinos, con el Muelle de las Carabelas y sus réplicas como gran reclamo.",
+      "lugares": [
+        "Palos de la Frontera",
+        "La Fontanilla",
+        "Iglesia de San Jorge",
+        "Muelle de las Carabelas"
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
+    },
+    {
+      "id": 68,
+      "categoria": "historia",
+      "titulo": "El Monasterio de La Rábida",
+      "epoca": "Baja Edad Media",
+      "anios": "s. XV",
+      "icono": "📿",
+      "resumen": "En este convento franciscano Colón halló apoyo científico y espiritual para su proyecto de viaje a Occidente.",
+      "descripcion": "Asomado a una loma desde la que se divisa la unión de los ríos Tinto y Odiel, el Monasterio de Santa María de la Rábida es un conjunto franciscano de aire gótico-mudéjar. Los frailes se instalaron allí a comienzos del siglo XV, aunque la tradición remonta sus orígenes mucho más atrás. El cenobio cobró protagonismo histórico con las estancias de Cristóbal Colón en 1485, 1491 y 1492, cuando buscaba comprensión y respaldo para su empresa descubridora.\nDos religiosos resultaron decisivos: fray Juan Pérez —que había sido contador y confesor de la reina Isabel— y fray Antonio de Marchena, hombre de ciencia. Ambos le ofrecieron aliento, conocimiento y, sobre todo, contactos con la Corona y con el armador Martín Alonso Pinzón. En el monasterio se conservan el claustro mudéjar, la Sala de Conferencias donde la tradición sitúa aquellas charlas, el refectorio con un crucificado románico y la celda atribuida al padre Marchena. En 1992, durante el V Centenario, allí se celebró un consejo de ministros, y su biblioteca atesora una copia del mapamundi de Juan de la Cosa.",
+      "lugares": [
+        "La Rábida",
+        "Palos de la Frontera"
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
+    },
+    {
+      "id": 69,
+      "categoria": "historia",
+      "titulo": "Las almadrabas y el atún",
+      "epoca": "Edad Media – s. XX",
+      "anios": "desde 1239",
+      "icono": "🎣",
+      "resumen": "El arte milenario de la almadraba dio origen a la potente industria conservera de Ayamonte e Isla Cristina.",
+      "descripcion": "La almadraba es una técnica ancestral que aprovecha la migración del atún mediante un laberinto de redes caladas cerca de la costa. En el litoral onubense la primera almadraba conocida fue la 'de la Tuta', cuyo derecho de calamento concedió el rey Sancho IV a Alonso Pérez de Guzmán el Bueno en 1239, pasando en 1291 a ser privilegio exclusivo de la Casa de Medina Sidonia. El salado del pescado, heredado de fenicios y romanos, fue durante siglos la base del negocio.\nHasta la década de 1880 la actividad vivió cierta decadencia, ligada al salazón. Todo cambió con la instalación, desde 1884, de las primeras fábricas de conserva en lata en Ayamonte e Isla Cristina —donde ya en el siglo XVIII se habían asentado salazoneros catalanes en La Higuerita—, que relanzaron la pesca del atún y de la sardina. Aquella pujanza creó una burguesía local del mar y dejó como señas de identidad la mojama y las conservas, que perduran hoy. En 1919 el pintor Joaquín Sorolla inmortalizó la pesca del atún ayamontina en uno de sus grandes lienzos.",
+      "lugares": [
+        "Isla Cristina",
+        "Ayamonte"
+      ],
+      "lat": 37.1989,
+      "lon": -7.3189
+    },
+    {
+      "id": 70,
+      "categoria": "historia",
+      "titulo": "Huelva, capital de la fresa",
+      "epoca": "Edad Contemporánea",
+      "anios": "desde los años 60",
+      "icono": "🍓",
+      "resumen": "Los arenales del litoral convirtieron a Huelva en la mayor concentración de cultivo de fresa de Europa.",
+      "descripcion": "El cultivo moderno de la fresa en Huelva arrancó en los años 60 de la mano del moguereño Antonio Medina Lama, considerado su gran impulsor, que experimentó en suelos arenosos de Moguer. La llegada de variedades californianas, como la tioga, dio un resultado rotundo: fresas más grandes, brillantes y tempranas. Durante los años 70 y 80 el cultivo se disparó, con Palos de la Frontera y Moguer como epicentro, extendiéndose después a Lucena del Puerto, Almonte, Lepe, Cartaya o Isla Cristina.\nLa combinación de suelos arenosos, agua abundante, clima suave, riego por goteo y un fuerte movimiento cooperativista hizo de la costa onubense la mayor área fresera de Europa. Curiosamente, los plantones se crían en viveros de altura de Segovia, Ávila o Valladolid —donde acumulan horas de frío— y completan su desarrollo al calor húmedo de Huelva. La mayor parte de la cosecha se exporta a Reino Unido, Alemania, Francia y Países Bajos. El popular 'Fresón de Palos' y, más recientemente, otros frutos rojos como arándanos y frambuesas, son hoy emblema económico y gastronómico de la provincia.",
+      "lugares": [
+        "Palos de la Frontera",
+        "Moguer",
+        "Lucena del Puerto",
+        "Lepe",
+        "Cartaya"
+      ],
+      "lat": 37.22019,
+      "lon": -6.88461
+    },
+    {
+      "id": 71,
+      "categoria": "historia",
+      "titulo": "La Sierra de Aracena y Picos de Aroche",
+      "epoca": "Edad Contemporánea",
+      "anios": "Parque Natural desde 1989",
+      "icono": "🌳",
+      "resumen": "Un mar de dehesas, castañares y bosques de ribera en el extremo occidental de Sierra Morena.",
+      "descripcion": "En el norte de la provincia, donde Sierra Morena se asoma al Atlántico y a Portugal, se extiende el Parque Natural Sierra de Aracena y Picos de Aroche, declarado el 18 de julio de 1989. Con cerca de 186.800 hectáreas repartidas entre 28 municipios, es uno de los espacios protegidos más grandes de Andalucía. La disposición de sus sierras frena las masas de aire atlánticas y provoca abundantes lluvias, lo que alimenta exuberantes bosques y ríos caudalosos.\nSu paisaje más característico es la dehesa de encinas y alcornoques, salpicada de castañares y bosques de galería. Esa dehesa sostiene la cría del cerdo ibérico en montanera y, con ella, el célebre jamón con Denominación de Origen de Jabugo. El parque forma parte de la Reserva de la Biosfera Dehesas de Sierra Morena y acoge especies amenazadas como el buitre negro o la cigüeña negra. Pueblos blancos como Aracena, Alájar, Almonaster la Real, Cortegana o Jabugo completan un patrimonio natural y cultural de primer orden.",
+      "lugares": [
+        "Aracena",
+        "Jabugo",
+        "Alájar",
+        "Aroche",
+        "Cortegana"
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
+    },
+    {
+      "id": 72,
+      "categoria": "leyenda",
+      "titulo": "La Cueva de la Mora",
+      "epoca": "Leyenda popular",
+      "anios": "—",
+      "icono": "🌙",
+      "resumen": "Cuentan que una joven mora quedó cautiva en esta cueva serrana y que su canto se oye las noches de luna llena.",
+      "descripcion": "En plena Sierra de Aracena, entre Jabugo y Galaroza y cerca de la aldea de El Quejigo, se abre la Cueva de la Mora. La tradición cuenta que en ella permaneció cautiva una hermosa joven mora, cuyos cánticos se escuchaban las noches de luna llena, y que allí murió encerrada esperando un amor imposible. Es una de las muchas leyendas de 'mora encantada' que salpican toda la península, en las que se entrelazan el amor, el cautiverio, los tesoros ocultos y las apariciones a la luz de la luna.\nLos estudiosos relacionan estas historias con antiquísimas leyendas de 'encantadas' —emparentadas con las mouras gallegas— que el paso de los siglos fue tiñendo de aire morisco. Más allá del relato, la Cueva de la Mora es además un valioso yacimiento arqueológico, habitado desde tiempos remotos, lo que refuerza su aura de lugar misterioso. (Relato de tradición popular, sin base histórica comprobada.)",
+      "lugares": [
+        "Sierra de Aracena",
+        "Jabugo",
+        "Galaroza"
+      ],
+      "lat": 37.89087,
+      "lon": -6.56681
+    },
+    {
+      "id": 73,
+      "categoria": "historia",
+      "titulo": "La Niebla visigoda: la sede de Elepla",
+      "epoca": "Época visigoda",
+      "anios": "ss. V–VIII",
+      "icono": "✝️",
+      "resumen": "Antes que la taifa o la villa amurallada, Niebla fue Elepla, una de las primeras sedes episcopales del suroeste.",
+      "descripcion": "Pocos lugares cambian tanto de nombre como Niebla: fue Ilípula para los tartesios, Ilipla en época romana, Elepla para los visigodos, Lebla en al-Ándalus y, al fin, Niebla en castellano. Durante el periodo visigodo conservó un notable prestigio civil y militar y, sobre todo, se convirtió en sede episcopal sufragánea de Sevilla, cabecera de un distrito eclesiástico que abarcaba buena parte de la actual provincia de Huelva.\nEl primer obispo conocido fue Vincomalos, cuya lápida —del año 509— se conserva en el Museo de Huelva; la sede está documentada al menos desde el año 466. Sus prelados (Basilio, que firmó el III Concilio de Toledo en 590; Juan, Servando, Geta o Pápulo, ya en el 693) acudían a los grandes concilios toledanos. La iglesia de Santa María de la Granada, considerada la primera 'catedral' onubense, guarda una silla episcopal de piedra de época visigoda y fue declarada Monumento Nacional en 1931. En el 713 la ciudad pasó a manos musulmanas, convertida en cabeza de la cora de Lebla.",
+      "lugares": [
+        "Niebla",
+        "Iglesia de Santa María de la Granada"
+      ],
+      "lat": 37.3589,
+      "lon": -6.6772
+    },
+    {
+      "id": 74,
+      "categoria": "historia",
+      "titulo": "El Polo Químico y la Huelva industrial",
+      "epoca": "Edad Contemporánea",
+      "anios": "desde 1964",
+      "icono": "🏭",
+      "resumen": "En 1964 nació el Polo de Promoción Industrial, que transformó la geografía, la economía y el paisaje onubense.",
+      "descripcion": "La idea de levantar un gran complejo industrial que transformara aquí los minerales de la provincia ya la planteó José Monasterio Correa en 1870, pero no cuajó hasta un siglo después. Fue en 1964 cuando el Gobierno aprobó, por decreto, el Polo de Promoción Industrial de Huelva, uno de los varios 'polos de desarrollo' creados en España entre 1964 y 1972 para impulsar regiones consideradas atrasadas. La primera fábrica produjo pasta de papel a partir de eucalipto; tras ella llegaron industrias químicas y de fertilizantes a lo largo de la ría del Tinto y el Odiel.\nEl polo cambió por completo la fisonomía de la zona: atrajo miles de empleos, población y una modernización acelerada que sacó a la provincia de cierto estancamiento. Pero esa pujanza tuvo —y tiene— una cara polémica: la contaminación y los residuos peligrosos, como las balsas de fosfoyesos junto a la ciudad, son desde hace décadas motivo de debate ciudadano y ambiental. Industria y medio ambiente conviven así en una tensión que forma parte de la Huelva contemporánea.",
+      "lugares": [
+        "Huelva",
+        "Palos de la Frontera",
+        "Ría de Huelva"
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
+    },
+    {
+      "id": 75,
+      "categoria": "historia",
+      "titulo": "Gibraleón y el marquesado de los Zúñiga",
+      "epoca": "Edad Media – Moderna",
+      "anios": "ss. XIV–XIX",
+      "icono": "🏰",
+      "resumen": "Uno de los señoríos más antiguos de la provincia, ligado a los Zúñiga y, curiosamente, al 'Quijote' de Cervantes.",
+      "descripcion": "Encaramado a un cerro junto al río Odiel, cerca de su desembocadura y entre la costa, el Andévalo y la campiña, Gibraleón fue ciudad fortificada en época musulmana. Tras la conquista cristiana se convirtió en uno de los señoríos más antiguos e importantes del territorio onubense: en 1306 lo recibió Alfonso de la Cerda, nieto de Alfonso X el Sabio. Durante los siglos XIV y XV, los linajes de la Cerda, Pérez de Guzmán y Zúñiga pugnaron por su control.\nFinalmente, hacia 1526-1530, el emperador Carlos I elevó el señorío a marquesado en favor de los Zúñiga, emparentados con los duques de Béjar. Su jurisdicción se extendía por Cartaya, San Bartolomé de la Torre, Villanueva de los Castillejos, Sanlúcar de Guadiana o El Granado, más de una décima parte de la futura provincia. Un guiño literario: Miguel de Cervantes dedicó la primera parte de 'El Quijote' (1605) al duque de Béjar y marqués de Gibraleón, su mecenas. El régimen señorial se abolió en 1835, y aún hoy el castillo de los Zúñiga y la iglesia de Santiago recuerdan aquel pasado.",
+      "lugares": [
+        "Gibraleón",
+        "Castillo de los Zúñiga"
+      ],
+      "lat": 37.3858,
+      "lon": -6.9572
+    },
+    {
+      "id": 76,
+      "categoria": "historia",
+      "titulo": "Arucci / Turóbriga, la ciudad romana de Aroche",
+      "epoca": "Época romana",
+      "anios": "ss. I a.C. – III d.C.",
+      "icono": "🏛️",
+      "resumen": "El único yacimiento romano visitable de la provincia, oculto entre dehesas en los Llanos de la Belleza.",
+      "descripcion": "En el paraje de los Llanos de la Belleza, junto a la rivera del Chanza y frente a los Picos de Aroche, se levantó la ciudad romana de Arucci / Turóbriga, fundada en tiempos del emperador Augusto, a finales del siglo I a.C. Vivió su mayor esplendor en época flavia y, sobre todo, bajo Adriano, hacia mediados del siglo II d.C. Su papel estuvo ligado a organizar y proteger la riqueza minera de la zona y a romanizar este extremo del suroeste peninsular.\nConserva íntegra su trama urbana, y las excavaciones permiten recorrer el foro, las termas, el mercado, varias viviendas, la muralla y el llamado Campo de Marte. La ciudad se abandonó hacia los siglos III-IV, y sus piedras sirvieron de cantera para villas cercanas, para el castillo de Aroche y para la ermita de San Mamés, alzada sobre la antigua basílica romana y decorada con frescos del siglo XV. Estudiada científicamente desde los años setenta y declarada Bien de Interés Cultural en 2008, es hoy el único yacimiento romano visitable de la provincia de Huelva.",
+      "lugares": [
+        "Aroche",
+        "Los Llanos de la Belleza",
+        "Ermita de San Mamés"
+      ],
+      "lat": 37.9469,
+      "lon": -6.9583
+    },
+    {
+      "id": 77,
+      "categoria": "historia",
+      "titulo": "El Monasterio de Santa Clara de Moguer",
+      "epoca": "Baja Edad Media",
+      "anios": "desde 1337",
+      "icono": "⛪",
+      "resumen": "Aquí cumplió Colón el 'voto colombino' al regresar de América, una promesa hecha en plena tempestad.",
+      "descripcion": "El Monasterio de Santa Clara de Moguer fue fundado entre 1337 y 1338 por Alonso Jofre Tenorio, Almirante Mayor de Castilla y primer señor de Moguer, junto a su esposa Elvira Álvarez, para monjas clarisas. Su iglesia gótico-mudéjar, de tres naves, alberga el panteón de los Portocarrero, señores de la villa. Durante siglos influyó en la vida religiosa, social y económica de toda la comarca.\nSu mayor huella histórica es colombina. La abadesa sor Inés Enríquez, tía del rey Fernando el Católico, apoyó en la corte el proyecto del navegante. Y la madrugada del 16 de marzo de 1493, al regresar del primer viaje, Cristóbal Colón veló e hizo decir una misa de acción de gracias en su iglesia, cumpliendo el llamado 'voto colombino': una promesa que la tripulación de la Niña había hecho en febrero, cuando una tormenta cerca de las Azores estuvo a punto de hundir la carabela. Es uno de los Lugares Colombinos, junto a La Rábida y el Muelle de las Carabelas, y hoy acoge el Museo Diocesano de Arte Sacro.",
+      "lugares": [
+        "Moguer",
+        "Monasterio de Santa Clara"
+      ],
+      "lat": 37.2761,
+      "lon": -6.8389
+    },
+    {
+      "id": 78,
+      "categoria": "historia",
+      "titulo": "Ayamonte y la frontera del Guadiana",
+      "epoca": "Edad Antigua – actualidad",
+      "anios": "—",
+      "icono": "🌉",
+      "resumen": "Pueblo marinero asomado al Guadiana, frontera viva con Portugal y cuna de la pesca del atún.",
+      "descripcion": "Asomada a la desembocadura del Guadiana, frente a las localidades portuguesas de Vila Real de Santo António y Castro Marim, Ayamonte ha vivido siempre vuelta hacia el río y el mar. Los romanos la llamaron Ostium Fluminis Anae ('la boca del río Ana'), pero sus orígenes se remontan a fenicios y tartesios: en el barrio de la Villa se ha excavado una de las necrópolis más antiguas de su tipo de la península.\nComo plaza fronteriza, fue cabeza de un marquesado y protagonizó siglos de relaciones —y tensiones— con Portugal a ambas orillas del Guadiana: pesquerías, choques militares y un intenso contrabando por 'la raya'. La pesca y la industria de salazón y conserva (atún y sardina) marcaron su carácter; en 1919 Joaquín Sorolla inmortalizó su pesca del atún en un gran lienzo. Sus casas blancas descienden en pendiente hasta el río, y el Palacio del Marqués o las playas de Isla Canela y Punta del Moral completan su encanto en plena Costa de la Luz.",
+      "lugares": [
+        "Ayamonte",
+        "Río Guadiana",
+        "Isla Canela"
+      ],
+      "lat": 37.2103,
+      "lon": -7.4042
+    },
+    {
+      "id": 79,
+      "categoria": "historia",
+      "titulo": "El nacimiento de la provincia (1833)",
+      "epoca": "Edad Contemporánea",
+      "anios": "1833",
+      "icono": "🗺️",
+      "resumen": "Hasta 1833 estas tierras estaban repartidas entre Sevilla y diversos señoríos; ese año nació la provincia de Huelva.",
+      "descripcion": "Durante siglos, el actual territorio onubense estuvo fragmentado entre la jurisdicción de Sevilla y un mosaico de señoríos. La provincia moderna nació con la gran reforma administrativa del liberalismo. Tomando como base un proyecto de 1822, el ministro de Fomento Javier de Burgos firmó el Real Decreto de 30 de noviembre de 1833 —en plena regencia de María Cristina— que dividió España en 49 provincias, entre ellas Huelva, con capital en la ciudad del mismo nombre.\nNo fue algo automático: en los debates previos hubo quien propuso suprimir provincias como Huelva, pero finalmente se consolidó y sus límites apenas han cambiado desde entonces. La nueva provincia reunió comarcas muy distintas —el litoral, la campiña, el Andévalo y la Sierra— bajo una misma administración. A partir de ahí continuó la organización del territorio (con hitos como la fundación de Rosal de la Frontera) y, ya a finales del siglo XIX, el empuje minero, el ferrocarril y el IV Centenario del Descubrimiento alimentaron un florecimiento cultural con obras como el Gran Teatro o el museo provincial.",
+      "lugares": [
+        "Huelva",
+        "Provincia de Huelva"
+      ],
+      "lat": 37.25533,
+      "lon": -6.9458
+    },
+    {
+      "id": 80,
+      "categoria": "leyenda",
+      "titulo": "La aparición de la Reina de los Ángeles",
+      "epoca": "Leyenda popular",
+      "anios": "—",
+      "icono": "👼",
+      "resumen": "Cuentan que la Virgen se apareció a un pastor junto a una fuente en la Peña de Alájar, lugar de culto milenario.",
+      "descripcion": "La Peña de Arias Montano, en Alájar, ha sido lugar de culto desde tiempos remotos: en sus grutas se han hallado vestigios de rituales funerarios y se recuerda el paso de eremitas, como San Víctor, hacia el siglo V. Como tantos santuarios andaluces, la devoción a su patrona se explica con una aparición legendaria: se dice que la Reina de los Ángeles se mostró a un pastor junto a una fuente de la peña. La tradición añade que la pequeña imagen habría sido traída y ocultada allí por caballeros templarios tras la Reconquista.\nLa ermita se data a finales del siglo XIV o principios del XV, y la Hermandad Matriz se fundó en 1528. El lugar ganó fama cuando el humanista Benito Arias Montano se retiró a la peña en 1559 —hasta el propio Felipe II lo visitó en 1576—. Cada 8 de septiembre, la romería de la Reina de los Ángeles reúne a la mayor multitud de romeros de toda la Sierra de Aracena, y la Virgen fue coronada canónicamente en 2004. (Tradición devocional popular.)",
+      "lugares": [
+        "Alájar",
+        "Peña de Arias Montano"
+      ],
+      "lat": 37.8728,
+      "lon": -6.675
+    },
+    {
+      "id": 81,
+      "categoria": "paranormal",
+      "titulo": "Las psicofonías de la Peña de Alájar",
+      "epoca": "Relatos populares",
+      "anios": "—",
+      "icono": "🔊",
+      "resumen": "Aficionados al misterio dicen haber grabado tambores y voces en las cuevas de la Peña de Arias Montano.",
+      "descripcion": "Más allá de su devoción religiosa, la Peña de Arias Montano y sus cuevas de travertino son, para los aficionados al misterio, un foco de relatos paranormales. El más conocido lo protagonizaron unos investigadores aficionados que, según contaron, dejaron un magnetófono con cinta virgen en el interior de las grutas, en un punto aislado del ruido exterior; al recuperarlo y escucharlo, afirmaban oír de forma ocasional sonidos de tambores y voces, las llamadas psicofonías.\nUnido al pasado funerario de sus cavidades y a su historia de eremitas, todo ello ha rodeado a la peña de un aura de lugar 'especial' o 'energético' que atrae por igual a romeros y a curiosos del misterio. Conviene tomarlo con calma: las psicofonías no son un fenómeno verificado científicamente y suelen tener explicaciones ordinarias (ruidos de fondo, interferencias o nuestra tendencia a reconocer voces donde solo hay sonido). (Relatos populares, sin base científica.)",
+      "lugares": [
+        "Alájar",
+        "Peña de Arias Montano"
+      ],
+      "audio": "psicofonia_ambiente",
+      "lat": 37.8728,
+      "lon": -6.675
+    },
+    {
+      "id": 82,
+      "categoria": "historia",
+      "titulo": "Cumbres Mayores y la Banda Gallega",
+      "epoca": "Baja Edad Media",
+      "anios": "desde 1293",
+      "icono": "🏯",
+      "resumen": "La mayor fortaleza de la 'Banda Gallega', la línea de castillos que blindaba la Sierra frente a Portugal.",
+      "descripcion": "A más de 700 metros de altitud, en el norte de la provincia, se alza el imponente Castillo-Fortaleza de Sancho IV 'el Bravo', mandado construir por privilegio real fechado en Toro el 4 de noviembre de 1293. Su misión era reforzar la frontera del Reino de Sevilla frente a las frecuentes incursiones portuguesas, dentro del sistema defensivo conocido como la 'Banda Gallega', una línea de castillos serranos (Aroche, Cortegana, Santa Olalla del Cala, Fregenal…) levantada como contrapunto a la 'banda morisca' que vigilaba a los reinos musulmanes.\nDe gran tamaño y planta irregular, con torres cuadradas y semicirculares y un almenado centenario, fue la mayor fortaleza de esa banda. Se construyó con ayuda de las tercias reales de varios pueblos de la Sierra y conoció una segunda fase de reformas en el siglo XV. Bajo su amparo se consolidó la población de Cumbres Mayores. Fue, además, el primer Monumento Nacional declarado en la provincia de Huelva, en 1895, y hoy alberga un Centro de Interpretación del Territorio.",
+      "lugares": [
+        "Cumbres Mayores",
+        "Castillo de Sancho IV"
+      ],
+      "lat": 37.9956,
+      "lon": -6.6478
     }
   ]
 }
