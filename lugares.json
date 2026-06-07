@@ -14691,22 +14691,6 @@
       "esFamiliar": true
     },
     {
-      "id": 937,
-      "nombre": "Mirador de los Mil Lugares (Aracena)",
-      "descCorta": "Mirador conmemorativo.",
-      "descLarga": "Mirador serrano que marca el hito de los 1000 lugares de la provincia. Vistas espectaculares de la sierra completa.",
-      "categoria": "MIRADOR",
-      "coleccion": "SIERRA",
-      "rareza": "EPICO",
-      "comarca": "PARQUES",
-      "municipio": "Aracena",
-      "latitud": 37.8919,
-      "longitud": -6.565,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito simbólico: ¡aquí termina el catálogo completo del millar!"
-    },
-    {
       "id": 938,
       "nombre": "Casa Rural Sierra Aracena",
       "descCorta": "Alojamiento rural serrano.",
@@ -20729,23 +20713,6 @@
       "tipsTurista": "Una de las rutas más bellas de la sierra, sobre todo en otoño."
     },
     {
-      "id": 1322,
-      "nombre": "Mirador de Los Marines (1400)",
-      "descCorta": "Mirador conmemorativo.",
-      "descLarga": "Mirador conmemorativo del hito 1400 lugares. Vistas al castañar serrano.",
-      "categoria": "MIRADOR",
-      "coleccion": "SIERRA",
-      "rareza": "EPICO",
-      "comarca": "SIERRA",
-      "municipio": "Los Marines",
-      "latitud": 37.8956,
-      "longitud": -6.6275,
-      "esGratis": true,
-      "esFamiliar": true,
-      "esPetfriendly": true,
-      "tipsTurista": "Hito conmemorativo: lugar 1400 del catálogo."
-    },
-    {
       "id": 1323,
       "nombre": "Iglesia de San Bartolomé (Villalba)",
       "descCorta": "Iglesia parroquial.",
@@ -21378,23 +21345,6 @@
       "esAccesible": true
     },
     {
-      "id": 1363,
-      "nombre": "Mirador del 1450 (Higuera de la Sierra)",
-      "descCorta": "Mirador conmemorativo.",
-      "descLarga": "Mirador conmemorativo del lugar 1450 del catálogo, con vistas a la sierra meridional.",
-      "categoria": "MIRADOR",
-      "coleccion": "SIERRA",
-      "rareza": "EPICO",
-      "comarca": "SIERRA",
-      "municipio": "Higuera de la Sierra",
-      "latitud": 37.8514,
-      "longitud": -6.4475,
-      "esGratis": true,
-      "esFamiliar": true,
-      "esPetfriendly": true,
-      "tipsTurista": "Hito conmemorativo: lugar 1450 del catálogo de HuelvApp."
-    },
-    {
       "id": 1364,
       "nombre": "Casco Histórico de El Cerro de Andévalo",
       "descCorta": "Capital comarcal del Andévalo.",
@@ -21881,22 +21831,6 @@
       "esGratis": true,
       "esFamiliar": true,
       "esAccesible": true
-    },
-    {
-      "id": 1397,
-      "nombre": "Mirador de los 1500 lugares (Aracena)",
-      "descCorta": "Mirador conmemorativo final.",
-      "descLarga": "Mirador conmemorativo del lugar 1500 del catálogo. Cierre simbólico de la cobertura provincial total.",
-      "categoria": "MIRADOR",
-      "coleccion": "SIERRA",
-      "rareza": "EPICO",
-      "comarca": "SIERRA",
-      "municipio": "Aracena",
-      "latitud": 37.8919,
-      "longitud": -6.565,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Cierre simbólico del catálogo provincial. Vistas a 360º de la sierra completa."
     },
     {
       "id": 1398,
@@ -22966,22 +22900,6 @@
       "esGratis": true,
       "esFamiliar": true,
       "esPetfriendly": true
-    },
-    {
-      "id": 1467,
-      "nombre": "Mirador de los 1600 Lugares (Sierra)",
-      "descCorta": "Mirador conmemorativo provincial.",
-      "descLarga": "Mirador conmemorativo del lugar 1600. Hito definitivo del catálogo de HuelvApp: 80/80 municipios reforzados.",
-      "categoria": "MIRADOR",
-      "coleccion": "SIERRA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Aracena",
-      "latitud": 37.8919,
-      "longitud": -6.565,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Cierre absoluto del catálogo. 80 municipios ahora con ≥10 lugares cada uno."
     },
     {
       "id": 1468,
@@ -24147,22 +24065,6 @@
       "esFamiliar": true,
       "esAccesible": true,
       "wikipediaUrl": "https://es.wikipedia.org/wiki/Catedral_de_la_Merced_(Huelva)"
-    },
-    {
-      "id": 1545,
-      "nombre": "Mirador de los 1700 Lugares",
-      "descCorta": "Mirador conmemorativo definitivo.",
-      "descLarga": "Mirador conmemorativo del lugar 1700. Cierre definitivo del catálogo provincial de HuelvApp.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Cierre definitivo del catálogo. La app HuelvApp culmina con 1.700 lugares onubenses."
     },
     {
       "id": 1546,
@@ -25391,22 +25293,6 @@
       "esGratis": true,
       "esFamiliar": true,
       "esAccesible": true
-    },
-    {
-      "id": 1624,
-      "nombre": "Mirador Definitivo 1800 Lugares HuelvApp",
-      "descCorta": "Mirador conmemorativo final.",
-      "descLarga": "Mirador conmemorativo final de los 1800 lugares de HuelvApp. Cobertura provincial total.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito definitivo del catálogo onubense: 1800 lugares + 500 especies + 500 eventos + 200 personajes."
     },
     {
       "id": 1625,
@@ -28577,38 +28463,6 @@
       "esAccesible": true
     },
     {
-      "id": 1823,
-      "nombre": "Mirador Definitivo Provincia 1999",
-      "descCorta": "Mirador definitivo onubense.",
-      "descLarga": "Mirador conmemorativo definitivo provincia Huelva, 1999 lugares HuelvApp.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "esAccesible": true
-    },
-    {
-      "id": 1824,
-      "nombre": "MIRADOR 2000 LUGARES HUELVAPP",
-      "descCorta": "Hito definitivo absoluto.",
-      "descLarga": "Mirador hito definitivo absoluto: 2000 lugares catalogados en HuelvApp. Cobertura provincial completa máxima.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito definitivo absoluto provincia Huelva. Catálogo HuelvApp culminado."
-    },
-    {
       "id": 1825,
       "nombre": "Castillo Cumbres Mayores",
       "descCorta": "La mayor fortaleza de la Banda Gallega (1293).",
@@ -31327,22 +31181,6 @@
       "esGratis": true,
       "esFamiliar": true,
       "esAccesible": true
-    },
-    {
-      "id": 1995,
-      "nombre": "Mirador 2200 Lugares HuelvApp",
-      "descCorta": "Hito 2200 lugares.",
-      "descLarga": "Mirador conmemorativo: 2200 lugares catalogados en HuelvApp. Ampliación cobertura provincial.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito ampliación HuelvApp: 2200 lugares."
     },
     {
       "id": 1996,
@@ -34401,22 +34239,6 @@
       "esAccesible": true
     },
     {
-      "id": 2187,
-      "nombre": "Mirador 2400 Lugares HuelvApp",
-      "descCorta": "Hito ampliado 2400 lugares.",
-      "descLarga": "Mirador conmemorativo: 2400 lugares HuelvApp. Ampliación catálogo provincial.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito 2400 lugares HuelvApp."
-    },
-    {
       "id": 2188,
       "nombre": "Centro Visitantes Acebrón",
       "descCorta": "Centro visitantes natural.",
@@ -35137,22 +34959,6 @@
       "esAccesible": true
     },
     {
-      "id": 2233,
-      "nombre": "Puerto Deportivo Mazagón",
-      "descCorta": "Puerto marítimo onubense.",
-      "descLarga": "Puerto deportivo Mazagón.",
-      "categoria": "MONUMENTO",
-      "coleccion": "COSTA",
-      "rareza": "RARO",
-      "comarca": "MONUMENTOS",
-      "municipio": "Almonte",
-      "latitud": 37.1378,
-      "longitud": -6.8333,
-      "esGratis": true,
-      "esFamiliar": true,
-      "esAccesible": true
-    },
-    {
       "id": 2234,
       "nombre": "Puerto Deportivo Isla Canela",
       "descCorta": "Puerto marítimo onubense.",
@@ -35759,22 +35565,6 @@
       "esGratis": true,
       "esFamiliar": true,
       "esAccesible": true
-    },
-    {
-      "id": 2272,
-      "nombre": "MIRADOR HITO 2500 LUGARES HUELVAPP",
-      "descCorta": "Hito 2500 lugares.",
-      "descLarga": "Mirador hito definitivo absoluto: 2500 lugares catalogados HuelvApp. Catálogo provincial máximo onubense.",
-      "categoria": "MIRADOR",
-      "coleccion": "CULTURA",
-      "rareza": "EPICO",
-      "comarca": "MIRADORES",
-      "municipio": "Huelva",
-      "latitud": 37.2622,
-      "longitud": -6.9319,
-      "esGratis": true,
-      "esFamiliar": true,
-      "tipsTurista": "Hito definitivo absoluto: 2500 lugares HuelvApp. Catálogo provincial máximo onubense alcanzado."
     }
   ]
 }
