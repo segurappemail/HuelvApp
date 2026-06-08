@@ -1,0 +1,1314 @@
+{
+  "_nota": "Catálogo del Emisor. Códigos y claves SIN año (sirven todos los años). La clave es corta (mayús+minús+símbolo). Si algún día quieres rotar el acceso, cambia las claves aquí y en el nodo /claves de Firebase. tipo: SEMANA_SANTA|CARNAVAL|CABALGATA_REYES|ROMERIA|FIESTA. Campo opcional 'icono' (emoji) para el pin.",
+  "version_catalogo": "2026.7",
+  "eventos": [
+    {
+      "id": "se-huelva-hdad-borriquita",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Borriquita",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-borriquita",
+      "clave": "Bas6k*s",
+      "nombre_oficial": "Devota Hermandad de la Entrada Triunfal de Jesús en Jerusalén y Nuestra Señora de los Ángeles",
+      "pasos": [
+        "Entrada Triunfal de Jesús en Jerusalén",
+        "Nuestra Señora de los Ángeles"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-sagrada-cena",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Sagrada Cena",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-sagrada-cena",
+      "clave": "Lut7n%j",
+      "nombre_oficial": "Dominica, Real, Ilustre, Fervorosa y Primitiva Hermandad Sacramental y Cofradía de Nazarenos de la Sagrada Cena, Stmo. Cristo del Amor, Mª Stma. del Rosario y Santo Domingo de Guzmán",
+      "pasos": [
+        "Sagrada Cena del Stmo. Cristo del Amor",
+        "María Stma. del Rosario en sus Misterios Dolorosos"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-redencion",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Redención",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-redencion",
+      "clave": "Bka6n?y",
+      "nombre_oficial": "Hermandad de Nuestra Señora de los Desamparados y Seráfica Cofradía de Nazarenos del Stmo. Cristo de la Preciosa Sangre, Ntro. Padre Jesús de la Redención y Mª Stma. del Dulce Nombre",
+      "pasos": [
+        "Stmo. Cristo de la Redención",
+        "Santo Cristo de la Preciosa Sangre",
+        "María Stma. del Dulce Nombre en su Mayor Aflicción"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-mutilados",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Mutilados",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-mutilados",
+      "clave": "Rrv7a#y",
+      "nombre_oficial": "Real e Ilustre Hermandad y Cofradía de Nazarenos del Stmo. Cristo de la Victoria Despojado de sus Vestiduras, Ntra. Sra. de la Paz y San Rafael Arcángel",
+      "pasos": [
+        "Stmo. Cristo de la Victoria (Despojado)",
+        "Nuestra Señora de la Paz"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-perdon",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Perdón",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-perdon",
+      "clave": "Vai8y*s",
+      "nombre_oficial": "Hermandad Sacramental de Culto, Penitencia y Caridad y Cofradía de Nazarenos del Stmo. Cristo del Perdón y Nuestra Señora de los Dolores",
+      "pasos": [
+        "Stmo. Cristo del Perdón",
+        "Nuestra Señora de los Dolores"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-cautivo",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cautivo",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-cautivo",
+      "clave": "Mwk4j?x",
+      "nombre_oficial": "Hermandad de Penitencia de Nuestro Padre Jesús Cautivo y María Santísima de la Misericordia",
+      "pasos": [
+        "Santo Cristo Cautivo",
+        "María Stma. Madre de la Misericordia"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-calvario",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Calvario",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-calvario",
+      "clave": "Njx6c+a",
+      "nombre_oficial": "Posconciliar Hermandad y Seráfica Cofradía de San Francisco de Asís, Ntro. Padre Jesús del Calvario y Mª Stma. del Rocío y Esperanza",
+      "pasos": [
+        "Ntro. Padre Jesús del Calvario",
+        "María Stma. del Rocío y Esperanza"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-tres-caidas",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Tres Caídas",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-tres-caidas",
+      "clave": "Nxu8t+m",
+      "nombre_oficial": "Ilustre Hermandad de Ntro. Padre Jesús de las Penas en sus Tres Caídas, Mª Stma. del Amor y del Glorioso Apóstol Santiago",
+      "pasos": [
+        "Ntro. Padre Jesús de las Penas en sus Tres Caídas",
+        "María Stma. del Amor"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-la-salud",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. La Salud",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-la-salud",
+      "clave": "Fnm2w+e",
+      "nombre_oficial": "Hermandad Sacramental y Cofradía de Nazarenos de Ntro. Padre Jesús de la Sentencia en su Presentación al Pueblo, Ntra. Sra. de la Salud y San Francisco de Asís",
+      "pasos": [
+        "Ntro. Padre Jesús de la Sentencia",
+        "Nuestra Señora de la Salud"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-lanzada",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Lanzada",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-lanzada",
+      "clave": "Xyj6c+f",
+      "nombre_oficial": "Devota y Fervorosa Hermandad de Caridad y Cofradía de Nazarenos del Stmo. Cristo de la Sagrada Lanzada, Mª Stma. del Patrocinio, San Juan Evangelista y Ntra. Sra. de los Dolores",
+      "pasos": [
+        "Stmo. Cristo de la Sagrada Lanzada",
+        "Nuestra Señora de los Dolores"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-estudiantes",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Estudiantes",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-estudiantes",
+      "clave": "Vxy9z*p",
+      "nombre_oficial": "Hermandad de Penitencia y Cofradía de Nazarenos del Stmo. Cristo de la Sangre, Ntra. Sra. del Valle, San Sebastián Mártir y Beata Ángela de la Cruz",
+      "pasos": [
+        "Stmo. Cristo de la Sangre",
+        "Nuestra Señora del Valle"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-pasion",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Pasión",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-pasion",
+      "clave": "Vwx5b%y",
+      "nombre_oficial": "Real e Ilustre Hermandad Sacramental de Ntro. Padre Jesús de la Pasión y María Santísima del Refugio",
+      "pasos": [
+        "Ntro. Padre Jesús de la Pasión",
+        "María Stma. del Refugio"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-prendimiento-y-estrella",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Prendimiento y Estrella",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-prendimiento-y-estrella",
+      "clave": "Yyv6p&g",
+      "nombre_oficial": "Carmelita Hermandad y Cofradía de Penitencia de Ntro. Padre Jesús del Prendimiento, Traicionado por Judas y María Santísima de la Estrella",
+      "pasos": [
+        "Ntro. Padre Jesús del Prendimiento",
+        "María Stma. de la Estrella"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-santa-cruz",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santa Cruz",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-santa-cruz",
+      "clave": "Peh9r&x",
+      "nombre_oficial": "Cofradía de la Santa Cruz, Santo Sudario de Ntro. Señor Jesucristo y María Santísima Madre de Gracia",
+      "pasos": [
+        "Santo Sudario de Ntro. Señor Jesucristo",
+        "María Stma. Madre de Gracia"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-victoria",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Victoria",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-victoria",
+      "clave": "Gwu6k#z",
+      "nombre_oficial": "Real, Antigua, Ilustre y Fervorosa Hermandad del Sagrado Corazón de Jesús y Cofradía de Nazarenos de Ntro. Padre Jesús de la Humildad, Mª Stma. de la Victoria Coronada y San Juan Evangelista",
+      "pasos": [
+        "Ntro. Padre Jesús de la Humildad (Despreciado de Herodes)",
+        "María Stma. de la Victoria Coronada"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-esperanza",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Esperanza",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-esperanza",
+      "clave": "Lgp9t@m",
+      "nombre_oficial": "Real e Ilustre Hermandad Sacramental de San Francisco y Cofradía de Nazarenos del Stmo. Cristo de la Expiración, Mª Stma. del Mayor Dolor, San Juan Evangelista y Ntra. Sra. de la Esperanza Coronada",
+      "pasos": [
+        "Stmo. Cristo de la Expiración",
+        "Nuestra Señora de la Esperanza Coronada"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-vera-cruz-y-oracion",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Vera-Cruz y Oración",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-vera-cruz-y-oracion",
+      "clave": "Tte9u%t",
+      "nombre_oficial": "Muy Antigua, Real, Ilustre y Seráfica Hermandad Sacramental y Archicofradía de Nazarenos de la Santa Vera Cruz, Sagrada Oración en el Huerto y Ntra. Madre y Señora de los Dolores Coronada",
+      "pasos": [
+        "Sagrada Oración de Ntro. Señor en el Huerto",
+        "Cristo de la Vera Cruz",
+        "Ntra. Madre y Señora de los Dolores Coronada"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-misericordia",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Misericordia",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-misericordia",
+      "clave": "Mhi3y@t",
+      "nombre_oficial": "Hermandad de Culto y Apostolado del Dulce Nombre de Jesús y Cofradía de Penitencia del Santo Cristo de la Misericordia, Mª Stma. de la Concepción y San Juan Evangelista",
+      "pasos": [
+        "Santo Cristo de la Misericordia",
+        "María Stma. de la Concepción"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-buena-muerte",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Buena Muerte",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-buena-muerte",
+      "clave": "Wyk3r+h",
+      "nombre_oficial": "Ilustre y Agustiniana Hermandad del Stmo. Cristo de la Buena Muerte y Nuestra Madre de la Consolación y Correa en sus Dolores",
+      "pasos": [
+        "Stmo. Cristo de la Buena Muerte",
+        "Ntra. Madre de la Consolación y Correa"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-los-judios",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Los Judíos",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-los-judios",
+      "clave": "Jvk8h?a",
+      "nombre_oficial": "Real, Ilustre, Venerable y Capitular Hermandad Sacramental de Ntra. Sra. de la Merced y Cofradía de Nazarenos de Ntro. Padre Jesús de las Cadenas, Stmo. Cristo de Jerusalén y Buen Viaje y Mª Stma. de los Dolores",
+      "pasos": [
+        "Ntro. Padre Jesús de las Cadenas",
+        "Stmo. Cristo de Jerusalén y Buen Viaje",
+        "María Stma. de los Dolores"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-nazareno",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nazareno",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-nazareno",
+      "clave": "Mej7a+q",
+      "nombre_oficial": "Muy Antigua, Venerable y Real Hermandad de Penitencia y Cofradía de Nazarenos de Ntro. Padre Jesús Nazareno, Santa Cruz en Jerusalén, Mª Stma. de la Amargura, San Juan Evangelista y San Francisco de Paula",
+      "pasos": [
+        "Ntro. Padre Jesús Nazareno",
+        "María Stma. de la Amargura Coronada"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-la-fe",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. La Fe",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-la-fe",
+      "clave": "Jah7k&k",
+      "nombre_oficial": "Ilustre Hermandad de Penitencia y Cofradía de Apostolado del Stmo. Cristo de la Fe y María Santísima de la Caridad",
+      "pasos": [
+        "Stmo. Cristo de la Fe",
+        "Nuestra Señora de la Caridad"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-descendimiento",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Descendimiento",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-descendimiento",
+      "clave": "Zfw8n@r",
+      "nombre_oficial": "Hermandad de Penitencia y Cofradía de Nazarenos del Sagrado Descendimiento de Ntro. Señor Jesucristo, Ntra. Sra. del Calvario, San Juan Evangelista y Mª Stma. en la Resignación de sus Dolores",
+      "pasos": [
+        "Sagrado Descendimiento de Ntro. Señor Jesucristo",
+        "María Stma. de la Resignación en sus Dolores"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-santo-entierro",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-santo-entierro",
+      "clave": "Lck4y?s",
+      "nombre_oficial": "Antigua, Real e Ilustre Hermandad del Santo Entierro de Cristo, Nuestra Señora de las Angustias y María Santísima de la Soledad",
+      "pasos": [
+        "Santo Entierro de Cristo",
+        "Nuestra Señora de las Angustias",
+        "Soledad de María"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-el-silencio",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. El Silencio",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-el-silencio",
+      "clave": "Pqs9k%y",
+      "nombre_oficial": "Real e Ilustre Hermandad de Penitencia y Cofradía de Nazarenos de Nuestra Señora en su Soledad",
+      "pasos": [
+        "Nuestra Señora en su Soledad"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-resucitado",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Resucitado",
+      "dia": "Domingo de Resurrección",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-resucitado",
+      "clave": "Wwn4i#v",
+      "nombre_oficial": "Hermandad de la Sagrada Resurrección de Ntro. Señor Jesucristo y María Santísima de la Luz",
+      "pasos": [
+        "Sagrada Resurrección de Ntro. Señor Jesucristo",
+        "María Stma. de la Luz"
+      ]
+    },
+    {
+      "id": "se-huelva-hdad-el-prado",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. El Prado",
+      "dia": "Viernes de Dolores",
+      "anio": 2026,
+      "codigo": "ss-huelva-hdad-el-prado",
+      "clave": "Jcn3n%p",
+      "nombre_oficial": "Hermandad de Penitencia de Nuestra Señora del Prado en su Dolor",
+      "pasos": [
+        "Nuestra Señora del Prado en su Dolor"
+      ]
+    },
+    {
+      "id": "se-ayamonte-hdad-humildad-y-estrella",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Humildad y Estrella",
+      "dia": "Viernes de Dolores",
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-humildad-y-estrella",
+      "clave": "Dnc2s+t"
+    },
+    {
+      "id": "se-ayamonte-hdad-sagrada-lanzada-y-esperanza-del-mar",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Sagrada Lanzada y Esperanza del Mar",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-sagrada-lanzada-y-esperanza-del-mar",
+      "clave": "Lcn9q#b"
+    },
+    {
+      "id": "se-ayamonte-hdad-cristo-de-la-victoria-pasion-y-paz",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Victoria, Pasión y Paz",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-cristo-de-la-victoria-pasion-y-paz",
+      "clave": "Ere9n@k"
+    },
+    {
+      "id": "se-ayamonte-hdad-del-salvador-oracion-en-el-huerto",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Salvador (Oración en el Huerto)",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-del-salvador-oracion-en-el-huerto",
+      "clave": "Afd8g&x"
+    },
+    {
+      "id": "se-ayamonte-hdad-jesus-cautivo",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Jesús Cautivo",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-jesus-cautivo",
+      "clave": "Tpj4u@e"
+    },
+    {
+      "id": "se-ayamonte-hdad-nazareno-y-socorro",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nazareno y Socorro",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-nazareno-y-socorro",
+      "clave": "Yij5k&z"
+    },
+    {
+      "id": "se-ayamonte-hdad-santo-entierro-y-mayor-dolor",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro y Mayor Dolor",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-santo-entierro-y-mayor-dolor",
+      "clave": "Hpt5u@k"
+    },
+    {
+      "id": "se-ayamonte-hdad-vera-cruz-y-soledad",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Vera Cruz y Soledad",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-vera-cruz-y-soledad",
+      "clave": "Ewg4i?d"
+    },
+    {
+      "id": "se-ayamonte-hdad-jesus-resucitado",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Jesús Resucitado",
+      "dia": "Domingo de Resurrección",
+      "anio": 2026,
+      "codigo": "ss-ayamonte-hdad-jesus-resucitado",
+      "clave": "Cdn9x+z"
+    },
+    {
+      "id": "se-la-palma-del-condado-hdad-cristo-del-perdon",
+      "municipio": "La Palma del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo del Perdón",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-la-palma-del-condado-hdad-cristo-del-perdon",
+      "clave": "Xss2r#k"
+    },
+    {
+      "id": "se-la-palma-del-condado-hdad-jesus-cautivo",
+      "municipio": "La Palma del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Jesús Cautivo",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-la-palma-del-condado-hdad-jesus-cautivo",
+      "clave": "Hjy9v+k"
+    },
+    {
+      "id": "se-la-palma-del-condado-hdad-nuestro-padre-jesus-nazareno",
+      "municipio": "La Palma del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-la-palma-del-condado-hdad-nuestro-padre-jesus-nazareno",
+      "clave": "Pek4g%s"
+    },
+    {
+      "id": "se-la-palma-del-condado-hdad-santo-entierro-y-ma-stma-de-los-dolores",
+      "municipio": "La Palma del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro y Mª Stma. de los Dolores",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-la-palma-del-condado-hdad-santo-entierro-y-ma-stma-de-los-dolores",
+      "clave": "Vcb8b&j"
+    },
+    {
+      "id": "se-isla-cristina-hdad-de-la-mulita",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Mulita",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-de-la-mulita",
+      "clave": "Rnq2n&i"
+    },
+    {
+      "id": "se-isla-cristina-hdad-de-la-humildad",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Humildad",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-de-la-humildad",
+      "clave": "Nzw2h?z"
+    },
+    {
+      "id": "se-isla-cristina-hdad-cristo-de-la-buena-muerte",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Buena Muerte",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-cristo-de-la-buena-muerte",
+      "clave": "Crc7m+k"
+    },
+    {
+      "id": "se-isla-cristina-hdad-de-la-flagelacion",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Flagelación",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-de-la-flagelacion",
+      "clave": "Rte3r?r"
+    },
+    {
+      "id": "se-isla-cristina-hdad-del-cautivo",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Cautivo",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-del-cautivo",
+      "clave": "Znw4t%i"
+    },
+    {
+      "id": "se-isla-cristina-hdad-del-gran-poder",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Gran Poder",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-del-gran-poder",
+      "clave": "Dgz3k?y"
+    },
+    {
+      "id": "se-isla-cristina-hdad-cristo-de-la-vida",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Vida",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-cristo-de-la-vida",
+      "clave": "Siq4c&d"
+    },
+    {
+      "id": "se-isla-cristina-hdad-piedad-y-santo-entierro",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Piedad y Santo Entierro",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-piedad-y-santo-entierro",
+      "clave": "Rij8z#f"
+    },
+    {
+      "id": "se-isla-cristina-hdad-de-la-soledad",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Soledad",
+      "dia": "Sábado Santo",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-de-la-soledad",
+      "clave": "Yzq3w&t"
+    },
+    {
+      "id": "se-isla-cristina-hdad-cristo-resucitado",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo Resucitado",
+      "dia": "Domingo de Resurrección",
+      "anio": 2026,
+      "codigo": "ss-isla-cristina-hdad-cristo-resucitado",
+      "clave": "Skk6h#k"
+    },
+    {
+      "id": "se-aracena-hdad-de-la-borriquita",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Borriquita",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-aracena-hdad-de-la-borriquita",
+      "clave": "Ugx8i&b"
+    },
+    {
+      "id": "se-aracena-hdad-del-redentor-cautivo",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Redentor Cautivo",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-aracena-hdad-del-redentor-cautivo",
+      "clave": "Lcs7f+z"
+    },
+    {
+      "id": "se-aracena-hdad-de-la-vera-cruz",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Vera-Cruz",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-aracena-hdad-de-la-vera-cruz",
+      "clave": "Xdb7i+e"
+    },
+    {
+      "id": "se-aracena-hdad-nuestro-padre-jesus-nazareno",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-aracena-hdad-nuestro-padre-jesus-nazareno",
+      "clave": "Lrt5k@p"
+    },
+    {
+      "id": "se-moguer-hdad-de-la-borriquita",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Borriquita",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-de-la-borriquita",
+      "clave": "Hum9c&f"
+    },
+    {
+      "id": "se-moguer-hdad-cristo-de-los-remedios",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de los Remedios",
+      "dia": "Lunes Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-cristo-de-los-remedios",
+      "clave": "Fba9h@g"
+    },
+    {
+      "id": "se-moguer-hdad-cristo-de-la-sangre",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Sangre",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-cristo-de-la-sangre",
+      "clave": "Nth7x+m"
+    },
+    {
+      "id": "se-moguer-hdad-cristo-de-la-victoria",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Victoria",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-cristo-de-la-victoria",
+      "clave": "Axp8x%z"
+    },
+    {
+      "id": "se-moguer-hdad-cristo-del-amor",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo del Amor",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-cristo-del-amor",
+      "clave": "Stp9k%w"
+    },
+    {
+      "id": "se-moguer-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno y Dolores",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "clave": "Kxd4h?c"
+    },
+    {
+      "id": "se-moguer-hdad-de-la-vera-cruz",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Vera+Cruz",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-de-la-vera-cruz",
+      "clave": "Uag7j#u"
+    },
+    {
+      "id": "se-moguer-hdad-de-la-soledad",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Soledad",
+      "dia": "Sábado Santo",
+      "anio": 2026,
+      "codigo": "ss-moguer-hdad-de-la-soledad",
+      "clave": "Sai4i&k"
+    },
+    {
+      "id": "se-valverde-del-camino-hdad-de-la-borriquita-cristo-del-amor",
+      "municipio": "Valverde del Camino",
+      "comarca": "Andévalo",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Borriquita (Cristo del Amor)",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-valverde-del-camino-hdad-de-la-borriquita-cristo-del-amor",
+      "clave": "Liw7d?b"
+    },
+    {
+      "id": "se-valverde-del-camino-hdad-cristo-de-la-buena-muerte",
+      "municipio": "Valverde del Camino",
+      "comarca": "Andévalo",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Buena Muerte",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-valverde-del-camino-hdad-cristo-de-la-buena-muerte",
+      "clave": "Usi2w+q"
+    },
+    {
+      "id": "se-valverde-del-camino-hdad-jesus-nazareno-y-ma-stma-de-los-dolores",
+      "municipio": "Valverde del Camino",
+      "comarca": "Andévalo",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Jesús Nazareno y Mª Stma. de los Dolores",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-valverde-del-camino-hdad-jesus-nazareno-y-ma-stma-de-los-dolores",
+      "clave": "Mhd4m*g"
+    },
+    {
+      "id": "se-valverde-del-camino-hdad-de-las-tres-caidas",
+      "municipio": "Valverde del Camino",
+      "comarca": "Andévalo",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de las Tres Caídas",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-valverde-del-camino-hdad-de-las-tres-caidas",
+      "clave": "Rzd2f%y"
+    },
+    {
+      "id": "se-valverde-del-camino-hdad-santo-entierro-y-soledad-los-negros",
+      "municipio": "Valverde del Camino",
+      "comarca": "Andévalo",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro y Soledad (Los Negros)",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-valverde-del-camino-hdad-santo-entierro-y-soledad-los-negros",
+      "clave": "Fej9y?f"
+    },
+    {
+      "id": "se-bollullos-par-del-condado-hdad-de-jesus-cautivo",
+      "municipio": "Bollullos Par del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de Jesús Cautivo",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-bollullos-par-del-condado-hdad-de-jesus-cautivo",
+      "clave": "Qit7q*k"
+    },
+    {
+      "id": "se-bollullos-par-del-condado-hdad-del-prendimiento",
+      "municipio": "Bollullos Par del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Prendimiento",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-bollullos-par-del-condado-hdad-del-prendimiento",
+      "clave": "Vgt3a&u"
+    },
+    {
+      "id": "se-bollullos-par-del-condado-hdad-del-santo-entierro",
+      "municipio": "Bollullos Par del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. del Santo Entierro",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-bollullos-par-del-condado-hdad-del-santo-entierro",
+      "clave": "Wjy2i#b"
+    },
+    {
+      "id": "se-bollullos-par-del-condado-hdad-de-la-vera-cruz",
+      "municipio": "Bollullos Par del Condado",
+      "comarca": "Condado",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de la Vera Cruz",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-bollullos-par-del-condado-hdad-de-la-vera-cruz",
+      "clave": "Aih7f&i"
+    },
+    {
+      "id": "se-lepe-hdad-cristo-de-la-misericordia",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Misericordia",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-cristo-de-la-misericordia",
+      "clave": "Wru9d%z"
+    },
+    {
+      "id": "se-lepe-hdad-nuestro-padre-jesus-nazareno-y-angustias",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno y Angustias",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-nuestro-padre-jesus-nazareno-y-angustias",
+      "clave": "Gjx5s&x"
+    },
+    {
+      "id": "se-lepe-hdad-cristo-de-la-salud",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Salud",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-cristo-de-la-salud",
+      "clave": "Vhr6k#a"
+    },
+    {
+      "id": "se-lepe-hdad-santo-entierro-y-soledad",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro y Soledad",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-santo-entierro-y-soledad",
+      "clave": "Xeh4i@q"
+    },
+    {
+      "id": "se-lepe-hdad-oracion-en-el-huerto-y-victoria",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Oración en el Huerto y Victoria",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-oracion-en-el-huerto-y-victoria",
+      "clave": "Dnc5s+p"
+    },
+    {
+      "id": "se-lepe-hdad-vera-cruz",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Vera Cruz",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "ss-lepe-hdad-vera-cruz",
+      "clave": "Pmh3n&c"
+    },
+    {
+      "id": "se-cartaya-hdad-entrada-triunfal-borriquita",
+      "municipio": "Cartaya",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Entrada Triunfal (Borriquita)",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-cartaya-hdad-entrada-triunfal-borriquita",
+      "clave": "Yrz3u@c"
+    },
+    {
+      "id": "se-cartaya-hdad-jesus-cautivo-y-esperanza",
+      "municipio": "Cartaya",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Jesús Cautivo y Esperanza",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-cartaya-hdad-jesus-cautivo-y-esperanza",
+      "clave": "Zmu6h?m"
+    },
+    {
+      "id": "se-cartaya-hdad-vera-cruz-y-amargura",
+      "municipio": "Cartaya",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Vera+Cruz y Amargura",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-cartaya-hdad-vera-cruz-y-amargura",
+      "clave": "Ncr8n%n"
+    },
+    {
+      "id": "se-cartaya-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "municipio": "Cartaya",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno y Dolores",
+      "dia": "Madrugá",
+      "anio": 2026,
+      "codigo": "ss-cartaya-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "clave": "Ghp4i&m"
+    },
+    {
+      "id": "se-cartaya-hdad-sacramental-y-santo-entierro",
+      "municipio": "Cartaya",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Sacramental y Santo Entierro",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-cartaya-hdad-sacramental-y-santo-entierro",
+      "clave": "Lhr4p?g"
+    },
+    {
+      "id": "se-gibraleon-hdad-cristo-joven-de-la-borriquita-y-nazaret",
+      "municipio": "Gibraleón",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo Joven de la Borriquita y Nazaret",
+      "dia": "Domingo de Ramos",
+      "anio": 2026,
+      "codigo": "ss-gibraleon-hdad-cristo-joven-de-la-borriquita-y-nazaret",
+      "clave": "Zhm8k#u"
+    },
+    {
+      "id": "se-gibraleon-hdad-cristo-de-la-misericordia-azotes-y-sion",
+      "municipio": "Gibraleón",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Misericordia (Azotes) y Sión",
+      "dia": "Martes Santo",
+      "anio": 2026,
+      "codigo": "ss-gibraleon-hdad-cristo-de-la-misericordia-azotes-y-sion",
+      "clave": "Nnj8u%q"
+    },
+    {
+      "id": "se-gibraleon-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "municipio": "Gibraleón",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Nuestro Padre Jesús Nazareno y Dolores",
+      "dia": "Miércoles Santo",
+      "anio": 2026,
+      "codigo": "ss-gibraleon-hdad-nuestro-padre-jesus-nazareno-y-dolores",
+      "clave": "Tcz3i#a"
+    },
+    {
+      "id": "se-gibraleon-hdad-cristo-de-la-sangre-y-soledad",
+      "municipio": "Gibraleón",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Cristo de la Sangre y Soledad",
+      "dia": "Jueves Santo",
+      "anio": 2026,
+      "codigo": "ss-gibraleon-hdad-cristo-de-la-sangre-y-soledad",
+      "clave": "Nft9m*b"
+    },
+    {
+      "id": "se-gibraleon-hdad-de-los-servitas-santo-entierro",
+      "municipio": "Gibraleón",
+      "comarca": "Costa",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. de los Servitas (Santo Entierro)",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "codigo": "ss-gibraleon-hdad-de-los-servitas-santo-entierro",
+      "clave": "Nmg5f#w"
+    },
+    {
+      "id": "ca-isla-cristina-carnaval-de-isla-cristina",
+      "municipio": "Isla Cristina",
+      "comarca": "Costa",
+      "tipo": "CARNAVAL",
+      "nombre": "Carnaval de Isla Cristina",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "carn-isla-cristina-carnaval-de-isla-cristina",
+      "clave": "Afk7z&b"
+    },
+    {
+      "id": "ca-ayamonte-carnaval-de-ayamonte",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "CARNAVAL",
+      "nombre": "Carnaval de Ayamonte",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "carn-ayamonte-carnaval-de-ayamonte",
+      "clave": "Jhp4t%g"
+    },
+    {
+      "id": "ca-huelva-carnaval-de-huelva-colombino",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "CARNAVAL",
+      "nombre": "Carnaval de Huelva (Colombino)",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "carn-huelva-carnaval-de-huelva-colombino",
+      "clave": "Lcs8a?j"
+    },
+    {
+      "id": "ca-huelva-cabalgata-de-reyes-magos",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "CABALGATA_REYES",
+      "nombre": "Cabalgata de Reyes Magos",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "caba-huelva-cabalgata-de-reyes-magos",
+      "clave": "Kzq3n&v"
+    },
+    {
+      "id": "ca-higuera-de-la-sierra-cabalgata-de-reyes-interes-turistico",
+      "municipio": "Higuera de la Sierra",
+      "comarca": "Sierra",
+      "tipo": "CABALGATA_REYES",
+      "nombre": "Cabalgata de Reyes (Interés Turístico)",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "caba-higuera-de-la-sierra-cabalgata-de-reyes-interes-turistico",
+      "clave": "Zuh3c*p"
+    },
+    {
+      "id": "ca-trigueros-cabalgata-de-reyes-magos",
+      "municipio": "Trigueros",
+      "comarca": "Condado",
+      "tipo": "CABALGATA_REYES",
+      "nombre": "Cabalgata de Reyes Magos",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "caba-trigueros-cabalgata-de-reyes-magos",
+      "clave": "Anb5t&z"
+    },
+    {
+      "id": "ro-almonte-romeria-de-el-rocio",
+      "municipio": "Almonte",
+      "comarca": "Doñana",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de El Rocío",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-almonte-romeria-de-el-rocio",
+      "clave": "Wyz5q?a"
+    },
+    {
+      "id": "ro-el-cerro-de-andevalo-romeria-de-san-benito-abad",
+      "municipio": "El Cerro de Andévalo",
+      "comarca": "Andévalo",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de San Benito Abad",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-el-cerro-de-andevalo-romeria-de-san-benito-abad",
+      "clave": "Sfz2y+j"
+    },
+    {
+      "id": "ro-lepe-romeria-de-la-bella-interes-turistico",
+      "municipio": "Lepe",
+      "comarca": "Costa",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Bella (Interés Turístico)",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-lepe-romeria-de-la-bella-interes-turistico",
+      "clave": "Rbp2v?c"
+    },
+    {
+      "id": "ro-moguer-romeria-de-ntra-sra-de-montemayor",
+      "municipio": "Moguer",
+      "comarca": "Costa",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de Ntra. Sra. de Montemayor",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-moguer-romeria-de-ntra-sra-de-montemayor",
+      "clave": "Vgt2r@d"
+    },
+    {
+      "id": "ro-puebla-de-guzman-romeria-de-la-virgen-de-la-pena",
+      "municipio": "Puebla de Guzmán",
+      "comarca": "Andévalo",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Virgen de la Peña",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-puebla-de-guzman-romeria-de-la-virgen-de-la-pena",
+      "clave": "Hsb2v+q"
+    },
+    {
+      "id": "ro-punta-umbria-romeria-de-la-santa-cruz",
+      "municipio": "Punta Umbría",
+      "comarca": "Costa",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Santa Cruz",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-punta-umbria-romeria-de-la-santa-cruz",
+      "clave": "Bbq2v&n"
+    },
+    {
+      "id": "ro-minas-de-riotinto-romeria-de-la-santa-cruz-el-pino",
+      "municipio": "Minas de Riotinto",
+      "comarca": "Cuenca Minera",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Santa Cruz (El Pino)",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-minas-de-riotinto-romeria-de-la-santa-cruz-el-pino",
+      "clave": "Pdv6z+z"
+    },
+    {
+      "id": "ro-tharsis-romeria-de-santa-barbara",
+      "municipio": "Tharsis",
+      "comarca": "Andévalo",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de Santa Bárbara",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-tharsis-romeria-de-santa-barbara",
+      "clave": "Cer5z?w"
+    },
+    {
+      "id": "ro-trigueros-romeria-de-san-jose-obrero",
+      "municipio": "Trigueros",
+      "comarca": "Condado",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de San José Obrero",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-trigueros-romeria-de-san-jose-obrero",
+      "clave": "Har4t#i"
+    },
+    {
+      "id": "ro-ayamonte-romeria-de-la-santa-cruz",
+      "municipio": "Ayamonte",
+      "comarca": "Costa",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Santa Cruz",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-ayamonte-romeria-de-la-santa-cruz",
+      "clave": "Jra6j*i"
+    },
+    {
+      "id": "ro-beas-romeria-de-la-virgen-de-los-clarines",
+      "municipio": "Beas",
+      "comarca": "Condado",
+      "tipo": "ROMERIA",
+      "nombre": "Romería de la Virgen de los Clarines",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "rome-beas-romeria-de-la-virgen-de-los-clarines",
+      "clave": "Akt4w+x"
+    },
+    {
+      "id": "fi-huelva-fiestas-colombinas",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "FIESTA",
+      "nombre": "Fiestas Colombinas",
+      "dia": null,
+      "anio": 2026,
+      "codigo": "fies-huelva-fiestas-colombinas",
+      "clave": "Qpj9g+p"
+    },
+    {
+      "id": "ss-huelva-hdad-bendicion",
+      "municipio": "Huelva",
+      "comarca": "Capital",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Bendición (Caifás)",
+      "nombre_oficial": "Asociación Parroquial de Ntro. Padre Jesús de la Bendición ante Caifás y María Santísima del Dulce Nombre y de la Paz",
+      "dia": "Sábado de Pasión",
+      "anio": 2026,
+      "pasos": [
+        "Ntro. Padre Jesús de la Bendición ante Caifás",
+        "María Stma. del Dulce Nombre y de la Paz"
+      ],
+      "codigo": "ss-huelva-hdad-bendicion",
+      "clave": "Zu2*unv"
+    }
+  ]
+}
