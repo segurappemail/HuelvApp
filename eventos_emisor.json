@@ -1,6 +1,6 @@
 {
   "_nota": "Catálogo del Emisor. Códigos y claves SIN año (sirven todos los años). La clave es corta (mayús+minús+símbolo). Si algún día quieres rotar el acceso, cambia las claves aquí y en el nodo /claves de Firebase. tipo: SEMANA_SANTA|CARNAVAL|CABALGATA_REYES|ROMERIA|FIESTA. Campo opcional 'icono' (emoji) para el pin.",
-  "version_catalogo": "2026.7",
+  "version_catalogo": "2026.28",
   "eventos": [
     {
       "id": "se-huelva-hdad-borriquita",
@@ -14,9 +14,21 @@
       "clave": "Bas6k*s",
       "nombre_oficial": "Devota Hermandad de la Entrada Triunfal de Jesús en Jerusalén y Nuestra Señora de los Ángeles",
       "pasos": [
-        "Entrada Triunfal de Jesús en Jerusalén",
-        "Nuestra Señora de los Ángeles"
-      ]
+        {
+          "nombre": "Entrada Triunfal de Jesús en Jerusalén",
+          "foto": "",
+          "autor": "Cristo: Antonio León Ortega (1947); demás figuras: Elías Rodríguez Picón",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Ángeles",
+          "foto": "",
+          "autor": "Antonio León Ortega (1949)",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de San Pedro",
+      "historia": "Fundada en los años cuarenta —su Cristo de la Entrada Triunfal fue bendecido el 6 de enero de 1947—, tiene su sede en la Parroquia Mayor de San Pedro. Su Virgen de los Ángeles (Antonio León Ortega, 1949) es la única dolorosa de la Semana Santa onubense cuyo rostro no muestra dolor."
     },
     {
       "id": "se-huelva-hdad-sagrada-cena",
@@ -30,9 +42,20 @@
       "clave": "Lut7n%j",
       "nombre_oficial": "Dominica, Real, Ilustre, Fervorosa y Primitiva Hermandad Sacramental y Cofradía de Nazarenos de la Sagrada Cena, Stmo. Cristo del Amor, Mª Stma. del Rosario y Santo Domingo de Guzmán",
       "pasos": [
-        "Sagrada Cena del Stmo. Cristo del Amor",
-        "María Stma. del Rosario en sus Misterios Dolorosos"
-      ]
+        {
+          "nombre": "Sagrada Cena del Stmo. Cristo del Amor",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Rosario en sus Misterios Dolorosos",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Fundada en 1948 por un grupo de funcionarios del Ayuntamiento de Huelva. Procesiona el Domingo de Ramos con el misterio de la Sagrada Cena en torno al Santísimo Cristo del Amor."
     },
     {
       "id": "se-huelva-hdad-redencion",
@@ -46,10 +69,26 @@
       "clave": "Bka6n?y",
       "nombre_oficial": "Hermandad de Nuestra Señora de los Desamparados y Seráfica Cofradía de Nazarenos del Stmo. Cristo de la Preciosa Sangre, Ntro. Padre Jesús de la Redención y Mª Stma. del Dulce Nombre",
       "pasos": [
-        "Stmo. Cristo de la Redención",
-        "Santo Cristo de la Preciosa Sangre",
-        "María Stma. del Dulce Nombre en su Mayor Aflicción"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Redención",
+          "foto": "",
+          "autor": "Elías Rodríguez Picón (2000)",
+          "historia": ""
+        },
+        {
+          "nombre": "Santo Cristo de la Preciosa Sangre",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Dulce Nombre en su Mayor Aflicción",
+          "foto": "",
+          "autor": "Elías Rodríguez Picón",
+          "historia": ""
+        }
+      ],
+      "historia": "Su Santísimo Cristo de la Redención fue tallado por Elías Rodríguez Picón en el año 2000. Realiza su estación de penitencia el Domingo de Ramos."
     },
     {
       "id": "se-huelva-hdad-mutilados",
@@ -63,9 +102,20 @@
       "clave": "Rrv7a#y",
       "nombre_oficial": "Real e Ilustre Hermandad y Cofradía de Nazarenos del Stmo. Cristo de la Victoria Despojado de sus Vestiduras, Ntra. Sra. de la Paz y San Rafael Arcángel",
       "pasos": [
-        "Stmo. Cristo de la Victoria (Despojado)",
-        "Nuestra Señora de la Paz"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Victoria (Despojado)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Paz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Conocida popularmente como la Hermandad de los Mutilados. Abre la Semana Santa el Domingo de Ramos con el Cristo de la Victoria (Despojado) y Nuestra Señora de la Paz."
     },
     {
       "id": "se-huelva-hdad-perdon",
@@ -79,9 +129,22 @@
       "clave": "Vai8y*s",
       "nombre_oficial": "Hermandad Sacramental de Culto, Penitencia y Caridad y Cofradía de Nazarenos del Stmo. Cristo del Perdón y Nuestra Señora de los Dolores",
       "pasos": [
-        "Stmo. Cristo del Perdón",
-        "Nuestra Señora de los Dolores"
-      ]
+        {
+          "nombre": "Stmo. Cristo del Perdón",
+          "foto": "",
+          "autor": "Juan Abascal Fuentes (1981)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Dolores",
+          "foto": "",
+          "autor": "Manuel Domínguez Rodríguez (1966)",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de Santa Teresa de Jesús (barrio de La Orden)",
+      "fundacion": "1984",
+      "historia": "Fundada en 1984, con sede en la Parroquia de Santa Teresa de Jesús (barrio de La Orden). Procesiona el Lunes Santo."
     },
     {
       "id": "se-huelva-hdad-cautivo",
@@ -95,9 +158,21 @@
       "clave": "Mwk4j?x",
       "nombre_oficial": "Hermandad de Penitencia de Nuestro Padre Jesús Cautivo y María Santísima de la Misericordia",
       "pasos": [
-        "Santo Cristo Cautivo",
-        "María Stma. Madre de la Misericordia"
-      ]
+        {
+          "nombre": "Santo Cristo Cautivo",
+          "foto": "",
+          "autor": "Antonio León Ortega (1985); remodelado por Francisco Márquez «El Cano» (1995)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. Madre de la Misericordia",
+          "foto": "",
+          "autor": "Enrique Pérez Saavedra (1984)",
+          "historia": ""
+        }
+      ],
+      "fundacion": "Refundada como hermandad de penitencia en 1985",
+      "historia": "Refundada como hermandad de penitencia en 1985. Su Santo Cristo Cautivo fue la última imagen que Antonio León Ortega talló para Huelva (1985)."
     },
     {
       "id": "se-huelva-hdad-calvario",
@@ -111,9 +186,21 @@
       "clave": "Njx6c+a",
       "nombre_oficial": "Posconciliar Hermandad y Seráfica Cofradía de San Francisco de Asís, Ntro. Padre Jesús del Calvario y Mª Stma. del Rocío y Esperanza",
       "pasos": [
-        "Ntro. Padre Jesús del Calvario",
-        "María Stma. del Rocío y Esperanza"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús del Calvario",
+          "foto": "",
+          "autor": "Antonio León Ortega (1973)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Rocío y Esperanza",
+          "foto": "",
+          "autor": "Sebastián Santos Rojas (1974)",
+          "historia": ""
+        }
+      ],
+      "fundacion": "1972 (barrio de las Colonias)",
+      "historia": "Cofradía de espíritu franciscano fundada en 1972, en el barrio de las Colonias. Sus titulares son el Cristo del Calvario (Antonio León Ortega, 1973) y la Virgen del Rocío y Esperanza (Sebastián Santos Rojas, 1974)."
     },
     {
       "id": "se-huelva-hdad-tres-caidas",
@@ -127,9 +214,20 @@
       "clave": "Nxu8t+m",
       "nombre_oficial": "Ilustre Hermandad de Ntro. Padre Jesús de las Penas en sus Tres Caídas, Mª Stma. del Amor y del Glorioso Apóstol Santiago",
       "pasos": [
-        "Ntro. Padre Jesús de las Penas en sus Tres Caídas",
-        "María Stma. del Amor"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús de las Penas en sus Tres Caídas",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Amor",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Sus titulares son Nuestro Padre Jesús de las Penas en sus Tres Caídas y María Santísima del Amor. Realiza su estación de penitencia el Lunes Santo."
     },
     {
       "id": "se-huelva-hdad-la-salud",
@@ -143,9 +241,20 @@
       "clave": "Fnm2w+e",
       "nombre_oficial": "Hermandad Sacramental y Cofradía de Nazarenos de Ntro. Padre Jesús de la Sentencia en su Presentación al Pueblo, Ntra. Sra. de la Salud y San Francisco de Asís",
       "pasos": [
-        "Ntro. Padre Jesús de la Sentencia",
-        "Nuestra Señora de la Salud"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús de la Sentencia",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Salud",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Su titular cristífero es Nuestro Padre Jesús de la Sentencia en su Presentación al Pueblo, acompañado de Nuestra Señora de la Salud. Procesiona el Martes Santo."
     },
     {
       "id": "se-huelva-hdad-lanzada",
@@ -159,9 +268,20 @@
       "clave": "Xyj6c+f",
       "nombre_oficial": "Devota y Fervorosa Hermandad de Caridad y Cofradía de Nazarenos del Stmo. Cristo de la Sagrada Lanzada, Mª Stma. del Patrocinio, San Juan Evangelista y Ntra. Sra. de los Dolores",
       "pasos": [
-        "Stmo. Cristo de la Sagrada Lanzada",
-        "Nuestra Señora de los Dolores"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Sagrada Lanzada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Hermandad de caridad cuyo titular es el Santísimo Cristo de la Sagrada Lanzada, junto a María Santísima del Patrocinio. Realiza su estación de penitencia el Martes Santo."
     },
     {
       "id": "se-huelva-hdad-estudiantes",
@@ -175,9 +295,22 @@
       "clave": "Vxy9z*p",
       "nombre_oficial": "Hermandad de Penitencia y Cofradía de Nazarenos del Stmo. Cristo de la Sangre, Ntra. Sra. del Valle, San Sebastián Mártir y Beata Ángela de la Cruz",
       "pasos": [
-        "Stmo. Cristo de la Sangre",
-        "Nuestra Señora del Valle"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Sangre",
+          "foto": "",
+          "autor": "Antonio León Ortega (1949)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora del Valle",
+          "foto": "",
+          "autor": "Antonio León Ortega (1957)",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de San Sebastián",
+      "fundacion": "1949",
+      "historia": "Fundada en 1949, con sede en la Parroquia de San Sebastián. Sus titulares, el Cristo de la Sangre (1949) y la Virgen del Valle (1957), son obra de Antonio León Ortega."
     },
     {
       "id": "se-huelva-hdad-pasion",
@@ -191,9 +324,20 @@
       "clave": "Vwx5b%y",
       "nombre_oficial": "Real e Ilustre Hermandad Sacramental de Ntro. Padre Jesús de la Pasión y María Santísima del Refugio",
       "pasos": [
-        "Ntro. Padre Jesús de la Pasión",
-        "María Stma. del Refugio"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús de la Pasión",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Refugio",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Hermandad sacramental cuyos titulares son Nuestro Padre Jesús de la Pasión y María Santísima del Refugio. Procesiona el Martes Santo."
     },
     {
       "id": "se-huelva-hdad-prendimiento-y-estrella",
@@ -207,9 +351,22 @@
       "clave": "Yyv6p&g",
       "nombre_oficial": "Carmelita Hermandad y Cofradía de Penitencia de Ntro. Padre Jesús del Prendimiento, Traicionado por Judas y María Santísima de la Estrella",
       "pasos": [
-        "Ntro. Padre Jesús del Prendimiento",
-        "María Stma. de la Estrella"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús del Prendimiento",
+          "foto": "",
+          "autor": "José Manuel Bonilla",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Estrella",
+          "foto": "",
+          "autor": "José Manuel Bonilla",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de Nuestra Señora del Carmen",
+      "fundacion": "1987 (primera salida en 1992)",
+      "historia": "Fundada en 1987, realizó su primera salida procesional en 1992. Tiene su sede en la Parroquia de Nuestra Señora del Carmen."
     },
     {
       "id": "se-huelva-hdad-santa-cruz",
@@ -223,9 +380,21 @@
       "clave": "Peh9r&x",
       "nombre_oficial": "Cofradía de la Santa Cruz, Santo Sudario de Ntro. Señor Jesucristo y María Santísima Madre de Gracia",
       "pasos": [
-        "Santo Sudario de Ntro. Señor Jesucristo",
-        "María Stma. Madre de Gracia"
-      ]
+        {
+          "nombre": "Santo Sudario de Ntro. Señor Jesucristo",
+          "foto": "",
+          "autor": "Cristo de la Providencia, de Mario Ignacio Moya Carrasco (2005)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. Madre de Gracia",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Catedral de la Merced",
+      "historia": "Una de las hermandades más jóvenes de la ciudad. Su Cristo titular es Nuestro Señor Jesús de la Providencia (Mario Ignacio Moya Carrasco, 2005) y realiza su salida desde la Catedral de la Merced."
     },
     {
       "id": "se-huelva-hdad-victoria",
@@ -239,9 +408,21 @@
       "clave": "Gwu6k#z",
       "nombre_oficial": "Real, Antigua, Ilustre y Fervorosa Hermandad del Sagrado Corazón de Jesús y Cofradía de Nazarenos de Ntro. Padre Jesús de la Humildad, Mª Stma. de la Victoria Coronada y San Juan Evangelista",
       "pasos": [
-        "Ntro. Padre Jesús de la Humildad (Despreciado de Herodes)",
-        "María Stma. de la Victoria Coronada"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús de la Humildad (Despreciado de Herodes)",
+          "foto": "",
+          "autor": "Antonio León Ortega (1942)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Victoria Coronada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Iglesia del Polvorín",
+      "historia": "Su titular, Jesús de la Humildad, es obra de Antonio León Ortega (bendecido en 1942). Realiza su estación de penitencia desde la zona de El Polvorín."
     },
     {
       "id": "se-huelva-hdad-esperanza",
@@ -255,9 +436,21 @@
       "clave": "Lgp9t@m",
       "nombre_oficial": "Real e Ilustre Hermandad Sacramental de San Francisco y Cofradía de Nazarenos del Stmo. Cristo de la Expiración, Mª Stma. del Mayor Dolor, San Juan Evangelista y Ntra. Sra. de la Esperanza Coronada",
       "pasos": [
-        "Stmo. Cristo de la Expiración",
-        "Nuestra Señora de la Esperanza Coronada"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Expiración",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Esperanza Coronada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Iglesia de San Francisco",
+      "historia": "Conocida, junto con la Victoria, como una de las 'dos Reinas' de la Semana Santa onubense. Procesiona el Miércoles Santo."
     },
     {
       "id": "se-huelva-hdad-vera-cruz-y-oracion",
@@ -271,10 +464,27 @@
       "clave": "Tte9u%t",
       "nombre_oficial": "Muy Antigua, Real, Ilustre y Seráfica Hermandad Sacramental y Archicofradía de Nazarenos de la Santa Vera Cruz, Sagrada Oración en el Huerto y Ntra. Madre y Señora de los Dolores Coronada",
       "pasos": [
-        "Sagrada Oración de Ntro. Señor en el Huerto",
-        "Cristo de la Vera Cruz",
-        "Ntra. Madre y Señora de los Dolores Coronada"
-      ]
+        {
+          "nombre": "Sagrada Oración de Ntro. Señor en el Huerto",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Cristo de la Vera Cruz",
+          "foto": "",
+          "autor": "Mariano Sánchez del Pino (2004)",
+          "historia": ""
+        },
+        {
+          "nombre": "Ntra. Madre y Señora de los Dolores Coronada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de la Purísima Concepción",
+      "historia": "Recoge la advocación de la Vera Cruz, la más antigua de la ciudad junto con el Santo Entierro. Perdida la imagen en 1936, el Cristo fue tallado de nuevo por Mariano Sánchez del Pino en 2004. Desde 2019 realiza una salida extraordinaria acompañado de la Legión el Sábado de Pasión."
     },
     {
       "id": "se-huelva-hdad-misericordia",
@@ -288,9 +498,21 @@
       "clave": "Mhi3y@t",
       "nombre_oficial": "Hermandad de Culto y Apostolado del Dulce Nombre de Jesús y Cofradía de Penitencia del Santo Cristo de la Misericordia, Mª Stma. de la Concepción y San Juan Evangelista",
       "pasos": [
-        "Santo Cristo de la Misericordia",
-        "María Stma. de la Concepción"
-      ]
+        {
+          "nombre": "Santo Cristo de la Misericordia",
+          "foto": "",
+          "autor": "Gabriel Cuadrado Díaz (1983)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Concepción",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Capilla de la Misericordia",
+      "historia": "Su Santo Cristo de la Misericordia es obra de Gabriel Cuadrado Díaz (1983). Se recoge en la Capilla de la Misericordia."
     },
     {
       "id": "se-huelva-hdad-buena-muerte",
@@ -304,9 +526,20 @@
       "clave": "Wyk3r+h",
       "nombre_oficial": "Ilustre y Agustiniana Hermandad del Stmo. Cristo de la Buena Muerte y Nuestra Madre de la Consolación y Correa en sus Dolores",
       "pasos": [
-        "Stmo. Cristo de la Buena Muerte",
-        "Ntra. Madre de la Consolación y Correa"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "Joaquín Gómez del Castillo (1941)",
+          "historia": ""
+        },
+        {
+          "nombre": "Ntra. Madre de la Consolación y Correa",
+          "foto": "",
+          "autor": "Joaquín Gómez del Castillo (1940)",
+          "historia": ""
+        }
+      ],
+      "historia": "Hermandad de raíz agustiniana cuyas imágenes —el Cristo de la Buena Muerte (1941) y la Virgen de la Consolación y Correa (1940)— son obra de Joaquín Gómez del Castillo."
     },
     {
       "id": "se-huelva-hdad-los-judios",
@@ -320,10 +553,27 @@
       "clave": "Jvk8h?a",
       "nombre_oficial": "Real, Ilustre, Venerable y Capitular Hermandad Sacramental de Ntra. Sra. de la Merced y Cofradía de Nazarenos de Ntro. Padre Jesús de las Cadenas, Stmo. Cristo de Jerusalén y Buen Viaje y Mª Stma. de los Dolores",
       "pasos": [
-        "Ntro. Padre Jesús de las Cadenas",
-        "Stmo. Cristo de Jerusalén y Buen Viaje",
-        "María Stma. de los Dolores"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús de las Cadenas",
+          "foto": "",
+          "autor": "Anónimo del siglo XVII (atribuido a la escuela gaditano-genovesa)",
+          "historia": ""
+        },
+        {
+          "nombre": "Stmo. Cristo de Jerusalén y Buen Viaje",
+          "foto": "",
+          "autor": "Anónimo del siglo XVII",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de los Dolores",
+          "foto": "",
+          "autor": "Anónimo, atribuido a Jacome Vacaro (2ª mitad del s. XVIII)",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de Nuestra Señora de la Merced",
+      "historia": "Custodia algunas de las imágenes más antiguas de la ciudad: el Cristo de Jesús de las Cadenas y el Cristo de Jerusalén y Buen Viaje (anónimos del s. XVII) y la Virgen de los Dolores (atribuida a Jacome Vacaro, s. XVIII). Tiene su sede en la Parroquia de Nuestra Señora de la Merced."
     },
     {
       "id": "se-huelva-hdad-nazareno",
@@ -337,9 +587,22 @@
       "clave": "Mej7a+q",
       "nombre_oficial": "Muy Antigua, Venerable y Real Hermandad de Penitencia y Cofradía de Nazarenos de Ntro. Padre Jesús Nazareno, Santa Cruz en Jerusalén, Mª Stma. de la Amargura, San Juan Evangelista y San Francisco de Paula",
       "pasos": [
-        "Ntro. Padre Jesús Nazareno",
-        "María Stma. de la Amargura Coronada"
-      ]
+        {
+          "nombre": "Ntro. Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Amargura Coronada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de la Inmaculada Concepción",
+      "fundacion": "1583 (en el desaparecido Convento de la Victoria)",
+      "historia": "Una de las cofradías más antiguas de la ciudad, fundada en 1583 en el desaparecido Convento de la Victoria. Tiene su sede en la Parroquia de la Inmaculada Concepción y procesiona en la Madrugá."
     },
     {
       "id": "se-huelva-hdad-la-fe",
@@ -353,9 +616,22 @@
       "clave": "Jah7k&k",
       "nombre_oficial": "Ilustre Hermandad de Penitencia y Cofradía de Apostolado del Stmo. Cristo de la Fe y María Santísima de la Caridad",
       "pasos": [
-        "Stmo. Cristo de la Fe",
-        "Nuestra Señora de la Caridad"
-      ]
+        {
+          "nombre": "Stmo. Cristo de la Fe",
+          "foto": "",
+          "autor": "Antonio León Ortega (1975)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Caridad",
+          "foto": "",
+          "autor": "José Méndez González",
+          "historia": ""
+        }
+      ],
+      "sede": "Parroquia de Santa María Madre de la Iglesia (Viaplana)",
+      "fundacion": "1988",
+      "historia": "Fundada en 1988, con sede en la Parroquia de Santa María Madre de la Iglesia (barrio de Viaplana). Su Cristo de la Fe es obra de Antonio León Ortega (1975)."
     },
     {
       "id": "se-huelva-hdad-descendimiento",
@@ -369,9 +645,20 @@
       "clave": "Zfw8n@r",
       "nombre_oficial": "Hermandad de Penitencia y Cofradía de Nazarenos del Sagrado Descendimiento de Ntro. Señor Jesucristo, Ntra. Sra. del Calvario, San Juan Evangelista y Mª Stma. en la Resignación de sus Dolores",
       "pasos": [
-        "Sagrado Descendimiento de Ntro. Señor Jesucristo",
-        "María Stma. de la Resignación en sus Dolores"
-      ]
+        {
+          "nombre": "Sagrado Descendimiento de Ntro. Señor Jesucristo",
+          "foto": "",
+          "autor": "Antonio León Ortega (1952)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Resignación en sus Dolores",
+          "foto": "",
+          "autor": "Antonio León Ortega (1952); restaurada por Luis Álvarez Duarte (1995)",
+          "historia": ""
+        }
+      ],
+      "historia": "Su misterio del Sagrado Descendimiento es obra de Antonio León Ortega (1952); la Virgen de la Resignación, del mismo autor, fue restaurada por Luis Álvarez Duarte en 1995."
     },
     {
       "id": "se-huelva-hdad-santo-entierro",
@@ -385,10 +672,26 @@
       "clave": "Lck4y?s",
       "nombre_oficial": "Antigua, Real e Ilustre Hermandad del Santo Entierro de Cristo, Nuestra Señora de las Angustias y María Santísima de la Soledad",
       "pasos": [
-        "Santo Entierro de Cristo",
-        "Nuestra Señora de las Angustias",
-        "Soledad de María"
-      ]
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de las Angustias",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Soledad de María",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Es la cofradía oficial de la Semana Santa de Huelva. Tiene su sede en una ermita del siglo XVI, uno de los templos más antiguos de la ciudad, y la hermandad ya aparece documentada en esa centuria."
     },
     {
       "id": "se-huelva-hdad-el-silencio",
@@ -402,8 +705,14 @@
       "clave": "Pqs9k%y",
       "nombre_oficial": "Real e Ilustre Hermandad de Penitencia y Cofradía de Nazarenos de Nuestra Señora en su Soledad",
       "pasos": [
-        "Nuestra Señora en su Soledad"
-      ]
+        {
+          "nombre": "Nuestra Señora en su Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Cierra el Viernes Santo onubense con una estación de penitencia marcada por el recogimiento y el silencio."
     },
     {
       "id": "se-huelva-hdad-resucitado",
@@ -417,9 +726,20 @@
       "clave": "Wwn4i#v",
       "nombre_oficial": "Hermandad de la Sagrada Resurrección de Ntro. Señor Jesucristo y María Santísima de la Luz",
       "pasos": [
-        "Sagrada Resurrección de Ntro. Señor Jesucristo",
-        "María Stma. de la Luz"
-      ]
+        {
+          "nombre": "Sagrada Resurrección de Ntro. Señor Jesucristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. de la Luz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "historia": "Pone el broche de oro a la Semana Santa de Huelva el Domingo de Resurrección. Históricamente vinculada a los barrios de la Hispanidad y Verdeluz, en 2026 procesionó por primera vez por el centro de la ciudad."
     },
     {
       "id": "se-huelva-hdad-el-prado",
@@ -433,8 +753,17 @@
       "clave": "Jcn3n%p",
       "nombre_oficial": "Hermandad de Penitencia de Nuestra Señora del Prado en su Dolor",
       "pasos": [
-        "Nuestra Señora del Prado en su Dolor"
-      ]
+        {
+          "nombre": "Nuestra Señora del Prado en su Dolor",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "foto": "",
+      "sede": "Capilla propia en la Parroquia de San Pablo Apóstol (barrio de El Higueral)",
+      "fundacion": "2009 (erigida Hermandad de Penitencia el 11 de noviembre de 2019)",
+      "historia": "Nació en 2009 como Asociación Cultural Cofrade en el barrio de El Higueral; fue Asociación Parroquial en 2017 y el 11 de noviembre de 2019 el obispo José Vilaplana la erigió como Hermandad de Penitencia. Su titular, Nuestra Señora del Prado en su Dolor (Rubén Fernández Parra, 2009), toma su advocación de la Patrona de Higuera de la Sierra. Procesiona el Viernes de Dolores por la Barriada del Higueral desde la parroquia de San Pablo, con el proyecto futuro de incorporar el misterio de las Negaciones de San Pedro."
     },
     {
       "id": "se-ayamonte-hdad-humildad-y-estrella",
@@ -445,7 +774,26 @@
       "dia": "Viernes de Dolores",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-humildad-y-estrella",
-      "clave": "Dnc2s+t"
+      "clave": "Dnc2s+t",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús de la Humildad ante Pilato",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Estrella",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestro Padre Jesús de la Humildad ante Pilato, María Santísima de la Estrella y San Juan Evangelista"
     },
     {
       "id": "se-ayamonte-hdad-sagrada-lanzada-y-esperanza-del-mar",
@@ -453,10 +801,29 @@
       "comarca": "Costa",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. Sagrada Lanzada y Esperanza del Mar",
-      "dia": null,
+      "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-sagrada-lanzada-y-esperanza-del-mar",
-      "clave": "Lcn9q#b"
+      "clave": "Lcn9q#b",
+      "foto": "",
+      "sede": "Parroquia de Nuestra Señora de las Angustias",
+      "fundacion": "1918",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Sagrada Lanzada",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Esperanza del Mar (palio)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Real, Antigua, Ilustre y Fervorosa Hermandad y Cofradía de Nazarenos de la Sagrada Lanzada y María Santísima de la Esperanza del Mar"
     },
     {
       "id": "se-ayamonte-hdad-cristo-de-la-victoria-pasion-y-paz",
@@ -464,10 +831,35 @@
       "comarca": "Costa",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. Cristo de la Victoria, Pasión y Paz",
-      "dia": null,
+      "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-cristo-de-la-victoria-pasion-y-paz",
-      "clave": "Ere9n@k"
+      "clave": "Ere9n@k",
+      "foto": "",
+      "sede": "",
+      "fundacion": "1940",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Victoria",
+          "foto": "",
+          "autor": "Talleres de Olot (1940)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestro Padre Jesús de la Pasión",
+          "foto": "",
+          "autor": "Antonio León Ortega (1942)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Paz",
+          "foto": "",
+          "autor": "Antonio León Ortega (1944)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad y Cofradía del Santísimo Cristo de la Victoria, Nuestro Padre Jesús de la Pasión y María Santísima de la Paz"
     },
     {
       "id": "se-ayamonte-hdad-del-salvador-oracion-en-el-huerto",
@@ -475,10 +867,35 @@
       "comarca": "Costa",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. del Salvador (Oración en el Huerto)",
-      "dia": null,
+      "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-del-salvador-oracion-en-el-huerto",
-      "clave": "Afd8g&x"
+      "clave": "Afd8g&x",
+      "foto": "",
+      "sede": "",
+      "fundacion": "1918",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús en la Oración en el Huerto",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestro Padre Jesús Caído",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Amargura",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Real, Ilustre y Muy Antigua Hermandad Sacramental del Salvador y Cofradía de Penitencia de la Oración en el Huerto, Nuestro Padre Jesús Caído y Nuestra Señora de la Amargura"
     },
     {
       "id": "se-ayamonte-hdad-jesus-cautivo",
@@ -486,10 +903,35 @@
       "comarca": "Costa",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. Jesús Cautivo",
-      "dia": null,
+      "dia": "Lunes Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-jesus-cautivo",
-      "clave": "Tpj4u@e"
+      "clave": "Tpj4u@e",
+      "foto": "",
+      "sede": "",
+      "fundacion": "1971",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús Cautivo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima del Rosario",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Real Hermandad de Jesús Cautivo, Cristo de la Buena Muerte y María Santísima del Rosario"
     },
     {
       "id": "se-ayamonte-hdad-nazareno-y-socorro",
@@ -500,7 +942,26 @@
       "dia": "Madrugá",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-nazareno-y-socorro",
-      "clave": "Yij5k&z"
+      "clave": "Yij5k&z",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "La Virgen del Socorro se atribuye a Giacome Valandi (hacia 1600). Procesiona en la Madrugá del Viernes Santo, acompañada por el pueblo y sin cortejo.",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima del Socorro",
+          "foto": "",
+          "autor": "atribuida a Giacome Valandi (h. 1600)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Cofradía de Nuestro Padre Jesús Nazareno y María Santísima del Socorro"
     },
     {
       "id": "se-ayamonte-hdad-santo-entierro-y-mayor-dolor",
@@ -511,7 +972,32 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-santo-entierro-y-mayor-dolor",
-      "clave": "Hpt5u@k"
+      "clave": "Hpt5u@k",
+      "foto": "",
+      "sede": "Iglesia de Nuestra Señora de las Angustias",
+      "fundacion": "1894",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Descendimiento de la Cruz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora del Mayor Dolor",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Pontificia, Real e Ilustre Hermandad Sacramental y Archicofradía de Nazarenos del Santo Entierro, Descendimiento de la Cruz y Nuestra Señora del Mayor Dolor"
     },
     {
       "id": "se-ayamonte-hdad-vera-cruz-y-soledad",
@@ -522,7 +1008,32 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-vera-cruz-y-soledad",
-      "clave": "Ewg4i?d"
+      "clave": "Ewg4i?d",
+      "foto": "",
+      "sede": "Templo de San Francisco",
+      "fundacion": "1550",
+      "historia": "La cofradía más antigua de Ayamonte. El Cristo Yacente (atribuido a Ocampo, s. XVI) fue reconstruido por Antonio León Ortega en 1937.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vera Cruz",
+          "foto": "",
+          "autor": "Antonio León Ortega (1941)",
+          "historia": ""
+        },
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "Anónimo (s. XVI); recompuesto por Antonio León Ortega (1937)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima en su Soledad",
+          "foto": "",
+          "autor": "restaurada por Antonio Castillo Lastrucci (1939)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua, Real e Ilustre Hermandad Franciscana de Penitencia de la Vera Cruz, Santo Entierro de Cristo y María Santísima en su Soledad"
     },
     {
       "id": "se-ayamonte-hdad-jesus-resucitado",
@@ -533,7 +1044,26 @@
       "dia": "Domingo de Resurrección",
       "anio": 2026,
       "codigo": "ss-ayamonte-hdad-jesus-resucitado",
-      "clave": "Cdn9x+z"
+      "clave": "Cdn9x+z",
+      "foto": "",
+      "sede": "",
+      "fundacion": "1990",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús Resucitado",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Victoria",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Jesús Resucitado y María Santísima de la Victoria"
     },
     {
       "id": "se-la-palma-del-condado-hdad-cristo-del-perdon",
@@ -544,7 +1074,26 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-la-palma-del-condado-hdad-cristo-del-perdon",
-      "clave": "Xss2r#k"
+      "clave": "Xss2r#k",
+      "foto": "",
+      "sede": "Ermita de San Sebastián",
+      "fundacion": "Siglo XVII (como Hdad. de Ánimas); refundada penitencial en 1948",
+      "historia": "Abre la Semana Santa palmerina el Domingo de Ramos.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo del Perdón y María Santísima de la Soledad",
+          "foto": "",
+          "autor": "Cristo: Luis Álvarez Duarte (1982); Soledad: atrib. Gabriel de Astorga (s. XIX)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Amargura (palio)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Santísimo Cristo del Perdón, María Santísima de la Soledad, Nuestra Señora de la Amargura, Ánimas Benditas del Purgatorio, Santa Ángela de la Cruz y San Sebastián Mártir"
     },
     {
       "id": "se-la-palma-del-condado-hdad-jesus-cautivo",
@@ -555,7 +1104,26 @@
       "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-la-palma-del-condado-hdad-jesus-cautivo",
-      "clave": "Hjy9v+k"
+      "clave": "Hjy9v+k",
+      "foto": "",
+      "sede": "Iglesia de San Juan Bautista",
+      "fundacion": "1940",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo Cautivo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Madre y Señora de las Lágrimas (palio)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Fervorosa Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús Cautivo, Nuestra Madre y Señora de las Lágrimas, San Juan Evangelista y Santa María de la Purísima de la Cruz"
     },
     {
       "id": "se-la-palma-del-condado-hdad-nuestro-padre-jesus-nazareno",
@@ -566,7 +1134,26 @@
       "dia": "Madrugá",
       "anio": 2026,
       "codigo": "ss-la-palma-del-condado-hdad-nuestro-padre-jesus-nazareno",
-      "clave": "Pek4g%s"
+      "clave": "Pek4g%s",
+      "foto": "",
+      "sede": "Iglesia del Valle",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima del Socorro",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua, Venerable, Piadosa y Fervorosa Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús Nazareno, María Santísima del Socorro y San Juan Evangelista"
     },
     {
       "id": "se-la-palma-del-condado-hdad-santo-entierro-y-ma-stma-de-los-dolores",
@@ -577,7 +1164,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-la-palma-del-condado-hdad-santo-entierro-y-ma-stma-de-los-dolores",
-      "clave": "Vcb8b&j"
+      "clave": "Vcb8b&j",
+      "foto": "",
+      "sede": "Iglesia de San Juan Bautista",
+      "fundacion": "Erigida canónicamente en 2001",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua y Fervorosa Hermandad y Cofradía de Nazarenos del Santo Entierro, Santísimo Cristo de la Buena Muerte y María Santísima de los Dolores"
     },
     {
       "id": "se-isla-cristina-hdad-de-la-mulita",
@@ -610,7 +1216,26 @@
       "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-cristo-de-la-buena-muerte",
-      "clave": "Crc7m+k"
+      "clave": "Crc7m+k",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Amargura",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Fervorosa Hermandad de Penitencia y Cofradía de Nazarenos del Santísimo Cristo de la Buena Muerte y María Santísima de la Amargura, Bendito Patriarca Señor San José y Jesús Niño"
     },
     {
       "id": "se-isla-cristina-hdad-de-la-flagelacion",
@@ -632,7 +1257,26 @@
       "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-del-cautivo",
-      "clave": "Znw4t%i"
+      "clave": "Znw4t%i",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Cautivo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Paz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Fervorosa Hermandad de la Inmaculada Concepción y Cofradía de Nazarenos de Nuestro Padre Jesús Cautivo y Nuestra Señora de la Paz"
     },
     {
       "id": "se-isla-cristina-hdad-del-gran-poder",
@@ -643,7 +1287,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-del-gran-poder",
-      "clave": "Dgz3k?y"
+      "clave": "Dgz3k?y",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús del Gran Poder y Misericordia",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de las Mercedes",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Fervorosa e Ilustre Hermandad Sacramental y Primitiva Cofradía de Nazarenos de Nuestro Padre Jesús del Gran Poder y Misericordia, María Santísima de las Mercedes y San Juan Evangelista"
     },
     {
       "id": "se-isla-cristina-hdad-cristo-de-la-vida",
@@ -654,7 +1317,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-cristo-de-la-vida",
-      "clave": "Siq4c&d"
+      "clave": "Siq4c&d",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vida",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Ilustre y Fervorosa Hermandad Sacramental y Cofradía de Nazarenos del Santísimo Cristo de la Vida y María Santísima de los Dolores"
     },
     {
       "id": "se-isla-cristina-hdad-piedad-y-santo-entierro",
@@ -665,7 +1347,32 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-piedad-y-santo-entierro",
-      "clave": "Rij8z#f"
+      "clave": "Rij8z#f",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo del Amor",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Piedad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de la Vera Cruz y Cofradía del Santísimo Cristo del Amor, Nuestra Señora de la Piedad y Santo Entierro de Nuestro Señor Jesucristo"
     },
     {
       "id": "se-isla-cristina-hdad-de-la-soledad",
@@ -676,7 +1383,20 @@
       "dia": "Sábado Santo",
       "anio": 2026,
       "codigo": "ss-isla-cristina-hdad-de-la-soledad",
-      "clave": "Yzq3w&t"
+      "clave": "Yzq3w&t",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "María Santísima de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestra Señora María Santísima de la Soledad"
     },
     {
       "id": "se-isla-cristina-hdad-cristo-resucitado",
@@ -698,7 +1418,26 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-aracena-hdad-de-la-borriquita",
-      "clave": "Ugx8i&b"
+      "clave": "Ugx8i&b",
+      "foto": "",
+      "sede": "Iglesia del Carmen",
+      "fundacion": "1984 (la antigua Hermandad de San Blas procede del s. XV)",
+      "historia": "Cofradía carmelitana que integra a la antigua Hermandad de San Blas, patrón de Aracena (s. XV). La Borriquita se erigió en 1984.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo del Amor",
+          "foto": "",
+          "autor": "Juan Manuel Miñarro López (1991)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Candelaria",
+          "foto": "",
+          "autor": "Juan Manuel Miñarro López (1995)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Venerable, Ilustre y Carmelitana Hermandad de Nazarenos de la Sagrada Entrada de Jesús en Jerusalén, Cristo del Amor, María Santísima de la Candelaria, y Cofradía de San Blas, Obispo y Mártir, Patrono de la ciudad de Aracena"
     },
     {
       "id": "se-aracena-hdad-del-redentor-cautivo",
@@ -709,7 +1448,20 @@
       "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-aracena-hdad-del-redentor-cautivo",
-      "clave": "Lcs7f+z"
+      "clave": "Lcs7f+z",
+      "foto": "",
+      "sede": "",
+      "fundacion": "30 de marzo de 1989",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Divino Redentor Cautivo",
+          "foto": "",
+          "autor": "Jesús Santos Calero (1991)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Humilde y Venerable Hermandad del Divino Redentor Cautivo y María Santísima de los Desamparados"
     },
     {
       "id": "se-aracena-hdad-de-la-vera-cruz",
@@ -720,7 +1472,26 @@
       "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-aracena-hdad-de-la-vera-cruz",
-      "clave": "Xdb7i+e"
+      "clave": "Xdb7i+e",
+      "foto": "",
+      "sede": "",
+      "fundacion": "Siglo XV (primera cita conocida en 1565)",
+      "historia": "Una de las cofradías más antiguas de la provincia. Procesiona el Jueves Santo.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Sangre",
+          "foto": "",
+          "autor": "Antonio León Ortega (1943)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora del Mayor Dolor Coronada",
+          "foto": "",
+          "autor": "Sebastián Santos Rojas (1960)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Primitiva, Real, Pontificia, Venerable e Ilustre Hermandad y Cofradía de Nazarenos de la Santa Vera-Cruz, Santísimo Cristo de la Sangre y Nuestra Señora del Mayor Dolor Coronada, Patrona de Aracena"
     },
     {
       "id": "se-aracena-hdad-nuestro-padre-jesus-nazareno",
@@ -731,7 +1502,26 @@
       "dia": "Madrugá",
       "anio": 2026,
       "codigo": "ss-aracena-hdad-nuestro-padre-jesus-nazareno",
-      "clave": "Lrt5k@p"
+      "clave": "Lrt5k@p",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Amargura",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Ilustre, Venerable, Real y Pontificia Cofradía de Nuestro Padre Jesús Nazareno, María Santísima de la Amargura y San Juan Evangelista"
     },
     {
       "id": "se-moguer-hdad-de-la-borriquita",
@@ -742,7 +1532,26 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-de-la-borriquita",
-      "clave": "Hum9c&f"
+      "clave": "Hum9c&f",
+      "foto": "",
+      "sede": "Convento de San Francisco",
+      "fundacion": "1952",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús en su Triunfal Entrada en Jerusalén",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Esperanza",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Ilustre y Franciscana Hermandad y Cofradía de Nazarenos de la Triunfal Entrada de Jesús en Jerusalén y María Santísima de la Esperanza"
     },
     {
       "id": "se-moguer-hdad-cristo-de-los-remedios",
@@ -753,7 +1562,26 @@
       "dia": "Lunes Santo",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-cristo-de-los-remedios",
-      "clave": "Fba9h@g"
+      "clave": "Fba9h@g",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Cristo de los Remedios",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora del Santo Rosario",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad y Cofradía de Nazarenos del Santo Cristo de los Remedios y Nuestra Señora del Santo Rosario"
     },
     {
       "id": "se-moguer-hdad-cristo-de-la-sangre",
@@ -764,7 +1592,20 @@
       "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-cristo-de-la-sangre",
-      "clave": "Nth7x+m"
+      "clave": "Nth7x+m",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "El via crucis del Cristo de la Sangre (imagen de 1936), uno de los desfiles más sobrios de Moguer, pertenece a la hermandad nacida en 1968 de la fusión de la Borriquita (1952) y la antigua Cofradía de la Sangre (s. XVII).",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Sangre",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Ilustre y Franciscana Hermandad y Cofradía de Nazarenos de la Triunfal Entrada de Jesús en Jerusalén, Santísimo Cristo de la Sangre y María Santísima de la Esperanza"
     },
     {
       "id": "se-moguer-hdad-cristo-de-la-victoria",
@@ -775,7 +1616,26 @@
       "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-cristo-de-la-victoria",
-      "clave": "Axp8x%z"
+      "clave": "Axp8x%z",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "Cofradía franciscana. Procesiona el Miércoles Santo.",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús de la Victoria",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Paz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Real, Ilustre y Franciscana Cofradía de Nuestro Padre Jesús de la Victoria, María Santísima de la Paz y San Juan Evangelista"
     },
     {
       "id": "se-moguer-hdad-cristo-del-amor",
@@ -797,7 +1657,26 @@
       "dia": "Madrugá",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-nuestro-padre-jesus-nazareno-y-dolores",
-      "clave": "Kxd4h?c"
+      "clave": "Kxd4h?c",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "Conocida popularmente como Padre Jesús. Redactó sus primeros estatutos en 1671, aunque ya entonces se aludía a una tradición previa, por lo que se le supone mayor antigüedad.",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora Madre de Dios de Gracia (Virgen de los Dolores)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua, Fervorosa, Venerable, Franciscana, Real y Muy Ilustre Hermandad de Penitencia y Cofradía de Nazarenos de Nuestro Padre Jesús Nazareno, Santísima Cruz de Jerusalén, Nuestra Señora Madre de Dios de Gracia (Virgen de los Dolores) y San Juan Evangelista"
     },
     {
       "id": "se-moguer-hdad-de-la-vera-cruz",
@@ -808,7 +1687,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-de-la-vera-cruz",
-      "clave": "Uag7j#u"
+      "clave": "Uag7j#u",
+      "foto": "",
+      "sede": "",
+      "fundacion": "Decana de Moguer (documentada en 1573); fusionada con el Santo Entierro en 1867",
+      "historia": "Hermandad decana de Moguer. El actual Cristo de la Vera-Cruz es obra de Joaquín Moreno Daza (1989) y la Virgen de la Soledad data de 1972.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vera-Cruz",
+          "foto": "",
+          "autor": "Joaquín Moreno Daza (1989)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Soledad",
+          "foto": "",
+          "autor": "imagen de 1972",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua, Fervorosa, Venerable, Real, Ilustre y Franciscana Hermandad del Santísimo Cristo de la Vera-Cruz y Nuestra Señora de la Soledad"
     },
     {
       "id": "se-moguer-hdad-de-la-soledad",
@@ -819,7 +1717,20 @@
       "dia": "Sábado Santo",
       "anio": 2026,
       "codigo": "ss-moguer-hdad-de-la-soledad",
-      "clave": "Sai4i&k"
+      "clave": "Sai4i&k",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "Es la salida del Viernes Santo de la hermandad decana de Moguer (Vera-Cruz y Soledad).",
+      "pasos": [
+        {
+          "nombre": "Nuestra Señora de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Antigua, Fervorosa, Venerable, Real, Ilustre y Franciscana Hermandad del Santísimo Cristo de la Vera-Cruz y Nuestra Señora de la Soledad"
     },
     {
       "id": "se-valverde-del-camino-hdad-de-la-borriquita-cristo-del-amor",
@@ -830,7 +1741,26 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-valverde-del-camino-hdad-de-la-borriquita-cristo-del-amor",
-      "clave": "Liw7d?b"
+      "clave": "Liw7d?b",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo del Amor en su Entrada Triunfal",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Paz y Esperanza",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Santísimo Cristo del Amor en su Sagrada Entrada Triunfal en Jerusalén, María Santísima de la Paz y Esperanza y Santa Cruz del Barrio"
     },
     {
       "id": "se-valverde-del-camino-hdad-cristo-de-la-buena-muerte",
@@ -841,7 +1771,20 @@
       "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-valverde-del-camino-hdad-cristo-de-la-buena-muerte",
-      "clave": "Usi2w+q"
+      "clave": "Usi2w+q",
+      "foto": "",
+      "sede": "Casa de Hermandad de los Blancos — Parroquia de Ntra. Sra. del Reposo",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestro Padre Jesús Nazareno, Santo Cristo de la Buena Muerte y María Santísima de los Dolores"
     },
     {
       "id": "se-valverde-del-camino-hdad-jesus-nazareno-y-ma-stma-de-los-dolores",
@@ -852,7 +1795,26 @@
       "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-valverde-del-camino-hdad-jesus-nazareno-y-ma-stma-de-los-dolores",
-      "clave": "Mhd4m*g"
+      "clave": "Mhd4m*g",
+      "foto": "",
+      "sede": "Casa de Hermandad de los Blancos — Parroquia de Ntra. Sra. del Reposo",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestro Padre Jesús Nazareno, Santo Cristo de la Buena Muerte y María Santísima de los Dolores"
     },
     {
       "id": "se-valverde-del-camino-hdad-de-las-tres-caidas",
@@ -863,7 +1825,20 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-valverde-del-camino-hdad-de-las-tres-caidas",
-      "clave": "Rzd2f%y"
+      "clave": "Rzd2f%y",
+      "foto": "",
+      "sede": "Ermita de San Sebastián",
+      "fundacion": "",
+      "historia": "Conocida como 'los Negros'. Continúa la tradicional cofradía valverdeña de capiruchos negros, con reglas redactadas en 1883.",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús de las Tres Caídas",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nazarenos de Nuestro Padre Jesús de las Tres Caídas y Primitiva Cofradía de Jesús del Santo Entierro y María Santísima de la Soledad"
     },
     {
       "id": "se-valverde-del-camino-hdad-santo-entierro-y-soledad-los-negros",
@@ -874,7 +1849,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-valverde-del-camino-hdad-santo-entierro-y-soledad-los-negros",
-      "clave": "Fej9y?f"
+      "clave": "Fej9y?f",
+      "foto": "",
+      "sede": "Ermita de San Sebastián",
+      "fundacion": "",
+      "historia": "Conocida como 'los Negros'. Continúa la tradicional cofradía valverdeña de capiruchos negros, con reglas redactadas en 1883.",
+      "pasos": [
+        {
+          "nombre": "Jesús del Santo Entierro",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nazarenos de Nuestro Padre Jesús de las Tres Caídas y Primitiva Cofradía de Jesús del Santo Entierro y María Santísima de la Soledad"
     },
     {
       "id": "se-bollullos-par-del-condado-hdad-de-jesus-cautivo",
@@ -885,7 +1879,26 @@
       "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-bollullos-par-del-condado-hdad-de-jesus-cautivo",
-      "clave": "Qit7q*k"
+      "clave": "Qit7q*k",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Cautivo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Victoria",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Dominica, Humilde, Fervorosa e Ilustre Hermandad y Cofradía de Nazarenos de la Santa Cruz de Jerusalén, Nuestro Padre Jesús Cautivo, Nuestra Señora de la Victoria, María Santísima del Rosario, San Juan Evangelista y Santo Domingo de Guzmán"
     },
     {
       "id": "se-bollullos-par-del-condado-hdad-del-prendimiento",
@@ -893,21 +1906,29 @@
       "comarca": "Condado",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. del Prendimiento",
-      "dia": null,
+      "dia": "Lunes Santo",
       "anio": 2026,
       "codigo": "ss-bollullos-par-del-condado-hdad-del-prendimiento",
-      "clave": "Vgt3a&u"
-    },
-    {
-      "id": "se-bollullos-par-del-condado-hdad-del-santo-entierro",
-      "municipio": "Bollullos Par del Condado",
-      "comarca": "Condado",
-      "tipo": "SEMANA_SANTA",
-      "nombre": "Hdad. del Santo Entierro",
-      "dia": null,
-      "anio": 2026,
-      "codigo": "ss-bollullos-par-del-condado-hdad-del-santo-entierro",
-      "clave": "Wjy2i#b"
+      "clave": "Vgt3a&u",
+      "foto": "",
+      "sede": "Iglesia de María Auxiliadora",
+      "fundacion": "Erigida canónicamente el 6 de marzo de 2002",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús en su Prendimiento",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Amargura",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús en su Prendimiento y María Santísima de la Amargura"
     },
     {
       "id": "se-bollullos-par-del-condado-hdad-de-la-vera-cruz",
@@ -915,10 +1936,29 @@
       "comarca": "Condado",
       "tipo": "SEMANA_SANTA",
       "nombre": "Hdad. de la Vera Cruz",
-      "dia": null,
+      "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-bollullos-par-del-condado-hdad-de-la-vera-cruz",
-      "clave": "Aih7f&i"
+      "clave": "Aih7f&i",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vera Cruz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de la Esperanza",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Fervorosa Hermandad del Santísimo Cristo de la Vera Cruz y Nuestra Señora de la Esperanza"
     },
     {
       "id": "se-lepe-hdad-cristo-de-la-misericordia",
@@ -940,7 +1980,26 @@
       "dia": null,
       "anio": 2026,
       "codigo": "ss-lepe-hdad-nuestro-padre-jesus-nazareno-y-angustias",
-      "clave": "Gjx5s&x"
+      "clave": "Gjx5s&x",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de las Angustias",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Antigua, Ilustre y Fervorosa Hermandad y Cofradía de Nuestro Padre Jesús Nazareno, María Santísima de las Angustias, Jesús en su Entrada Triunfal en Jerusalén, Nuestro Señor Cautivo y Nuestra Señora de la Paz"
     },
     {
       "id": "se-lepe-hdad-cristo-de-la-salud",
@@ -951,7 +2010,26 @@
       "dia": null,
       "anio": 2026,
       "codigo": "ss-lepe-hdad-cristo-de-la-salud",
-      "clave": "Vhr6k#a"
+      "clave": "Vhr6k#a",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Salud",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Ilustre Hermandad y Cofradía del Santísimo Cristo de la Salud, Nuestra Señora de los Dolores, Divino Infante Rey Pacífico y Santa Cruz de Jerusalén"
     },
     {
       "id": "se-lepe-hdad-santo-entierro-y-soledad",
@@ -962,7 +2040,26 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-lepe-hdad-santo-entierro-y-soledad",
-      "clave": "Xeh4i@q"
+      "clave": "Xeh4i@q",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Muy Ilustre y Antigua Hermandad Sacramental y Cofradía del Santo Entierro de Cristo y María Santísima de la Soledad"
     },
     {
       "id": "se-lepe-hdad-oracion-en-el-huerto-y-victoria",
@@ -973,7 +2070,26 @@
       "dia": null,
       "anio": 2026,
       "codigo": "ss-lepe-hdad-oracion-en-el-huerto-y-victoria",
-      "clave": "Dnc5s+p"
+      "clave": "Dnc5s+p",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús en la Oración en el Huerto",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Victoria",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de la Sagrada Oración de Jesús en el Huerto, María Santísima de la Victoria y San Judas Tadeo"
     },
     {
       "id": "se-lepe-hdad-vera-cruz",
@@ -984,7 +2100,20 @@
       "dia": null,
       "anio": 2026,
       "codigo": "ss-lepe-hdad-vera-cruz",
-      "clave": "Pmh3n&c"
+      "clave": "Pmh3n&c",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vera Cruz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de la Pura y Limpia Concepción de Nuestra Señora y Cofradía de la Santa Vera Cruz y Sangre de Nuestro Señor Jesucristo"
     },
     {
       "id": "se-cartaya-hdad-entrada-triunfal-borriquita",
@@ -995,7 +2124,20 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-cartaya-hdad-entrada-triunfal-borriquita",
-      "clave": "Yrz3u@c"
+      "clave": "Yrz3u@c",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Jesús en su Entrada Triunfal en Jerusalén",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de la Entrada Triunfal de Jesús en Jerusalén"
     },
     {
       "id": "se-cartaya-hdad-jesus-cautivo-y-esperanza",
@@ -1006,7 +2148,26 @@
       "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-cartaya-hdad-jesus-cautivo-y-esperanza",
-      "clave": "Zmu6h?m"
+      "clave": "Zmu6h?m",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Cautivo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Esperanza",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestro Padre Jesús Cautivo y María Santísima de la Esperanza"
     },
     {
       "id": "se-cartaya-hdad-vera-cruz-y-amargura",
@@ -1017,7 +2178,26 @@
       "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-cartaya-hdad-vera-cruz-y-amargura",
-      "clave": "Ncr8n%n"
+      "clave": "Ncr8n%n",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Vera+Cruz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Amargura",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Santísimo Cristo de la Vera+Cruz, María Santísima de la Amargura, San Juan Evangelista y San Sebastián Mártir"
     },
     {
       "id": "se-cartaya-hdad-nuestro-padre-jesus-nazareno-y-dolores",
@@ -1028,7 +2208,26 @@
       "dia": "Madrugá",
       "anio": 2026,
       "codigo": "ss-cartaya-hdad-nuestro-padre-jesus-nazareno-y-dolores",
-      "clave": "Ghp4i&m"
+      "clave": "Ghp4i&m",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Nuestro Padre Jesús Nazareno y María Santísima de los Dolores"
     },
     {
       "id": "se-cartaya-hdad-sacramental-y-santo-entierro",
@@ -1039,7 +2238,20 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-cartaya-hdad-sacramental-y-santo-entierro",
-      "clave": "Lhr4p?g"
+      "clave": "Lhr4p?g",
+      "foto": "",
+      "sede": "",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad Sacramental del Santo Entierro de Cristo"
     },
     {
       "id": "se-gibraleon-hdad-cristo-joven-de-la-borriquita-y-nazaret",
@@ -1050,7 +2262,26 @@
       "dia": "Domingo de Ramos",
       "anio": 2026,
       "codigo": "ss-gibraleon-hdad-cristo-joven-de-la-borriquita-y-nazaret",
-      "clave": "Zhm8k#u"
+      "clave": "Zhm8k#u",
+      "foto": "",
+      "sede": "Parroquia de San Juan Bautista",
+      "fundacion": "1994",
+      "historia": "Procesiona el Domingo de Ramos. Cristo y Virgen son obra de Francisco José Zamudio (1991 y 1994).",
+      "pasos": [
+        {
+          "nombre": "El Cristo Joven de la Borriquita",
+          "foto": "",
+          "autor": "Francisco José Zamudio (1991)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de Nazaret",
+          "foto": "",
+          "autor": "Francisco José Zamudio (1994)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Cristo Joven de la Borriquita y María Santísima de Nazaret"
     },
     {
       "id": "se-gibraleon-hdad-cristo-de-la-misericordia-azotes-y-sion",
@@ -1061,7 +2292,26 @@
       "dia": "Martes Santo",
       "anio": 2026,
       "codigo": "ss-gibraleon-hdad-cristo-de-la-misericordia-azotes-y-sion",
-      "clave": "Nnj8u%q"
+      "clave": "Nnj8u%q",
+      "foto": "",
+      "sede": "Hogar de Sión",
+      "fundacion": "",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Cristo de la Misericordia Atado a la Columna de los Azotes",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de Sión (palio)",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Santo Cristo de la Misericordia Atado a la Columna de los Azotes, María Santísima de Sión y San Juan Evangelista"
     },
     {
       "id": "se-gibraleon-hdad-nuestro-padre-jesus-nazareno-y-dolores",
@@ -1072,7 +2322,26 @@
       "dia": "Miércoles Santo",
       "anio": 2026,
       "codigo": "ss-gibraleon-hdad-nuestro-padre-jesus-nazareno-y-dolores",
-      "clave": "Tcz3i#a"
+      "clave": "Tcz3i#a",
+      "foto": "",
+      "sede": "",
+      "fundacion": "1927 (de la antigua Cofradía de Nuestro Padre Jesús Atado a la Columna, 1887)",
+      "historia": "Procede de la antigua Cofradía de Nuestro Padre Jesús Atado a la Columna (1887).",
+      "pasos": [
+        {
+          "nombre": "Nuestro Padre Jesús Nazareno",
+          "foto": "",
+          "autor": "Moreno Daza (1952)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Dolores",
+          "foto": "",
+          "autor": "Gómez del Castillo (1940)",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad de Penitencia y Cofradía de Nazarenos de Nuestro Padre Jesús Nazareno, Santa Cruz en Jerusalén y Nuestra Señora de los Dolores"
     },
     {
       "id": "se-gibraleon-hdad-cristo-de-la-sangre-y-soledad",
@@ -1083,7 +2352,26 @@
       "dia": "Jueves Santo",
       "anio": 2026,
       "codigo": "ss-gibraleon-hdad-cristo-de-la-sangre-y-soledad",
-      "clave": "Nft9m*b"
+      "clave": "Nft9m*b",
+      "foto": "",
+      "sede": "Iglesia del Carmen",
+      "fundacion": "",
+      "historia": "El Cristo de la Sangre, de honda devoción olontense, fue nombrado Alcalde Honorario Perpetuo de Gibraleón en 1993. Procesiona el Jueves Santo.",
+      "pasos": [
+        {
+          "nombre": "Cristo de la Sangre",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Hermandad del Cristo de la Sangre y María Santísima de la Soledad"
     },
     {
       "id": "se-gibraleon-hdad-de-los-servitas-santo-entierro",
@@ -1094,7 +2382,32 @@
       "dia": "Viernes Santo",
       "anio": 2026,
       "codigo": "ss-gibraleon-hdad-de-los-servitas-santo-entierro",
-      "clave": "Nmg5f#w"
+      "clave": "Nmg5f#w",
+      "foto": "",
+      "sede": "Iglesia de Santiago el Mayor",
+      "fundacion": "1777",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Cristo de la Buena Muerte",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Santo Entierro",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de los Dolores",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "nombre_oficial": "Venerable Hermandad y Antigua Cofradía de la III Orden de los Servitas de Nuestra Señora de los Dolores, Santo Entierro y Cristo de la Buena Muerte"
     },
     {
       "id": "ca-isla-cristina-carnaval-de-isla-cristina",
@@ -1304,11 +2617,82 @@
       "dia": "Sábado de Pasión",
       "anio": 2026,
       "pasos": [
-        "Ntro. Padre Jesús de la Bendición ante Caifás",
-        "María Stma. del Dulce Nombre y de la Paz"
+        {
+          "nombre": "Ntro. Padre Jesús de la Bendición ante Caifás",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        },
+        {
+          "nombre": "María Stma. del Dulce Nombre y de la Paz",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
       ],
       "codigo": "ss-huelva-hdad-bendicion",
-      "clave": "Zu2*unv"
+      "clave": "Zu2*unv",
+      "historia": "Hermandad que representa el pasaje del juicio de Jesús ante el sumo sacerdote Caifás."
+    },
+    {
+      "id": "ss-aracena-hdad-el-silencio",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. El Silencio",
+      "nombre_oficial": "Ilustre, Antigua y Fervorosa Hermandad de Penitencia y Cofradía de Nazarenos del Silencio del Santísimo Cristo de la Plaza y María Santísima de Gracia y Esperanza",
+      "dia": "Viernes Santo",
+      "anio": 2026,
+      "foto": "",
+      "sede": "",
+      "fundacion": "29 de diciembre de 1955",
+      "historia": "Conocida como 'El Silencio'.",
+      "pasos": [
+        {
+          "nombre": "Santísimo Cristo de la Plaza",
+          "foto": "",
+          "autor": "Sebastián Santos Rojas (1946)",
+          "historia": ""
+        },
+        {
+          "nombre": "Nuestra Señora de Gracia y Esperanza",
+          "foto": "",
+          "autor": "Antonio Illanes Rodríguez (1964)",
+          "historia": ""
+        }
+      ],
+      "codigo": "ss-aracena-hdad-el-silencio",
+      "clave": "Ab6*Akn"
+    },
+    {
+      "id": "ss-aracena-hdad-santo-entierro",
+      "municipio": "Aracena",
+      "comarca": "Sierra",
+      "tipo": "SEMANA_SANTA",
+      "nombre": "Hdad. Santo Entierro",
+      "nombre_oficial": "Venerable e Ilustre Hermandad Sacramental del Santo Entierro de Cristo y María Santísima de la Soledad",
+      "dia": "Sábado Santo",
+      "anio": 2026,
+      "foto": "",
+      "sede": "",
+      "fundacion": "Documentada desde 1582",
+      "historia": "",
+      "pasos": [
+        {
+          "nombre": "Santo Entierro de Cristo",
+          "foto": "",
+          "autor": "Antonio Perea Sánchez (1959)",
+          "historia": ""
+        },
+        {
+          "nombre": "María Santísima de la Soledad",
+          "foto": "",
+          "autor": "",
+          "historia": ""
+        }
+      ],
+      "codigo": "ss-aracena-hdad-santo-entierro",
+      "clave": "Zf8*cng"
     }
   ]
 }

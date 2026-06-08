@@ -1,0 +1,26 @@
+{
+  "rules": {
+    "posiciones": {
+      ".read": true,
+      "$codigo": {
+        ".write": "(root.child('claves').child($codigo).exists() && (newData.exists() ? newData.child('clave').val() : data.child('clave').val()) === root.child('claves').child($codigo).val()) && (!data.exists() || !newData.exists() || data.child('ts').val() < (now - 60000) || newData.child('sid').val() === data.child('sid').val())",
+        ".validate": "newData.hasChildren(['lat','lng','ts','clave','sid'])",
+        "lat": { ".validate": "newData.isNumber() && newData.val() >= 35 && newData.val() <= 38.6" },
+        "lng": { ".validate": "newData.isNumber() && newData.val() >= -7.6 && newData.val() <= -6.1" },
+        "ts": { ".validate": "newData.isNumber() && newData.val() <= now + 5000" },
+        "sid": { ".validate": "newData.isString() && newData.val().length >= 4 && newData.val().length < 40" },
+        "bateria": { ".validate": "newData.isNumber()" },
+        "precision": { ".validate": "newData.isNumber()" },
+        "modo": { ".validate": "newData.isString() && newData.val().length < 12" },
+        "nombre": { ".validate": "newData.isString() && newData.val().length < 120" },
+        "municipio": { ".validate": "newData.isString() && newData.val().length < 80" },
+        "clave": { ".validate": "newData.isString() && newData.val().length < 60" },
+        "$otro": { ".validate": false }
+      }
+    },
+    "claves": {
+      ".read": false,
+      ".write": false
+    }
+  }
+}

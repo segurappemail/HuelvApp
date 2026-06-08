@@ -1,0 +1,60 @@
+{
+  "_nota": "Fichas de 'Fiestas Especiales' de HuelvApp. Edita textos, subtítulos y fotos y súbelo a GitHub (enlace RAW) en FICHAS_URL (app/build.gradle). 'fuente_tipo' enlaza el listado por pueblo con eventos_emisor.json (mismo 'tipo'); si está vacío, la ficha no muestra listado. 'foto' admite cualquier URL de imagen libre (deja vacío para banner con degradado).",
+  "version": "1.1",
+  "fichas": [
+    {
+      "key": "SEMANA_SANTA",
+      "emoji": "🕯️",
+      "titulo": "Semana Santa",
+      "subtitulo": "Hermandades y pasos por pueblo y ciudad",
+      "fuente_tipo": "SEMANA_SANTA",
+      "foto": "https://es.wikipedia.org/wiki/Special:FilePath/Semana_Santa_Huelva_003.JPG",
+      "texto": "La Semana Santa onubense hunde sus raíces en el siglo XVI. Las cofradías más antiguas de la provincia son las de la Vera+Cruz, documentadas ya en la primera mitad del s. XVI en pueblos como Ayamonte, Moguer, Aracena o Hinojos (donde la Vera+Cruz se remonta a finales del s. XV).\n\nEn la capital, las advocaciones más antiguas son la Vera+Cruz y el Santo Entierro, con sede histórica en la parroquia de la Purísima Concepción (1515). La Semana Santa de Ayamonte está declarada Fiesta de Interés Turístico Nacional.\n\nCada pueblo procesiona del Domingo de Ramos al Domingo de Resurrección, con su Madrugá y sus pasos de Cristo y de palio."
+    },
+    {
+      "key": "ROCIO",
+      "emoji": "🕊️",
+      "titulo": "El Rocío",
+      "subtitulo": "La mayor romería de España (Almonte)",
+      "fuente_tipo": "",
+      "foto": "https://es.wikipedia.org/wiki/Special:FilePath/Virgen_Rocio.jpg",
+      "texto": "La Romería de El Rocío (Almonte) es la mayor de España y está declarada Fiesta de Interés Turístico Internacional desde 1980. Se celebra en Pentecostés, siete semanas después del Domingo de Resurrección, en la aldea de El Rocío, a las puertas de Doñana, y llega a reunir cerca de un millón de personas.\n\nMás de un centenar de hermandades filiales peregrinan desde toda Andalucía —y más allá— hasta la ermita de Nuestra Señora del Rocío, “La Blanca Paloma”. La hermandad matriz es la de Almonte.\n\nEl momento culminante es el “salto de la reja”, en la madrugada del Lunes de Pentecostés, cuando los almonteños sacan a la Virgen y la pasean en procesión durante horas entre la multitud."
+    },
+    {
+      "key": "ROMERIA",
+      "emoji": "🌿",
+      "titulo": "Romerías",
+      "subtitulo": "La Bella, Montemayor, la Peña, San Benito…",
+      "fuente_tipo": "ROMERIA",
+      "foto": "",
+      "texto": "Más allá del Rocío, la provincia vive un calendario intensísimo de romerías durante la primavera y el verano. Destacan la Romería de la Bella (Lepe), en honor a Santa María de la Bella y declarada de Interés Turístico de Andalucía; la de Nuestra Señora de Montemayor (Moguer); la Virgen de la Peña (Puebla de Guzmán), muy arraigada en el Andévalo; y San Benito Abad (El Cerro de Andévalo), célebre por sus tradicionales danzas. A ellas se suman muchas otras por el Andévalo, la Costa, el Condado y la Sierra, cada una con su camino, su hermandad y sus carretas engalanadas."
+    },
+    {
+      "key": "CARNAVAL",
+      "emoji": "🎭",
+      "titulo": "Carnavales",
+      "subtitulo": "Isla Cristina, Ayamonte, Colombino…",
+      "fuente_tipo": "CARNAVAL",
+      "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Isla_Cristina_comparsa.jpg",
+      "texto": "Los carnavales más conocidos de la provincia son los de Isla Cristina y Ayamonte, de hondo arraigo marinero y con agrupaciones muy reconocidas. El de Isla Cristina, uno de los más antiguos y multitudinarios de Huelva, llena las calles de comparsas, chirigotas y murgas, y culmina con el popular Entierro de la Sardina. En la capital se celebra el Carnaval Colombino. Coplas, disfraces y pasacalles animan los pueblos entre febrero y marzo."
+    },
+    {
+      "key": "CABALGATA_REYES",
+      "emoji": "👑",
+      "titulo": "Cabalgatas de Reyes",
+      "subtitulo": "Higuera de la Sierra y muchas más",
+      "fuente_tipo": "CABALGATA_REYES",
+      "foto": "",
+      "texto": "La cabalgata más singular de la provincia es la de Higuera de la Sierra, que se celebra desde 1918 y está considerada una de las más antiguas de España y la más antigua de Andalucía. Su rasgo único es que son los propios vecinos quienes representan escenas bíblicas sobre las carrozas permaneciendo totalmente inmóviles, como esculturas vivientes. Cada 5 de enero desfilan alrededor de dieciséis carrozas y está declarada Fiesta de Interés Turístico. También son muy populares las cabalgatas de la capital y de otros muchos municipios onubenses."
+    },
+    {
+      "key": "FIESTA",
+      "emoji": "🎉",
+      "titulo": "Fiestas Colombinas",
+      "subtitulo": "Agosto, en honor a la gesta colombina",
+      "fuente_tipo": "FIESTA",
+      "foto": "",
+      "texto": "Las Fiestas Colombinas de Huelva se celebran a comienzos de agosto, en torno al 3 de agosto, aniversario de la partida de las naves de Colón desde el puerto de Palos de la Frontera en 1492. Son la gran cita del verano en la capital: conciertos de primeras figuras, casetas, actividades culturales y deportivas y un ambiente festivo que llena la ciudad durante casi una semana."
+    }
+  ]
+}
