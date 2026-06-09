@@ -1,0 +1,19 @@
+{
+  "_comentario": "Eventos propios de la agenda de HuelvApp (añadidos desde el panel). Se suman a los oficiales.",
+  "version": "2026-06-09",
+  "eventos": [
+    {
+      "id": "ag_1781047210426",
+      "nombre": "8hcc88hcihc",
+      "descripcion": "Ocho hi",
+      "municipio": "Huelva",
+      "lugar": "",
+      "fecha": "2026-06-10",
+      "duracion_dias": 1,
+      "hora": "",
+      "categoria": "CULTURAL",
+      "web": "",
+      "origen": "PROPIO"
+    }
+  ]
+}
