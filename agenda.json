@@ -1,6 +1,6 @@
 {
   "_comentario": "Eventos propios de la agenda de HuelvApp (añadidos desde el panel). Se suman a los oficiales.",
-  "version": "2026-06-09",
+  "version": "2026-06-10",
   "eventos": [
     {
       "id": "ag_1781047210426",
