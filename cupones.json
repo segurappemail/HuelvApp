@@ -1,3 +1,21 @@
 {
-  "cupones": []
+  "cupones": [
+    {
+      "id": "cup_salva_dic_3872",
+      "empresaCodigo": "Salva",
+      "empresaId": 1,
+      "empresa": "Salva",
+      "titulo": "Dic",
+      "descripcion": "",
+      "descuento": "2x1",
+      "codigo": "",
+      "valido_desde": "2026-06-11",
+      "valido_hasta": "2026-06-13",
+      "condiciones": "",
+      "canje": "fisico",
+      "municipio": "Huelva",
+      "categoria": "GASTRONOMIA",
+      "cumple": false
+    }
+  ]
 }
